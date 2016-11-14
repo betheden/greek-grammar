@@ -1,1 +1,0 @@
-# noun_other_type_indeclinable
