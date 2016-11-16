@@ -1,0 +1,45 @@
+<table>
+  <tr>
+    <th colspan="3">The Article</th>
+  </tr>
+  <tr>
+    <td>ὁ</td>
+    <td>ἡ</td>
+    <td>το</td>
+  </tr>
+  <tr>
+    <td>του</td>
+    <td>της</td>
+    <td>του</td>
+  </tr>
+  <tr>
+    <td>τῳ</td>
+    <td>τῃ</td>
+    <td>τῳ</td>
+  </tr>
+  <tr>
+    <td>τον</td>
+    <td>την</td>
+    <td>το</td>
+  </tr>
+  <tr>
+    <td>οἱ</td>
+    <td>αἱ</td>
+    <td>τα</td>
+  </tr>
+  <tr>
+    <td>των</td>
+    <td>των</td>
+    <td>των</td>
+  </tr>
+  <tr>
+    <td>τοις</td>
+    <td>ταις</td>
+    <td>τοις</td>
+  </tr>
+  <tr>
+    <td>τους</td>
+    <td>τας</td>
+    <td>τα</td>
+  </tr>
+</table>
