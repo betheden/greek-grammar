@@ -1,45 +1,52 @@
 <table>
   <tr>
-    <th colspan="3">The Article</th>
+    <th>Header1</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>ὁ</td>
-    <td>ἡ</td>
-    <td>το</td>
+    <td>πας, πασα, παν</td>
+    <td>πασα,</td>
+    <td>παν</td>
   </tr>
   <tr>
-    <td>του</td>
-    <td>της</td>
-    <td>του</td>
+    <td>πας</td>
+    <td>πασα</td>
+    <td>παν</td>
   </tr>
   <tr>
-    <td>τῳ</td>
-    <td>τῃ</td>
-    <td>τῳ</td>
+    <td>παντος</td>
+    <td>πασης</td>
+    <td>παντος</td>
   </tr>
   <tr>
-    <td>τον</td>
-    <td>την</td>
-    <td>το</td>
+    <td>παντι</td>
+    <td>πασῃ</td>
+    <td>παντι</td>
   </tr>
   <tr>
-    <td>οἱ</td>
-    <td>αἱ</td>
-    <td>τα</td>
+    <td>παντα</td>
+    <td>πασαν</td>
+    <td>παν</td>
   </tr>
   <tr>
-    <td>των</td>
-    <td>των</td>
-    <td>των</td>
+    <td>παντες</td>
+    <td>πασαι</td>
+    <td>παντα</td>
   </tr>
   <tr>
-    <td>τοις</td>
-    <td>ταις</td>
-    <td>τοις</td>
+    <td>παντων</td>
+    <td>πασων</td>
+    <td>παντων</td>
   </tr>
   <tr>
-    <td>τους</td>
-    <td>τας</td>
-    <td>τα</td>
+    <td>πασι(ν)</td>
+    <td>πασαις</td>
+    <td>πασι(ν)</td>
+  </tr>
+  <tr>
+    <td>παντας</td>
+    <td>πασας</td>
+    <td>παντα</td>
   </tr>
 </table>
