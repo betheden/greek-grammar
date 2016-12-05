@@ -14,6 +14,8 @@ Decker, Rodney J. *Reading Koine Greek: An Introduction and Integrated Workbook.
 
 Dionysios Thrax. *The Grammar of Dionysios Thrax. *Translated by Thomas Davidson. St. Louis: R. P. Studley, 1874.
 
+Fanning, Buist M. *Verbal Aspect in New Testament Greek*. Oxford Theological Monographs. Oxford: Clarendon, 1990.
+
 Farrar, Frederic W. *A Brief Greek Syntax and Hints on Greek Accidence. *London: Longmans, Green, and Co., 1867.
 
 Groton, Anne H. *From Alpha to Omega: A Beginning Course in Classical Greek.* Fourth Edition. Newburyport, MA: Focus Publishing, 2013.
