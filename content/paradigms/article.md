@@ -1,52 +1,71 @@
 <table>
   <tr>
-    <th>Header1</th>
-    <th></th>
-    <th></th>
+    <th colspan="4">The Definite Article ("The")</th>
   </tr>
   <tr>
-    <td>πας, πασα, παν</td>
-    <td>πασα,</td>
-    <td>παν</td>
+    <td colspan="4">Singular</td>
   </tr>
   <tr>
-    <td>πας</td>
-    <td>πασα</td>
-    <td>παν</td>
+    <td></td>
+    <td>Masculine</td>
+    <td>Feminine</td>
+    <td>Neuter</td>
   </tr>
   <tr>
-    <td>παντος</td>
-    <td>πασης</td>
-    <td>παντος</td>
+    <td>Nominative</td>
+    <td>ὁ = the</td>
+    <td>ἡ = the</td>
+    <td>τό = the</td>
   </tr>
   <tr>
-    <td>παντι</td>
-    <td>πασῃ</td>
-    <td>παντι</td>
+    <td>Genitive</td>
+    <td>τοῦ = of the</td>
+    <td>τῆς = of the</td>
+    <td>τοῦ = of the</td>
   </tr>
   <tr>
-    <td>παντα</td>
-    <td>πασαν</td>
-    <td>παν</td>
+    <td>Dative</td>
+    <td>τῷ = to the</td>
+    <td>τῇ = to the</td>
+    <td>τῷ = to the</td>
   </tr>
   <tr>
-    <td>παντες</td>
-    <td>πασαι</td>
-    <td>παντα</td>
+    <td>Accusative</td>
+    <td>τόν = the</td>
+    <td>τήν = the</td>
+    <td>τό = the</td>
   </tr>
   <tr>
-    <td>παντων</td>
-    <td>πασων</td>
-    <td>παντων</td>
+    <td colspan="4">Plural</td>
   </tr>
   <tr>
-    <td>πασι(ν)</td>
-    <td>πασαις</td>
-    <td>πασι(ν)</td>
+    <td></td>
+    <td>Masculine</td>
+    <td>Feminine</td>
+    <td>Neuter</td>
   </tr>
   <tr>
-    <td>παντας</td>
-    <td>πασας</td>
-    <td>παντα</td>
+    <td>Nominative</td>
+    <td>οί = the</td>
+    <td>αί = the</td>
+    <td>τά = the</td>
+  </tr>
+  <tr>
+    <td>Genitive</td>
+    <td>τῶν = the</td>
+    <td>τῶν = the</td>
+    <td>τῶν = the</td>
+  </tr>
+  <tr>
+    <td>Dative</td>
+    <td>τοῖς = the</td>
+    <td>ταῖς = the</td>
+    <td>τοῖς = the</td>
+  </tr>
+  <tr>
+    <td>Accusative</td>
+    <td>τοῦς = the</td>
+    <td>τάς = the</td>
+    <td>τά = the</td>
   </tr>
 </table>
