@@ -44,7 +44,7 @@ Porter, Stanley E., Jeffrey T. Reed, and Matthew Brook O’Donnell. *Fundamental
 
 Robertson, A. T. *A Grammar of the Greek New Testament in the Light of Historical Research.* Logos Bible Software, 2006.
 
-Sophocles, E. A. A* Greek Grammar, for the Use of Learners*. Ninth Edition. Hartford: H. Huntington, 1844.
+Sophocles, E. A. *A Greek Grammar, for the Use of Learners*. Ninth Edition. Hartford: H. Huntington, 1844.
 
 Summers, Ray, and Thomas Sawyer. *Essentials of New Testament Greek*. Rev. ed. Nashville, TN: Broadman & Holman, 1995.
 
