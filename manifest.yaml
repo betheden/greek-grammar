@@ -34,8 +34,7 @@ checking:
 
 projects:
   -
-    categories:
-      - 'ta'
+    categories: []
     identifier: 'content'
     path: './content'
     sort: 0
