@@ -5,29 +5,8 @@ This is the repository for a reference grammar for biblical Greek based on the [
 Documentation for the Unlocked Grammar projects can be found here: http://ug-info.readthedocs.io/en/latest/
 
 Status as of 12/6/2017
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current');   // Don't need to specify chart libraries!
-      google.charts.setOnLoadCallback(drawVisualization);
 
-      function drawVisualization() {
-        var wrapper = new google.visualization.ChartWrapper({
-          chartType: 'ColumnChart',
-          dataTable: [['', 'Total', 'InProgress', 'Edit'],
-                      ['', 32, 29, 3]],
-          options: {'title': 'UGG Glossary Topics Status'},
-          containerId: 'vis_div'
-        });
-        wrapper.draw();
-      }
-    </script>
-  </head>
-  <body style="font-family: Arial;border: 0 none;">
-    <div id="vis_div" style="width: 700px; height: 400px;"></div>
-  </body>
-</html>
+
 
 Volunteers are needed to:
 * Create glossary and article entries for the grammar
