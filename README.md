@@ -3,9 +3,8 @@
 This is the repository for a reference grammar for biblical Greek based on the [parsing codes](https://git.door43.org/Door43/en_ugg/src/master/parsingscheme_updated.pdf) that show up in the [Bunning Heuristic Prototype](https://git.door43.org/Door43/en_ugg/src/master/BHP20170517.xlsx) of the UGNT.
 
 Documentation for the Unlocked Grammar projects can be found here: http://ug-info.readthedocs.io/en/latest/
-
-Status as of 12/6/2017
-![status](https://git.door43.org/Door43/en_ugg/src/master/images/Capture.PNG)
+ 
+![Status](https://git.door43.org/Door43/en_ugg/src/master/images/Capture.PNG) as of 12/6/2017
 
 Volunteers are needed to:
 * Create glossary and article entries for the grammar
