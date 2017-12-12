@@ -4,7 +4,7 @@ This is the repository for a reference grammar for biblical Greek based on the [
 
 Documentation for the Unlocked Grammar projects can be found here: http://ug-info.readthedocs.io/en/latest/
  
-![Status](https://git.door43.org/Door43/en_ugg/src/master/images/Capture.PNG) as of 12/6/2017
+![Status](https://git.door43.org/Door43/en_ugg/src/master/images/Capture.PNG) as of 12/12/2017
 
 Volunteers are needed to:
 * Create glossary and article entries for the grammar
