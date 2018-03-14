@@ -1,0 +1,43 @@
+---
+
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - 'Todd L. Price'
+    - 'Todd L. Price'
+  creator: 'Door43 World Missions Community'
+  description: 'An open-licensed Greek grammar (reference first, eventually for teaching), providing information about Greek grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the New Testament.'
+  format: 'text/markdown'
+  identifier: 'ugg'
+  issued: '2018-01-26'
+  language:
+    identifier: 'en'
+    title: 'English'
+    direction: 'ltr'
+  modified: '2018-01-26'
+  publisher: 'unfoldingWord'
+  relation:
+    - 'en/ugnt'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'ugg'
+      language: 'en'
+      version: '0'
+  subject: 'Greek Grammar'
+  title: 'Unlocked Greek Grammar'
+  type: 'man'
+  version: '0'
+
+checking:
+  checking_entity: []
+  checking_level: '1'
+
+projects:
+  -
+    categories: []
+    identifier: 'content'
+    path: './content'
+    sort: 0
+    title: 'Unlocked Greek Grammar'
+    versification:
