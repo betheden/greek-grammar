@@ -25,7 +25,7 @@ dublin_core:
       language: 'en'
       version: '0'
   subject: 'Greek Grammar'
-  title: 'Unlocked Greek Grammar'
+  title: 'unfoldingWord Greek Grammar'
   type: 'man'
   version: '0'
 
@@ -39,5 +39,5 @@ projects:
     identifier: 'content'
     path: './content'
     sort: 0
-    title: 'Unlocked Greek Grammar'
+    title: 'unfoldingWord Greek Grammar'
     versification:

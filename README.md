@@ -1,8 +1,8 @@
-# English Unlocked Greek Grammar
+# unfoldingWord Greek Grammar
 
 This is the repository for a reference grammar for biblical Greek based on the [parsing codes](https://git.door43.org/Door43/en_ugg/src/master/parsingscheme_updated.pdf) that show up in the [Bunning Heuristic Prototype](https://git.door43.org/Door43/en_ugg/src/master/BHP20170517.xlsx) of the UGNT.
 
-Documentation for the Unlocked Grammar projects can be found here: http://ug-info.readthedocs.io/en/latest/
+Documentation for the unfoldingWord Grammar projects can be found here: http://ug-info.readthedocs.io/en/latest/
  
 ![Status](https://git.door43.org/Door43/en_ugg/src/master/images/UGGStatus.JPG) as of 03/16/2018
 
