@@ -1,3 +1,5 @@
+<a href="https://ugg.readthedocs.io/"><img src="https://readthedocs.org/projects/ugg/badge/?version=latest"></a>
+
 # unfoldingWord Greek Grammar
 
 This is the repository for a reference grammar for biblical Greek based on the [parsing codes](https://git.door43.org/Door43/en_ugg/src/master/parsingscheme_updated.pdf) that show up in the [Bunning Heuristic Prototype](https://git.door43.org/unfoldingWord/BHP) of the UGNT.
