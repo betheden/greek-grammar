@@ -4,7 +4,6 @@ dublin_core:
   conformsto: 'rc0.2'
   contributor:
     - 'Todd L. Price'
-    - 'Todd L. Price'
   creator: 'Door43 World Missions Community'
   description: 'An open-licensed Greek grammar (reference first, eventually for teaching), providing information about Greek grammatical elements. It enables the global Church to gain the best possible understanding of the grammar of the original texts of the New Testament.'
   format: 'text/markdown'
