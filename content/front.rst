@@ -29,6 +29,10 @@ people were instrumental in the creation of the UGG:
 
 -  Chapel Presson (BA Pre-Seminary Studies/Bible, Central Bible College;
    MDiv, Liberty Baptist Theological Seminary)
+   
+-  Todd L. Price (BA Biblical Languages, Calvary Bible College; MA Biblical
+   Languages, Midwestern Baptist Theological Seminary; PhD New Testament &
+   Corpus Linguistics, London School of Theology)
 
 License
 -------
