@@ -55,10 +55,6 @@ First person aorist active indicative plural		ἐλύομεν	elyomen			We loose
 First person aorist passive indicative singular		ἐλυόμην	elyomēn			I was loosed
 =============================================== 	======= ===============	==========================
 
-
-
-
-
 **Personal pronouns also have person and appear in various forms.**
 
 Greek distinguishes between  [Number Singular](https://ugg.readthedocs.io/en/latest/number_singular.html) and 
@@ -69,37 +65,44 @@ Greek distinguishes between  [Number Singular](https://ugg.readthedocs.io/en/lat
 
 
 
-First Person Personal Pronoun Forms
-Parsing	Greek	Transliteration	Gloss
-first person nominative singular	ἐγώ	egō	I
-first person nominative plural	ἡμεἶς	hēmeis	we
-first person genitive singular	ἐμοὖ, μοὖ	emou , mou	of me, my
-first person genitive plural	ἡμὦν	hēmōn	of us, our
-first person dative singular	ἐμοί, μοί	emoi , moi	to me
-first person dative plural	ἡμἶν	hēmin	to us
-first person accusative singular	ἐμέ, μέ	eme, me	me
-first person accusative plural	ἡμἆς	hēmas	us
+**First Person Personal Pronoun Forms**
+================================	=========	===============	=========
+Parsing								Greek		Transliteration	Gloss
+================================	=========	===============	=========
+first person nominative singular	ἐγώ			egō				I
+first person nominative plural		ἡμεἶς		hēmeis			we
+first person genitive singular		ἐμοὖ, μοὖ	emou , mou		of me, my
+first person genitive plural		ἡμὦν		hēmōn			of us, our
+first person dative singular		ἐμοί, μοί	emoi , 			moi	to me
+first person dative plural			ἡμἶν		hēmin			to us
+first person accusative singular	ἐμέ, μέ		eme, me			me
+first person accusative plural		ἡμἆς		hēmas			us
+================================	=========	===============	==========
 
 
-## Function
-### Verb Forms
+Function
+^^^^^^^^
+Verb Forms
+""""""""""
 
-A first person can be used  in a sentence (or a clause) as the subject, an object, or to indicate possession. Personal pronouns may 
+A first person can be used in a sentence (or a clause) as the subject, an object, or to indicate possession. Personal pronouns may 
 also be the object of a preposition.  The number (singular or plural) will agree with its antecedent.  However, the case will depend on 
 its function in the sentence (or clause).
 
 
-###### Subject
+Subject
+'''''''
 The subject in a sentence is usually the person or thing which does the action of the verb.  However, if the verb is in the passive voice, the subject receives the action of the verb.
 
 
 John 3:11
 
-
+=====================================================================================================================
 ἀμὴν	ἀμὴν	λέγω	σοι	ὅτι	ὃ	οἴδαμεν	λαλοῦμεν	καὶ	ὃ	ἑωράκαμεν	μαρτυροῦμεν
 amēn	amēn	legō	soi	hoti	ho	oidamen	laloumen	kai	ho	heōrakamen	martyroumen
 Truly	truly	I say	to you	that	what	we know	we are speaking	and	what	we have seen	we are testifying
-Truly, truly, I say to you, we speak what we know, and we testify about what we have seen.
+Truly, truly, I say to you, we speak what we know, and we testify about what we have seen
+======================================================================================================================
 
 
 The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  Therefore an emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
@@ -107,165 +110,131 @@ The personal ending of the verb is generally sufficient to show the person and n
 
 
 John 14:6
+
+=======================================================
 ἐγώ	εἰμι	ἡ	ὁδὸς	καὶ	ἡ	ἀλήθεια	καὶ	ἡ	ζωή
 									
 egō	eimi	hē	hodos	kai	hē	alētheia	kai	hē	zōē
 									
 I	am	the	way	and	the	truth	and	the	life
 									
-I am the way and the truth and the life.
-
+I am the way and the truth and the life
+=======================================================
  
- 
-εἰμί is a first person singular present active indicative verb and indicates the number and subject of the sentence.  Therefore the addition of the personal pronoun <b>ἐγώ</b>  places a slight emphasis on the pronoun.
+εἰμί is a first person singular present active indicative verb and indicates the number and subject of the sentence.  Therefore the 
+addition of the personal pronoun <b>ἐγώ</b>  places a slight emphasis on the pronoun.
 
-## As a [Pronoun Personal](https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal)
+As a [Pronoun Personal](https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal)
+-----------------------
 
 The personal pronoun can be used in all cases.
 
-### Prepositions
+Prepositions
+^^^^^^^^^^^^
 
-First person personal pronouns can be the object of a preposition.  They therefore can occur in the Genitive, Dative, or Accusative case depending upon the preposition.
+First person personal pronouns can be the object of a preposition.  They therefore can occur in the Genitive, Dative, or 
+Accusative case depending upon the preposition.
 
+**First person personal pronoun - preposition**
 
-<table>
-<caption><b>First person personal pronoun- preposition</b></caption>
-<tr>
-<td colspan="2">John 6:44</td>
-</tr>
-<tr>
-<td>οὐδεὶς</td><td>	δύναται</td><td>ἐλθεῖν</td><td>	πρός</td><th>με</th><td>ἐὰν</td><td>μὴ</td><td>ὁ</td><td>Πατὴρ</td><td>ὁ</td><td>πέμψας</td><td>με</td><td>ἑλκύσῃ</td><td>αὐτόν</td>
-</tr>
-<tr>
-<td>oudeis</td><td>dynatai</td><td>elthein</td><td>pros</td><th>me</th><td>ean</td><td>mē</td><td>ho</td><td>Patēr</td><td>ho</td><td>pempsas</td><td>me</td><td>helkysē</td><td>auton</td>
-</tr>
-<tr>
-<td>no one</td><td>is able</td><td>to come</td><td>	to</td><th>me</th><td>if</td><td>not</td><td>the</td><td>father</td><td>who sent</td><td>me</td><td>draws</td><td>him</td>
-</tr>
-<tr>
-<td colspan="14">No one can come to <b>me</b> unless the Father who sent me draws him,…</td>
-</tr>
-</table>
+John 6:44
+=====================================================================================
+οὐδεὶς	δύναται	ἐλθεῖν	πρός	με	ἐὰν	μὴ	ὁ	Πατὴρ	ὁ	πέμψας	με	ἑλκύσῃ	αὐτόν
+oudeis	dynatai	elthein	pros	me	ean	mē	ho	Patēr	ho	pempsas	me	helkysē	auton
+no one	is able	to come	to	me	if	not	the	father	who sent	me	draws	him	
+No one can come to me unless the Father who sent me draws him
+======================================================================================
 
 
 
-### Subject of a sentence or clause (including predicate nominative)
+
+Subject of a sentence or clause (including predicate nominative)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**First person personal pronoun - nominative case ἐγώ, ἠμεῖς**
+
+2 Corinthians 4:13
+============================================
+ἡμεῖς	πιστεύομεν	διὸ	καὶ	λαλοῦμεν
+hēmeis	pisteuomen	dio	kai	laloumen
+We	we believe	therefore	also	we speak
+We believe, and so we also speak
+============================================
+
+The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence. Therefore an 
+emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
 
 
-<table>
-<caption><b>First person personal pronoun- nominative case</b>  ἐγώ, ἠμεῖς</caption> 
-<tr> <td colspan="5">2 Corinthians	4:13</td>
-</tr>
-<tr>
-<th>ἡμεῖς</th><td>	πιστεύομεν</td><td>	διὸ</td><td>	καὶ</td><td>	λαλοῦμεν</td>
-</tr><tr>
-<th>hēmeis</th><td>	pisteuomen</td><td>	dio</td><td>kai</td><td>laloumen</td>
-</tr>
-<tr>
-<th>We</th><td>	we believe</td><td>	therefore</td><td>	also</td><td>	we speak</td>
-</tr>
-<tr>
-<td colspan="5"><b>We</b>  believe, and so we also speak.</td>
-</tr></table>
+Possession
+----------
 
 
-The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  Therefore an emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
+**First Person personal pronoun – Genitive case ἐμοῦ, μοῦ, ἡμῶν**
 
+Mark 1:11
+====================================
+σὺ	εἶ	ὁ	Υἱός	μου	ὁ	ἀγαπητός
+sy	ei	ho	Huios	mou	ho	agapētos
+you	are	the	son	my	the	beloved
+You are my beloved Son
+====================================
 
-## Possession
-
-
-<table>
-<tr>
-<td colspan="5"><b>First Person personal pronoun – Genitive case</b>  
-ἐμοῦ, μοῦ, ἡμῶν</td>
-<tr>
-<td colspan="2">Mark 1:11</td>
-</tr>
-<tr>
-<td>σὺ</td><td>	εἶ</td><td>	ὁ</td><td> Υἱός</td><th>μου</th><td>ὁ</td><td colspan="2">ἀγαπητός</td>
-</tr>
-<tr>
-<td>sy</td><td>	ei</td><td>	ho</td><td>	Huios</td><th>mou</th><td>	ho</td><td colspan="2">	agapētos</td>
-</tr>
-<tr>
-<td>you</td><td>are</td><td>the</td><td>son</td><th>my</th><td>	the</td><td colspan="2">beloved</td>
-</tr>
-<tr>
-<td colspan="7">You are<b> my</b> beloved Son.</td>
-</tr>
-</table>
 Note: Some prepositions take their object in the Genitive case.
 
 
+Objective Cases
+---------------
 
-## Objective Cases
+The object in a sentence is the person (or object) that receives the direct (or indirect) action of the verb. This is done by adding an 
+object in either the dative or the accusative case.
 
+Dative
+^^^^^^
 
-The object in a sentence is the person (or object) that receives the direct (or indirect) action of the verb.  This is done by adding an object in either the dative or the accusative case.
+**First person personal pronoun - dative case έμοί, μοί, ἡμῖν**
 
-### Dative 
+John 2:18
+=================================================================
+τί	σημεῖον	δεικνύεις	ἡμῖν	ὅτι	ταῦτα	ποιεῖς
+ti	sēmeion	deiknyeis	hēmin	hoti	tauta	poieis
+What	sign	do you show	to us	because	these things	you do
+"What sign will you show us, since you are doing these things?
+==================================================================
 
-<table>
-<caption><b>First person personal pronoun- dative case</b>  έμοί, μοί, ἡμῖν</caption>
-<tr>
-<td colspan="2"> John	2:18</td>
-</tr>
-<tr>
-<td>τί</td><td>	σημεῖον</td><td>δεικνύεις</td><th>	ἡμῖν</th><td>	ὅτι</td><td>ταῦτα</td><td>	ποιεῖς</td>
-</tr>
-<tr>
-<td>ti</td><td>	sēmeion</td><td>deiknyeis</td><th>	hēmin</th><td>	hoti</td><td>tauta</td><td>	poieis</td>
-</tr>
-<tr>
-<td>What</td><td>sign</td><td>do you show</td><th>to us</th><td>because</td><td>these things</td><td>you do</td>
-</tr>
-<tr>
-<td colspan="7"> "What sign will you show <b>us</b>, since you are doing these things?</td>
-</tr>
-</table>
+Accusative
+^^^^^^^^^^
 
-### Accusative
+**First person personal pronoun - accusative case**
 
-<table>
-<td colspan="4"><b>First person personal pronoun- accusative case</b></d>
-<tr><td colspan="2">Mark 9:19</td>
-</tr>
-<tr>
-<td>φέρετε</td><td>	αὐτὸν</td><td>	πρός</td><th>	με</th>
-</tr>
-<tr>
-<td>pherete</td><td>auton</td><td>	pros</td><th>me</th>
-</tr>
-<tr>
-<td>You bring</td><td>him</td><td>to</td><th>me</th>
-</tr>
-<tr>
-<td colspan="4">Bring him to<b> me</b>.</td>
-</tr>
-</table>
+Mark 9:19
+==========================
+φέρετε	αὐτὸν	πρός	με
+pherete	auton	pros	me
+You bring	him	to	me
+Bring him to me
+==========================
 
 
-## Reflexive use of the first person personal pronoun 
-###     ἐμαυτοῦ, ἐμαυτῷ, ἐμαυτόν   or   αὐτός, αὐτοῦ, αὐτῷ, αὐτοί, αὐτοίς
+Reflexive use of the first person personal pronoun
+--------------------------------------------------
+ἐμαυτοῦ, ἐμαυτῷ, ἐμαυτόν or αὐτός, αὐτοῦ, αὐτῷ, αὐτοί, αὐτοίς
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The first person reflexive personal pronoun ἐμαυτοῦ occurs 37 times in the New Testament in the Genetive, Dative and Accusative cases but occurs only in the masculine singular form.
+The first person reflexive personal pronoun ἐμαυτοῦ occurs 37 times in the New Testament in the Genetive, Dative and Accusative cases but 
+occurs only in the masculine singular form.
 
 αὐτός is used as a first person reflexive pronoun 22 times in the New Testament.  It occurs in both the singular and plural forms.
 
-One time (at 2 Corinthians 1:9) in the New Testament the third person reflexive personal pronoun ἑαυτοῖς is used as a first person reflexive personal pronoun.
-
+One time (at 2 Corinthians 1:9) in the New Testament the third person reflexive personal pronoun ἑαυτοῖς is used as a first person 
+reflexive personal pronoun.
 
 
 John 12:32
-<table>
-  <tr>
-  <td>κἀγὼ</td><td> ἐὰν</td><td> ὑψωθῶ</td><td>ἐκ</td><td>τῆς</td><td> γῆς</td><td> πάντας</td><td> ἑλκύσω</td><td>πρὸς</td><th>ἐμαυτόν</th>
-  </tr>
-  <tr><td>kagō</td><td>ean</td><td>hypsōthō</td><td>ek</td><td>tēs</td><td>gēs</td><td>pantas</td><td>helkysō</td><td>pros</td><th>emauton</th>
-  </tr>
-  <tr><td>and I</td><td>when</td><td>I am lifted up</td><td>from</td><td>the</td><td>earth</td><td>all (people)</td><td>I will draw</td><td>  to</td><th>me</th>
-  </tr>
-  <tr> <td colspan="10"> "When I am lifted up from the earth, I will draw everyone to <b> myself."</b>
-  </tr>
-  </table>
+
+======================================================================================
+κἀγὼ	ἐὰν	ὑψωθῶ	ἐκ	τῆς	γῆς	πάντας	ἑλκύσω	πρὸς	ἐμαυτόν
+kagō	ean	hypsōthō	ek	tēs	gēs	pantas	helkysō	pros	emauton
+and I	when	I am lifted up	from	the	earth	all (people)	I will draw	to	me
+"When I am lifted up from the earth, I will draw everyone to myself"
+=======================================================================================
+
