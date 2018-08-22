@@ -27,7 +27,9 @@ Contributors
 This resource was designed by the `unfoldingWord Project <https://unfoldingword.org/>`__ and built by the `Door43 World Missions Community <https://door43.org/>`__. At least the following
 people were instrumental in the creation of the UGG:
 
--  Chapel Presson (BA Pre-Seminary Studies/Bible, Central Bible College;
+-  Joe B. Nathan III (BA Missiology, Crown College; MDIV  Bethel Seminary)
+
+-  Chapel M. Presson (BA Pre-Seminary Studies/Bible, Central Bible College;
    MDiv, Liberty Baptist Theological Seminary)
    
 -  Todd L. Price (BA Biblical Languages, Calvary Bible College; MA Biblical
