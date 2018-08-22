@@ -43,6 +43,7 @@ Paradigm
 
 
 **Six Common First Person Verbal Conjugation Forms**
+
 ===============================================		=====   =============== ========================
 Parsing												Greek	Transliteration	Gloss
 ===============================================		=====   =============== ========================
@@ -112,12 +113,9 @@ The personal ending of the verb is generally sufficient to show the person and n
 John 14:6
 
 =======================================================
-ἐγώ	εἰμι	ἡ	ὁδὸς	καὶ	ἡ	ἀλήθεια	καὶ	ἡ	ζωή
-									
-egō	eimi	hē	hodos	kai	hē	alētheia	kai	hē	zōē
-									
-I	am	the	way	and	the	truth	and	the	life
-									
+ἐγώ	εἰμι	ἡ	ὁδὸς	καὶ	ἡ	ἀλήθεια	καὶ	ἡ	ζωή								
+egō	eimi	hē	hodos	kai	hē	alētheia	kai	hē	zōē									
+I	am	the	way	and	the	truth	and	the	life								
 I am the way and the truth and the life
 =======================================================
  
@@ -125,7 +123,7 @@ I am the way and the truth and the life
 addition of the personal pronoun <b>ἐγώ</b>  places a slight emphasis on the pronoun.
 
 As a [Pronoun Personal](https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal)
------------------------
+#######################
 
 The personal pronoun can be used in all cases.
 
@@ -138,6 +136,7 @@ Accusative case depending upon the preposition.
 **First person personal pronoun - preposition**
 
 John 6:44
+
 =====================================================================================
 οὐδεὶς	δύναται	ἐλθεῖν	πρός	με	ἐὰν	μὴ	ὁ	Πατὴρ	ὁ	πέμψας	με	ἑλκύσῃ	αὐτόν
 oudeis	dynatai	elthein	pros	me	ean	mē	ho	Patēr	ho	pempsas	me	helkysē	auton
@@ -154,6 +153,7 @@ Subject of a sentence or clause (including predicate nominative)
 **First person personal pronoun - nominative case ἐγώ, ἠμεῖς**
 
 2 Corinthians 4:13
+
 ============================================
 ἡμεῖς	πιστεύομεν	διὸ	καὶ	λαλοῦμεν
 hēmeis	pisteuomen	dio	kai	laloumen
@@ -172,6 +172,7 @@ Possession
 **First Person personal pronoun – Genitive case ἐμοῦ, μοῦ, ἡμῶν**
 
 Mark 1:11
+
 ====================================
 σὺ	εἶ	ὁ	Υἱός	μου	ὁ	ἀγαπητός
 sy	ei	ho	Huios	mou	ho	agapētos
@@ -183,7 +184,7 @@ Note: Some prepositions take their object in the Genitive case.
 
 
 Objective Cases
----------------
+###############
 
 The object in a sentence is the person (or object) that receives the direct (or indirect) action of the verb. This is done by adding an 
 object in either the dative or the accusative case.
@@ -194,6 +195,7 @@ Dative
 **First person personal pronoun - dative case έμοί, μοί, ἡμῖν**
 
 John 2:18
+
 =================================================================
 τί	σημεῖον	δεικνύεις	ἡμῖν	ὅτι	ταῦτα	ποιεῖς
 ti	sēmeion	deiknyeis	hēmin	hoti	tauta	poieis
@@ -207,6 +209,7 @@ Accusative
 **First person personal pronoun - accusative case**
 
 Mark 9:19
+
 ==========================
 φέρετε	αὐτὸν	πρός	με
 pherete	auton	pros	me
@@ -216,7 +219,7 @@ Bring him to me
 
 
 Reflexive use of the first person personal pronoun
---------------------------------------------------
+##################################################
 ἐμαυτοῦ, ἐμαυτῷ, ἐμαυτόν or αὐτός, αὐτοῦ, αὐτῷ, αὐτοί, αὐτοίς
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
