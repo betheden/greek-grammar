@@ -16,7 +16,7 @@ Article
 `
 The first person is the person or persons that are speaking. If it is a single person, it is “I”, “me”, or “my”, if it is a group of people it is “we”, “us”, or “our”.
 
-The first person can be found in [Verb](https://ugg.readthedocs.io/en/latest/verb.html) forms, and [Pronoun_Personal](https://ugg.readthedocs.io/en/latest/pronoun_personal.html) forms.
+The first person can be found in `Verb <https://ugg.readthedocs.io/en/latest/verb.html>` forms, and `Pronoun_Personal <https://ugg.readthedocs.io/en/latest/pronoun_personal.html>` forms.
 
 **Note**
 The first person is only used in direct speech.
@@ -27,13 +27,12 @@ Form
 When a word is in the first person, it can be recognized by a variety of changes to the form. These changes differ greatly from each other and are hard to sum up in a simple, helpful way.  These changes can be classified into Verbal Conjugation forms and Personal Pronouns.
 
 
-Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive “we”. The context will determine which one is meant. See also  [translationAcademy](http://ufw.io/academy/) and [translationNotes](http://unfoldingword.org/tn/) for help if the context is not clear.
+Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive “we”. The context will determine which one is meant. See also `translationAcademy <http://ufw.io/academy/>` and `translationNotes <http://unfoldingword.org/tn/>` for help if the context is not clear.
 
 
-Greek distinguishs between [Number Singular](https://ugg.readthedocs.io/en/latest/number_singular.html) and [Number Plural](https://ugg.readthedocs.io/en/latest/number_plural.html), but not between [Gender Masculine](https://ugg.readthedocs.io/en/latest/gender_masculine.html) and [Gender Feminine](https://ugg.readthedocs.io/en/latest/gender_feminine.html) or [Gender Neuter](https://ugg.readthedocs.io/en/latest/gender_neuter.html) or  in the first person.
+Greek distinguishs between `Number Singular` <https://ugg.readthedocs.io/en/latest/number_singular.html>` and `Number Plural <https://ugg.readthedocs.io/en/latest/number_plural.html>`, but not between `Gender Masculine <https://ugg.readthedocs.io/en/latest/gender_masculine.html>` and `Gender Feminine <https://ugg.readthedocs.io/en/latest/gender_feminine.html>` or `Gender Neuter <https://ugg.readthedocs.io/en/latest/gender_neuter.html>` or  in the first person.
 
-
-The first person can be found in [Verb](https://ugg.readthedocs.io/en/latest/verb.html) forms and as a [Pronoun](https://ugg.readthedocs.io/en/latest/pronoun.html).
+The first person can be found in `Verb <https://ugg.readthedocs.io/en/latest/verb.html>` forms and as a `Pronoun <https://ugg.readthedocs.io/en/latest/pronoun.html>`.
 
 The first person of a verb is formed by adding a first person personal ending (or sufformative) to the verb stem.  These endings can be divided into eight basict types: primary active, secondary active, primary middle/passive, and secondary middle/passive.  The  present tense uses the primary endings.  The aorist tense uses the secondary endings.There are also singular and plural endings.  
 
@@ -58,11 +57,11 @@ First person aorist passive indicative singular,ἐλυόμην,elyomēn,I was l
 
 **Personal pronouns also have person and appear in various forms**
 
-Greek distinguishes between  [Number Singular](https://ugg.readthedocs.io/en/latest/number_singular.html) and 
-[Number Plural](https://ugg.readthedocs.io/en/latest/number_plural.html), but not between 
-[Gender Masculine](https://ugg.readthedocs.io/en/latest/gender_masculine.html), 
-[Gender Feminine](https://ugg.readthedocs.io/en/latest/gender_feminine.html), and 
-[Gender Neuter](https://ugg.readthedocs.io/en/latest/gender_neuter.html) in the first person.
+Greek distinguishes between `Number Singular <https://ugg.readthedocs.io/en/latest/number_singular.html>' and 
+`Number Plural <https://ugg.readthedocs.io/en/latest/number_plural.html>`, but not between 
+`Gender Masculine <https://ugg.readthedocs.io/en/latest/gender_masculine.html>`, 
+`Gender Feminine <https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
+`Gender Neuter <https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
 
 
 **First Person Personal Pronoun Forms**
@@ -114,7 +113,7 @@ I am the way and the truth and the life
 εἰμί is a first person singular present active indicative verb and indicates the number and subject of the sentence.  Therefore the 
 addition of the personal pronoun <b>ἐγώ</b>  places a slight emphasis on the pronoun.
 
-As a [Pronoun Personal](https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal)
+As a `Pronoun Personal <https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal>`
 #######################
 
 The personal pronoun can be used in all cases.
@@ -213,5 +212,5 @@ reflexive personal pronoun.
 κἀγὼ	ἐὰν	ὑψωθῶ	ἐκ	τῆς	γῆς	πάντας	ἑλκύσω	πρὸς	ἐμαυτόν
 kagō	ean	hypsōthō	ek	tēs	gēs	pantas	helkysō	pros	emauton
 and I	when	I am lifted up	from	the	earth	all (people)	I will draw	to	me
-"When I am lifted up from the earth, I will draw everyone to myself"
+When I am lifted up from the earth, I will draw everyone to myself
 
