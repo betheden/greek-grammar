@@ -93,7 +93,6 @@ Subject
 
 The subject in a sentence is usually the person or thing which does the action of the verb.  However, if the verb is in the passive voice, the subject receives the action of the verb.
 
-
 .. csv-table:: Example: JHN 3:11
 
 ἀμὴν	ἀμὴν	λέγω	σοι	ὅτι	ὃ	οἴδαμεν	λαλοῦμεν	καὶ	ὃ	ἑωράκαμεν	μαρτυροῦμεν
