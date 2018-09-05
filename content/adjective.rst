@@ -8,7 +8,7 @@ Adjective
 Glossary
 --------
 
-An is a part of speech which describes a noun or pronoun.
+An adjective is a part of speech which describes a noun or pronoun.
 
 .. csv-table:: Example: TIT 1:13
 
