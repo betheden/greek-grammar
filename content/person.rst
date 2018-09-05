@@ -17,17 +17,17 @@ addressed by the speaker.
 
 .. csv-table::
 
- First Person,Second Person,Third Person
- λέγω,λέγεις,λέγει
- legō,legeis,legei
- I say or I am saying,You say or You are saying,He/she/it says or he/she/it is saying
+  First Person,Second Person,Third Person
+  λέγω,λέγεις,λέγει
+  legō,legeis,legei
+  I say or I am saying,You say or You are saying,He/she/it says or he/she/it is saying
 
 .. csv-table:: Example: MAT 6:16
 
- ἀμὴν,λέγω,ὑμῖν
- amēn,legō,hymin
- Truly I am saying to you
- Truly I say to you
+  ἀμὴν,λέγω,ὑμῖν
+  amēn,legō,hymin
+  Truly I am saying to you
+  Truly I say to you
                   
 **Λέγω** is first person; **ὑμῖν** is second person.
 
