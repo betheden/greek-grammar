@@ -7,13 +7,13 @@ unfoldingWord Greek Grammar
    :maxdepth: 2
 
    front
-   adjective/adjective
+   adjective
    adjective/adjective_ascriptive
    adjective/adjective_restrictive
-   adverb/adverb
+   adverb
    adverb/adverb_correlative
    attic
-   case/case
+   case
    case/case_accusative
    case/case_dative
    case/case_genitive
@@ -21,12 +21,12 @@ unfoldingWord Greek Grammar
    case/case_vocative
    comparative
    cond
-   conjunction/conjunction
+   conjunction
    conjunction/conjunction_coordinating
    conjunction/conjunction_correlative
    conjunction/conjunction_subordinating
    crasis
-   determiner/determiner
+   determiner
    determiner/determiner_article
    determiner/determiner_demonstrative
    determiner/determiner_differential
@@ -36,16 +36,16 @@ unfoldingWord Greek Grammar
    determiner/determiner_possessive
    determiner/determiner_quantifier
    determiner/determiner_relative
-   gender/gender
+   gender
    gender/gender_feminine
    gender/gender_masculine
    gender/gender_neuter
-   interjection/interjection
+   interjection
    interjection/interjection_directive
    interjection/interjection_exclamation
    interjection/interjection_response
    interrogative
-   mood/mood
+   mood
    mood/mood_imperative_participle
    mood/mood_imperative
    mood/mood_indicative
@@ -54,24 +54,24 @@ unfoldingWord Greek Grammar
    mood/mood_participle
    mood/mood_subjunctive
    negative
-   noun/noun
+   noun
    noun/noun_predicate_adj
    noun/noun_substantive_adj
-   number/number
+   number
    number/number_plural
    number/number_singular
    numeral_indeclinable
    paradigms
-   particle/particle
+   particle
    particle/particle_error
    particle/particle_foreign
-   person/person
+   person
    person/person_first
    person/person_second
    person/person_third
-   preposition/preposition
+   preposition
    preposition/preposition_improper
-   pronoun/pronoun
+   pronoun
    pronoun/pronoun_demonstrative
    pronoun/pronoun_indefinite
    pronoun/pronoun_interrogative
@@ -82,7 +82,7 @@ unfoldingWord Greek Grammar
    proper_noun_indeclinable
    punctuation
    superlative
-   tense/tense
+   tense
    tense/tense_aorist
    tense/tense_future
    tense/tense_imperfect
@@ -94,11 +94,11 @@ unfoldingWord Greek Grammar
    tense/tense_second_future
    tense/tense_second_perfect
    tense/tense_second_pluperfect
-   verb/verb
+   verb
    verb/verb_intransitive
    verb/verb_linking
    verb/verb_transitive
-   voice/voice
+   voice
    voice/voice_active
    voice/voice_middle
    voice/voice_passive
