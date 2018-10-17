@@ -55,51 +55,51 @@ unfoldingWord Greek Grammar
       subjunctive <mood_subjunctive>
    negative
    noun
-   noun/noun_predicate_adj
-   noun/noun_substantive_adj
+      predicate adjective <noun_predicate_adj>
+      substantive adjective <noun_substantive_adj>
    number
-   number/number_plural
-   number/number_singular
-   numeral_indeclinable
+      plural <number_plural>
+      singular <number_singular>
+      indeclinable <numeral_indeclinable>
    paradigms
    particle
-   particle/particle_error
-   particle/particle_foreign
+      error <particle_error>
+      foreign <particle_foreign>
    person
-   person/person_first
-   person/person_second
-   person/person_third
+      first person <person_first>
+      second person <person_second>
+      third person <person_third>
    preposition
-   preposition/preposition_improper
+      improper preposition <preposition_improper>
    pronoun
-   pronoun/pronoun_demonstrative
-   pronoun/pronoun_indefinite
-   pronoun/pronoun_interrogative
-   pronoun/pronoun_personal
-   pronoun/pronoun_reciprocal
-   pronoun/pronoun_reflexive
-   pronoun/pronoun_relative
-   proper_noun_indeclinable
+      demonstrative <pronoun_demonstrative>
+      indefinite <pronoun_indefinite>
+      interrogative <pronoun_interrogative>
+      personal <pronoun_personal>
+      reciprocal <pronoun_reciprocal>
+      reflexive <pronoun_reflexive>
+      relative <pronoun_relative>
+   proper noun <proper_noun_indeclinable>
    punctuation
    superlative
    tense
-   tense/tense_aorist
-   tense/tense_future
-   tense/tense_imperfect
-   tense/tense_no_tense_stated
-   tense/tense_perfect
-   tense/tense_pluperfect
-   tense/tense_present
-   tense/tense_second_aorist
-   tense/tense_second_future
-   tense/tense_second_perfect
-   tense/tense_second_pluperfect
+      aorist <tense_aorist>
+      future <tense_future>
+      imperfect <tense_imperfect>
+      no tense <tense_no_tense_stated>
+      perfect <tense_perfect>
+      pluperfect <tense_pluperfect>
+      present <tense_present>
+      second aorist <tense_second_aorist>
+      second future <tense_second_future>
+      second perfect <tense_second_perfect>
+      second pluperfect <tense_second_pluperfect>
    verb
-   verb/verb_intransitive
-   verb/verb_linking
-   verb/verb_transitive
+      intransitive <verb_intransitive>
+      linking <verb_linking>
+      transitive <verb_transitive>
    voice
-   voice/voice_active
-   voice/voice_middle
-   voice/voice_passive
+      active <voice_active>
+      middle <voice_middle>
+      passive <voice_passive>
    back
