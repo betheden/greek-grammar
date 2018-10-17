@@ -8,51 +8,51 @@ unfoldingWord Greek Grammar
 
    front
    adjective
-   adjective/adjective_ascriptive
-   adjective/adjective_restrictive
+      ascriptive adjective <adjective_ascriptive>
+      restrictive adjective <adjective_restrictive>
    adverb
-   adverb/adverb_correlative
+      correlative adverb <adverb_correlative>
    attic
    case
-   case/case_accusative
-   case/case_dative
-   case/case_genitive
-   case/case_nominative
-   case/case_vocative
+      accusative case <case_accusative>
+      dative case <case_dative>
+      genitive case <case_genitive>
+      nominative case <case case_nominative>
+      vocative case <case_vocative>
    comparative
    cond
    conjunction
-   conjunction/conjunction_coordinating
-   conjunction/conjunction_correlative
-   conjunction/conjunction_subordinating
+      coordinating conjunction <conjunction_coordinating>
+      correlative conjunction <conjunction_correlative>
+      subordinating conjunction <conjunction_subordinating>
    crasis
    determiner
-   determiner/determiner_article
-   determiner/determiner_demonstrative
-   determiner/determiner_differential
-   determiner/determiner_interrogative
-   determiner/determiner_number
-   determiner/determiner_ordinal
-   determiner/determiner_possessive
-   determiner/determiner_quantifier
-   determiner/determiner_relative
+      article <determiner_article>
+      demonstrative <determiner_demonstrative>
+      differential <determiner_differential>
+      interrogative <determiner_interrogative>
+      number <determiner_number>
+      ordinal <determiner_ordinal>
+      possessive <determiner_possessive>
+      quantifier <determiner_quantifier>
+      relative <determiner_relative>
    gender
-   gender/gender_feminine
-   gender/gender_masculine
-   gender/gender_neuter
+      feminine <gender_feminine>
+      masculine <gender_masculine>
+      neuter <gender_neuter>
    interjection
-   interjection/interjection_directive
-   interjection/interjection_exclamation
-   interjection/interjection_response
+      directive <interjection_directive>
+      exclamation <interjection_exclamation>
+      response <interjection_response>
    interrogative
    mood
-   mood/mood_imperative_participle
-   mood/mood_imperative
-   mood/mood_indicative
-   mood/mood_infinitive
-   mood/mood_optative
-   mood/mood_participle
-   mood/mood_subjunctive
+      imperative <mood_imperative>
+      imperative participle <mood_imperative_participle>
+      indicative <mood_indicative>
+      infinative <mood_infinitive>
+      optative <mood_optative>
+      participle <mood_participle>
+      subjunctive <mood_subjunctive>
    negative
    noun
    noun/noun_predicate_adj
