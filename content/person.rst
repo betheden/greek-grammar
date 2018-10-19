@@ -29,7 +29,7 @@ amēn,legō,hymin
 Truly, I am saying, to you
 Truly I say to you
                   
-**Λέγω** is first person; **ὑμῖν** is second person.
+**λέγω** is first person; **ὑμῖν** is second person.
 
 Article
 -------
