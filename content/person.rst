@@ -28,8 +28,14 @@ addressed by the speaker.
   amēn,legō,hymin
   Truly I am saying to you
   Truly I say to you
+
                   
-**Λέγω** is first person; **ὑμῖν** is second person.
+**λέγω** is first person; **ὑμῖν** is second person.
 
 Article
 -------
+
+See the individual articles for (:ref:`First_Person<person_first>`, (:ref:`Second Person<person_second>`, and (:ref:`Third_Person<person_third>`.
+
+Paradigms are located at (:ref:`Paradigm<paradigms>`.
+
