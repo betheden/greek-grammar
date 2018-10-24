@@ -35,7 +35,7 @@ addressed by the speaker.
 Article
 -------
 
-See the individual articles for (:ref:`First_Person<person_first>`, (:ref:`Second Person<person_second>`, and (:ref:`Third_Person<person_third>`.
+See the individual articles for :ref:`First_Person<person_first>`, :ref:`Second Person<person_second>`, and :ref:`Third_Person<person_third>`.
 
-Paradigms are located at (:ref:`Paradigm<paradigms>`.
+Paradigms are located at :ref:`Paradigm<paradigms>`.
 
