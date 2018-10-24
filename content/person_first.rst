@@ -55,37 +55,38 @@ Paradigm
 
 .. csv-table::
 
-Parsing,Greek,Transliteration,Gloss
-First person present active indicative singular,λὐω,lyō,I am loosing, I loose
-First person present active indicative plural,λὐομεν,lyomen,We are loosing,  We loose
-First person present passive indicative singular,λὐομαι,lyomai,I am being loosed
-First person present passive indicative plural,λυὀμεθε,lyometha,We are being loosed
-First person aorist active indicative singular,ἔλυον,elyon,I loosed
-First person aorist active indicative plural,ἐλύομεν,elyomen,We loosed
-First person aorist passive indicative singular,ἐλυόμην,elyomēn,I was loosed
+  Parsing,Greek,Transliteration,Gloss
+  First person present active indicative singular,λὐω,lyō,I am loosing,I loose
+  First person present active indicative plural,λὐομεν,lyomen,We are loosing,We loose
+  First person present passive indicative singular,λὐομαι,lyomai,I am being loosed
+  First person present passive indicative plural,λυὀμεθε,lyometha,We are being loosed
+  First person aorist active indicative singular,ἔλυον,elyon,I loosed
+  First person aorist active indicative plural,ἐλύομεν,elyomen,We loosed
+  First person aorist passive indicative singular,ἐλυόμην,elyomēn,I was loosed
 
 **Personal pronouns also have person and appear in various forms**
 
-Greek distinguishes between :ref:`Number Singular <https://ugg.readthedocs.io/en/latest/number_singular.html>` and 
-:ref:`Number Plural <https://ugg.readthedocs.io/en/latest/number_plural.html>`, but not between 
-:ref:`Gender Masculine <https://ugg.readthedocs.io/en/latest/gender_masculine.html>`, 
-:ref:`Gender Feminine <https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
-:ref:`Gender Neuter <https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
+Greek distinguishes between :ref:`Number_Singular<number_singular>` and 
+:ref:`Number Plural<number_plural>`, but not between 
+:ref:`Gender Masculine<gender_masculine>`, 
+:ref:`Gender Feminine<https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
+:ref:`Gender Neuter<https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
 
 
 **First Person Personal Pronoun Forms**
 
 .. csv-table::
+  :header-rows: 1
 
-Parsing,Greek,Transliteration,Gloss
-first person nominative singular,ἐγώ,egō,I
-first person nominative plural,ἡμεἶς,hēmeis,we
-first person genitive singular,μοὖ,mou,my
-first person genitive plural,ἡμὦν,hēmōn,our
-first person dative singular,μοί,moi,to me
-first person dative plural,ἡμἶν,hēmin,to us
-first person accusative singular,μέ,me,me
-first person accusative plural,ἡμἆς,hēmas,us
+  Parsing,Greek,Transliteration,Gloss
+  first person nominative singular,ἐγώ,egō,I
+  first person nominative plural,ἡμεἶς,hēmeis,we
+  first person genitive singular,μοὖ,mou,my
+  first person genitive plural,ἡμὦν,hēmōn,our
+  first person dative singular,μοί,moi,to me
+  first person dative plural,ἡμἶν,hēmin,to us
+  first person accusative singular,μέ,me,me
+  first person accusative plural,ἡμἆς,hēmas,us
 
 Function
 ~~~~~~~~
