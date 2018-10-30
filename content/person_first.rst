@@ -11,8 +11,9 @@ Glossary
 **First person** is a grammatical feature indicating that the speaker is the subject of the verbal action, is speaking about themselves, or is the object of an action or phrase (e.g.,
 *I ran*, *we ran*).
 
-.. csv-table:: Example: MRK 9:24
-
+.. csv-table:: Example Mark 9_24
+  :header-rows: 1
+  
 καὶ,εὐθὺς,κράξας,ὁ,πατὴρ,τοῦ,παιδίου,ἔλεγεν, **πιστεύω**,βοήθει,**μου**,τῇ,ἀπιστίᾳ
 kai,euthys,kraxas,ho,patēr,tou,paidiou,elegen,**pisteuō**,boēthei,**mou**,tē,apistia
 and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
