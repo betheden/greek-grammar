@@ -28,7 +28,6 @@ addressed by the speaker.
   amēn,legō,hymin
   Truly I am saying to you
   Truly I say to you
-
                   
 **λέγω** is first person; **ὑμῖν** is second person.
 

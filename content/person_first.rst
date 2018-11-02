@@ -11,8 +11,9 @@ Glossary
 **First person** is a grammatical feature indicating that the speaker is the subject of the verbal action, is speaking about themselves, or is the object of an action or phrase (e.g.,
 *I ran*, *we ran*).
 
-.. csv-table:: Example: MRK 9:24
-
+.. csv-table:: Example Mark 9_24
+  :header-rows: 1
+  
 καὶ,εὐθὺς,κράξας,ὁ,πατὴρ,τοῦ,παιδίου,ἔλεγεν, **πιστεύω**,βοήθει,**μου**,τῇ,ἀπιστίᾳ
 kai,euthys,kraxas,ho,patēr,tou,paidiou,elegen,**pisteuō**,boēthei,**mou**,tē,apistia
 and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
@@ -23,9 +24,10 @@ In this example, we have a first person, singular, present active indicative ver
 Article
 -------
 `
-The first person is the person or persons that are speaking. If it is a single person, it is “I”, “me”, or “my”, if it is a group of people it is “we”, “us”, or “our”.
+The first person is the person or persons that are speaking. If it is a single person, it is “I”, “me”, or “my”,
+if it is a group of people it is “we”, “us”, or “our”.
 
-The first person can be found in :ref:`Verb <https://ugg.readthedocs.io/en/latest/verb.html>` forms, and :ref:`Pronoun_Personal <https://ugg.readthedocs.io/en/latest/pronoun_personal.html>` forms.
+The first person can be found in :ref:`Verb<verb>` forms, and :ref:`Pronoun_Personal<pronoun_personal>` forms.
 
 **Note**
 The first person is only used in direct speech.
@@ -33,15 +35,21 @@ The first person is only used in direct speech.
 Form
 ~~~~
 
-When a word is in the first person, it can be recognized by a variety of changes to the form. These changes differ greatly from each other and are hard to sum up in a simple, helpful way.  These changes can be classified into Verbal Conjugation forms and Personal Pronouns.
+When a word is in the first person, it can be recognized by a variety of changes to the form. These changes differ greatly from each other
+and are hard to sum up in a simple, helpful way.  These changes can be classified into Verbal Conjugation forms and Personal Pronouns.
 
 
-Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive “we”. The context will determine which one is meant. See also :ref:`translationAcademy <http://ufw.io/academy/>` and :ref:`translationNotes <http://unfoldingword.org/tn/>` for help if the context is not clear.
+Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes 
+the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive 
+“we”. The context will determine which one is meant. See also :ref:`translationAcademy <http://ufw.io/academy/>` and 
+:ref:`translationNotes <http://unfoldingword.org/tn/>` for help if the context is not clear.
 
 
-Greek distinguishs between :ref:`Number Singular` <https://ugg.readthedocs.io/en/latest/number_singular.html>` and :ref:`Number Plural <https://ugg.readthedocs.io/en/latest/number_plural.html>`, but not between :ref:`Gender Masculine <https://ugg.readthedocs.io/en/latest/gender_masculine.html>` and :ref:`Gender Feminine <https://ugg.readthedocs.io/en/latest/gender_feminine.html>` or :ref:`Gender Neuter <https://ugg.readthedocs.io/en/latest/gender_neuter.html>` or  in the first person.
+Greek distinguishs between :ref:`Number_Singular<number_singular>` and
+:ref:`Number_Plural<number_plural>`, but not between :ref:`Gender_Masculine<gender_masculine>` and :ref:`Gender_Feminine<gender_feminine>`
+or :ref:`Gender_Neuter<gender_neuter>` or  in the first person.
 
-The first person can be found in :ref:`Verb <https://ugg.readthedocs.io/en/latest/verb.html>` forms and as a :ref:`Pronoun <https://ugg.readthedocs.io/en/latest/pronoun.html>`.
+The first person can be found in :ref:`Verb<verb>` forms and as a :ref:`Pronoun<pronoun>`.
 
 The first person of a verb is formed by adding a first person personal ending (or sufformative) to the verb stem.  These endings can be divided into eight basict types: primary active, secondary active, primary middle/passive, and secondary middle/passive.  The  present tense uses the primary endings.  The aorist tense uses the secondary endings.There are also singular and plural endings.  
 
@@ -55,37 +63,38 @@ Paradigm
 
 .. csv-table::
 
-Parsing,Greek,Transliteration,Gloss
-First person present active indicative singular,λὐω,lyō,I am loosing, I loose
-First person present active indicative plural,λὐομεν,lyomen,We are loosing,  We loose
-First person present passive indicative singular,λὐομαι,lyomai,I am being loosed
-First person present passive indicative plural,λυὀμεθε,lyometha,We are being loosed
-First person aorist active indicative singular,ἔλυον,elyon,I loosed
-First person aorist active indicative plural,ἐλύομεν,elyomen,We loosed
-First person aorist passive indicative singular,ἐλυόμην,elyomēn,I was loosed
+  Parsing,Greek,Transliteration,Gloss
+  First person present active indicative singular,λὐω,lyō,I am loosing,I loose
+  First person present active indicative plural,λὐομεν,lyomen,We are loosing,We loose
+  First person present passive indicative singular,λὐομαι,lyomai,I am being loosed
+  First person present passive indicative plural,λυὀμεθε,lyometha,We are being loosed
+  First person aorist active indicative singular,ἔλυον,elyon,I loosed
+  First person aorist active indicative plural,ἐλύομεν,elyomen,We loosed
+  First person aorist passive indicative singular,ἐλυόμην,elyomēn,I was loosed
 
 **Personal pronouns also have person and appear in various forms**
 
-Greek distinguishes between :ref:`Number Singular <https://ugg.readthedocs.io/en/latest/number_singular.html>` and 
-:ref:`Number Plural <https://ugg.readthedocs.io/en/latest/number_plural.html>`, but not between 
-:ref:`Gender Masculine <https://ugg.readthedocs.io/en/latest/gender_masculine.html>`, 
-:ref:`Gender Feminine <https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
-:ref:`Gender Neuter <https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
+Greek distinguishes between :ref:`Number_Singular<number_singular>` and 
+:ref:`Number Plural<number_plural>`, but not between 
+:ref:`Gender Masculine<gender_masculine>`, 
+:ref:`Gender Feminine<https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
+:ref:`Gender Neuter<https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
 
 
 **First Person Personal Pronoun Forms**
 
 .. csv-table::
+  :header-rows: 1
 
-Parsing,Greek,Transliteration,Gloss
-first person nominative singular,ἐγώ,egō,I
-first person nominative plural,ἡμεἶς,hēmeis,we
-first person genitive singular,μοὖ,mou,my
-first person genitive plural,ἡμὦν,hēmōn,our
-first person dative singular,μοί,moi,to me
-first person dative plural,ἡμἶν,hēmin,to us
-first person accusative singular,μέ,me,me
-first person accusative plural,ἡμἆς,hēmas,us
+  Parsing,Greek,Transliteration,Gloss
+  first person nominative singular,ἐγώ,egō,I
+  first person nominative plural,ἡμεἶς,hēmeis,we
+  first person genitive singular,μοὖ,mou,my
+  first person genitive plural,ἡμὦν,hēmōn,our
+  first person dative singular,μοί,moi,to me
+  first person dative plural,ἡμἶν,hēmin,to us
+  first person accusative singular,μέ,me,me
+  first person accusative plural,ἡμἆς,hēmas,us
 
 Function
 ~~~~~~~~
