@@ -7,99 +7,99 @@ unfoldingWord Greek Grammar
    :maxdepth: 2
 
    front
-   adjective_ascriptive
-   adjective_restrictive
    adjective
-   adverb_correlative
+      ascriptive adjective <adjective_ascriptive>
+      restrictive adjective <adjective_restrictive>
    adverb
+      correlative adverb <adverb_correlative>
    attic
-   case_accusative
-   case_dative
-   case_genitive
-   case_nominative
    case
-   case_vocative
+      accusative case <case_accusative>
+      dative case <case_dative>
+      genitive case <case_genitive>
+      nominative case <case case_nominative>
+      vocative case <case_vocative>
    comparative
    cond
-   conjunction_coordinating
-   conjunction_correlative
    conjunction
-   conjunction_subordinating
+      coordinating conjunction <conjunction_coordinating>
+      correlative conjunction <conjunction_correlative>
+      subordinating conjunction <conjunction_subordinating>
    crasis
-   determiner_article
-   determiner_demonstrative
-   determiner_differential
-   determiner_interrogative
-   determiner_number
-   determiner_ordinal
-   determiner_possessive
-   determiner_quantifier
-   determiner_relative
    determiner
-   gender_feminine
-   gender_masculine
-   gender_neuter
+      article <determiner_article>
+      demonstrative <determiner_demonstrative>
+      differential <determiner_differential>
+      interrogative <determiner_interrogative>
+      number <determiner_number>
+      ordinal <determiner_ordinal>
+      possessive <determiner_possessive>
+      quantifier <determiner_quantifier>
+      relative <determiner_relative>
    gender
-   interjection_directive
-   interjection_exclamation
-   interjection_response
+      feminine <gender_feminine>
+      masculine <gender_masculine>
+      neuter <gender_neuter>
    interjection
+      directive <interjection_directive>
+      exclamation <interjection_exclamation>
+      response <interjection_response>
    interrogative
-   mood_imperative_participle
-   mood_imperative
-   mood_indicative
-   mood_infinitive
-   mood_optative
-   mood_participle
    mood
-   mood_subjunctive
+      imperative <mood_imperative>
+      imperative participle <mood_imperative_participle>
+      indicative <mood_indicative>
+      infinative <mood_infinitive>
+      optative <mood_optative>
+      participle <mood_participle>
+      subjunctive <mood_subjunctive>
    negative
-   noun_predicate_adj
    noun
-   noun_substantive_adj
-   number_plural
+      predicate adjective <noun_predicate_adj>
+      substantive adjective <noun_substantive_adj>
    number
-   number_singular
-   numeral_indeclinable
+      plural <number_plural>
+      singular <number_singular>
+      indeclinable <numeral_indeclinable>
    paradigms
-   particle_error
-   particle_foreign
    particle
-   person_first
+      error <particle_error>
+      foreign <particle_foreign>
    person
-   person_second
-   person_third
-   preposition_improper
+      first person <person_first>
+      second person <person_second>
+      third person <person_third>
    preposition
-   pronoun_demonstrative
-   pronoun_indefinite
-   pronoun_interrogative
-   pronoun_personal
-   pronoun_reciprocal
-   pronoun_reflexive
-   pronoun_relative
+      improper preposition <preposition_improper>
    pronoun
-   proper_noun_indeclinable
+      demonstrative <pronoun_demonstrative>
+      indefinite <pronoun_indefinite>
+      interrogative <pronoun_interrogative>
+      personal <pronoun_personal>
+      reciprocal <pronoun_reciprocal>
+      reflexive <pronoun_reflexive>
+      relative <pronoun_relative>
+   proper noun <proper_noun_indeclinable>
    punctuation
    superlative
-   tense_aorist
-   tense_future
-   tense_imperfect
-   tense_no_tense_stated
-   tense_perfect
-   tense_pluperfect
-   tense_present
    tense
-   tense_second_aorist
-   tense_second_future
-   tense_second_perfect
-   tense_second_pluperfect
-   verb_intransitive
-   verb_linking
+      aorist <tense_aorist>
+      future <tense_future>
+      imperfect <tense_imperfect>
+      no tense <tense_no_tense_stated>
+      perfect <tense_perfect>
+      pluperfect <tense_pluperfect>
+      present <tense_present>
+      second aorist <tense_second_aorist>
+      second future <tense_second_future>
+      second perfect <tense_second_perfect>
+      second pluperfect <tense_second_pluperfect>
    verb
-   verb_transitive
-   voice_active
-   voice_middle
-   voice_passive
+      intransitive <verb_intransitive>
+      linking <verb_linking>
+      transitive <verb_transitive>
    voice
+      active <voice_active>
+      middle <voice_middle>
+      passive <voice_passive>
    back
