@@ -40,8 +40,8 @@ and are hard to sum up in a simple, helpful way.  These changes can be classifie
 
 Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes 
 the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive 
-“we”. The context will determine which one is meant. See also :ref:`translationAcademy <http://ufw.io/academy/>` and 
-:ref:`translationNotes <http://unfoldingword.org/tn/>` for help if the context is not clear.
+“we”. The context will determine which one is meant. See also `translationAcademy <http://ufw.io/academy/>`_ and
+`translationNotes <http://ufw.io/academy/>` for help if the context is not clear.
 
 
 Greek distinguishs between :ref:`Number_Singular<number_singular>` and
@@ -63,8 +63,8 @@ Paradigm
 .. csv-table::
 
   Parsing,Greek,Transliteration,Gloss
-  First person present active indicative singular,λὐω,lyō,I am loosing,I loose
-  First person present active indicative plural,λὐομεν,lyomen,We are loosing,We loose
+  First person present active indicative singular,λὐω,lyō,I am loosing/I loose
+  First person present active indicative plural,λὐομεν,lyomen,We are loosing/We loose
   First person present passive indicative singular,λὐομαι,lyomai,I am being loosed
   First person present passive indicative plural,λυὀμεθε,lyometha,We are being loosed
   First person aorist active indicative singular,ἔλυον,elyon,I loosed
@@ -76,8 +76,8 @@ Paradigm
 Greek distinguishes between :ref:`Number_Singular<number_singular>` and 
 :ref:`Number Plural<number_plural>`, but not between 
 :ref:`Gender Masculine<gender_masculine>`, 
-:ref:`Gender Feminine<https://ugg.readthedocs.io/en/latest/gender_feminine.html>`, and 
-:ref:`Gender Neuter<https://ugg.readthedocs.io/en/latest/gender_neuter.html>` in the first person.
+:ref:`Gender Feminine<gender_feminine>`, and 
+:ref:`Gender Neuter<gender_neuter>` in the first person.
 
 
 **First Person Personal Pronoun Forms**
@@ -108,31 +108,36 @@ its function in the sentence (or clause).
 Subject
 #######
 
-The subject in a sentence is usually the person or thing which does the action of the verb.  However, if the verb is in the passive voice, the subject receives the action of the verb.
+The subject in a sentence is usually the person or thing which does the action of the verb.  However, if the verb is in the passive voice,
+the subject receives the action of the verb.
 
-.. csv-table:: Example: JHN 3:11
+.. csv-table::
+  :header-rows: 1
 
-ἀμὴν,ἀμὴν,λέγω,σοι,ὅτι,ὃ,οἴδαμεν,λαλοῦμεν,καὶ,ὃ,ἑωράκαμεν,μαρτυροῦμεν
-amēn,amēn,legō,soi,hoti,ho,oidamen,laloumen,kai,ho,heōrakamen,martyroumen
-Truly,truly,I say,to you,that,what,we know,we are speaking,and,what,we have seen,we are testifying
-Truly, truly, I say to you, we speak what we know, and we testify about what we have seen
+  John 3:11
+  ἀμὴν,ἀμὴν,**λέγω**,σοι,ὅτι,ὃ,οἴδαμεν,λαλοῦμεν,καὶ,ὃ,ἑωράκαμεν,μαρτυροῦμεν
+  amēn,amēn,**legō**,soi,hoti,ho,oidamen,laloumen,kai,ho,heōrakamen,martyroumen
+  Truly,truly,**I** say,to you,that,what,we know,we are speaking,and,what,we have seen,we are testifying
+  Truly, truly, **I** say to you, we speak what we know, and we testify about what we have seen
 
-The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  Therefore an emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
+The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  Therefore an
+emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
 
-.. csv-table:: Example: JHN 14:6
+.. csv-table::
+  :header-rows: 1
 
-ἐγώ,εἰμι,ἡ,ὁδὸς,καὶ,ἡ,ἀλήθεια,καὶ,ἡ,ζωή								
-egō,eimi,hē,hodos,kai,hē,alētheia,kai,hē,zōē									
-I,am,the,way,and,the,truth,and,the,life								
-I am the way and the truth and the life
+  John 14:6
+  **ἐγώ**,**εἰμι**,ἡ,ὁδὸς,καὶ,ἡ,ἀλήθεια,καὶ,ἡ,ζωή								
+  **egō**,**eimi**,hē,hodos,kai,hē,alētheia,kai,hē,zōē									
+  **I**,**I am**,the,way,and,the,truth,and,the,life								
+  **I** am the way and the truth and the life
  
 εἰμί is a first person singular present active indicative verb and indicates the number and subject of the sentence.  Therefore the 
-addition of the personal pronoun <b>ἐγώ</b>  places a slight emphasis on the pronoun.
+addition of the personal pronoun **ἐγώ**  places a slight emphasis on the pronoun.
 
-As a :ref:`Pronoun Personal<https://uhg.readthedocs.io/en/latest/pronoun_personal.html#pronoun-personal>`
+As stated at :ref:`Pronoun Personal<pronoun_personal>`,  the personal pronoun can be used in all cases.
 #######################
 
-The personal pronoun can be used in all cases.
 
 Prepositions
 ~~~~~~~~~~~~
@@ -155,12 +160,14 @@ Subject of a sentence or clause (including predicate nominative)
 
 **First person personal pronoun - nominative case ἐγώ, ἠμεῖς**
 
-.. csv-table:: Example: 2Cor 4:13
+.. csv-table::
+  :header-rows: 1
 
-ἡμεῖς,πιστεύομεν,διὸ,καὶ,λαλοῦμεν
-hēmeis,pisteuomen,dio,kai,laloumen
-We,we believe,therefore,also,we speak
-We believe, and so we also speak
+  2 Corinthians 4:13
+  **ἡμεῖς**,πιστεύομεν,διὸ,καὶ,λαλοῦμεν
+  **hēmeis**,pisteuomen,dio,kai,laloumen
+  **We**,we believe,therefore,also,we speak
+  **We** believe, and so we also speak
 
 The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence. Therefore an 
 emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
@@ -170,12 +177,15 @@ Possession
 
 **First Person personal pronoun – Genitive case ἐμοῦ, μοῦ, ἡμῶν**
 
-.. csv-table:: Example: MRK 1:11
 
-σὺ,εἶ,ὁ,Υἱός,μου,ὁ,ἀγαπητός
-sy,ei,ho,Huios,mou,ho,agapētos
-you,are,the,son,my,the,beloved
-You are my beloved Son
+.. csv-table::
+  :header-rows: 1
+
+  Mark 1:11
+  σὺ,εἶ,ὁ,Υἱός,**μου**,ὁ,ἀγαπητός
+  sy,ei,ho,Huios,**mou**,ho,agapētos
+  you,are,the,son,**my**,the,beloved
+  You are **my** beloved Son
 
 Note: Some prepositions take their object in the Genitive case.
 
@@ -190,43 +200,46 @@ Dative
 
 **First person personal pronoun - dative case έμοί, μοί, ἡμῖν**
 
-.. csv-table:: Example: JHN 2:18
+.. csv-table::
+  :header-rows: 1
 
-τί,σημεῖον,δεικνύεις,ἡμῖν,ὅτι,ταῦτα,ποιεῖς
-ti,sēmeion,deiknyeis,hēmin,hoti,tauta,poieis
-What,sign,do you show,to us,because,these things,you do
-"What sign will you show us, since you are doing these things?
+  John 2:18
+  τί,σημεῖον,δεικνύεις,**ἡμῖν**,ὅτι,ταῦτα,ποιεῖς
+  ti,sēmeion,deiknyeis,**hēmin**,hoti,tauta,poieis
+  What,sign,do you show,**to us**,because,these things,you do
+  "What sign will you show **us**, since you are doing these things?
 
 Accusative
 ^^^^^^^^^^
 
 **First person personal pronoun - accusative case**
 
-.. csv-table:: Example: MRK 9:19
-
-φέρετε,αὐτὸν,πρός,με
-pherete,auton,pros,me
-You bring,him,to,me
-Bring him to me
+.. csv-table:: Example: 
+.. csv-table:: Mark 9:19
+  
+  φέρετε,αὐτὸν,πρός,**με**
+  pherete,auton,pros,**me**
+  You bring,him,to,**me**
+  Bring him to **me**
 
 Reflexive use of the first person personal pronoun
 ##################################################
 
 ἐμαυτοῦ, ἐμαυτῷ, ἐμαυτόν or αὐτός, αὐτοῦ, αὐτῷ, αὐτοί, αὐτοίς
 
-The first person reflexive personal pronoun ἐμαυτοῦ occurs 37 times in the New Testament in the Genetive, Dative and Accusative cases but 
-occurs only in the masculine singular form.
+The first person reflexive personal pronoun **ἐμαυτοῦ** occurs 37 times in the New Testament in the Genetive, Dative and Accusative 
+cases but occurs only in the masculine singular form.
 
 αὐτός is used as a first person reflexive pronoun 22 times in the New Testament.  It occurs in both the singular and plural forms.
 
-One time (at 2CO 1:9) in the New Testament the third person reflexive personal pronoun ἑαυτοῖς is used as a first person 
+One time (at 2 Cor 1:9) in the New Testament the third person reflexive personal pronoun ἑαυτοῖς is used as a first person 
 reflexive personal pronoun.
 
 
-.. csv-table:: Example: John 12:32
+.. csv-table::  John 12:32
 
-κἀγὼ,ἐὰν,ὑψωθῶ,ἐκ,τῆς,γῆς,πάντας,ἑλκύσω,πρὸς,ἐμαυτόν
-kagō,ean,hypsōthō,ek,tēs,gēs,pantas,helkysō,pros,emauton
-and I,when,I am lifted up,from,the,earth,all (people),I will draw,to,me
-When I am lifted up from the earth, I will draw everyone to myself
+  κἀγὼ,ἐὰν,ὑψωθῶ,ἐκ,τῆς,γῆς,πάντας,ἑλκύσω,πρὸς,**ἐμαυτόν**
+  kagō,ean,hypsōthō,ek,tēs,gēs,pantas,helkysō,pros,**emauton**
+  and I,when,I am lifted up,from,the,earth,all (people),I will draw,to,**me**
+  When I am lifted up from the earth, I will draw everyone to **myself**
 

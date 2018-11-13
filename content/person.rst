@@ -22,11 +22,12 @@ addressed by the speaker.
   legō,legeis,legei
   I say or I am saying,You say or You are saying,He/she/it says or he/she/it is saying
 
+
 .. csv-table:: Example: MAT 6:16
 
   ἀμὴν,λέγω,ὑμῖν
   amēn,legō,hymin
-  Truly I am saying to you
+  Truly,I am saying,to you
   Truly I say to you
                   
 **λέγω** is first person; **ὑμῖν** is second person.
