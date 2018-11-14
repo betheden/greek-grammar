@@ -16,7 +16,7 @@ Glossary
   καὶ,εὐθὺς,κράξας,ὁ,πατὴρ,τοῦ,παιδίου,ἔλεγεν, **πιστεύω**,βοήθει,**μου**,τῇ,ἀπιστίᾳ
   kai,euthys,kraxas,ho,patēr,tou,paidiou,elegen,**pisteuō**,boēthei,**mou**,tē,apistia
   and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
-  Immediately the father of the child cried out and said, "**I believe!** Help **my** unbelief!"
+  Immediately the father of the child cried out and said "**I believe!** Help **my** unbelief!"
 
 In this example, we have a first person, singular, present active indicative verb and a first person, genitive, singular personal pronoun.
 
@@ -147,12 +147,14 @@ Accusative case depending upon the preposition.
 
 **First person personal pronoun - preposition**
 
-.. csv-table:: Example: JHN 6:44
-
-οὐδεὶς,δύναται,ἐλθεῖν,πρός,με,ἐὰν,μὴ,ὁ,Πατὴρ,ὁ,πέμψας,με,ἑλκύσῃ,αὐτόν
-oudeis,dynatai,elthein,pros,me,ean,mē,ho,Patēr,ho,pempsas,me,helkysē,auton
-no one,is able,to come,to,me,if,not,the,father,who,sent,me,draws,him	
-No one can come to me unless the Father who sent me draws him
+.. csv-table:: 
+  :header-rows: 1
+  
+  JHN 6:44
+  οὐδεὶς,δύναται,ἐλθεῖν,πρός,με,ἐὰν,μὴ,ὁ,Πατὴρ,ὁ,πέμψας,με,ἑλκύσῃ,αὐτόν
+  oudeis,dynatai,elthein,pros,me,ean,mē,ho,Patēr,ho,pempsas,me,helkysē,auton
+  no one,is able,to come,to,me,if,not,the,father,who,sent,me,draws,him	
+  No one can come to me unless the Father who sent me draws him
 
 
 Subject of a sentence or clause (including predicate nominative)
