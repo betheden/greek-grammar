@@ -225,7 +225,7 @@ Dative
   What,sign,do you show,**to us**,because,these things,you do
   
   
-* "What sign will you show **us**, since you are doing these things?*
+*_"What sign will you show **us**, since you are doing these things?*
 
 Accusative
 ^^^^^^^^^^
