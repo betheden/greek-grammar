@@ -122,7 +122,9 @@ the subject receives the action of the verb.
   ἀμὴν,ἀμὴν,**λέγω**,σοι,ὅτι,ὃ,οἴδαμεν,λαλοῦμεν,καὶ,ὃ,ἑωράκαμεν,μαρτυροῦμεν
   amēn,amēn,**legō**,soi,hoti,ho,oidamen,laloumen,kai,ho,heōrakamen,martyroumen
   Truly,truly,**I** say,to you,that,what,we know,we are speaking,and,what,we have seen,we are testifying
-  Truly, truly, **I** say to you, we speak what we know, and we testify about what we have seen
+  
+  
+*Truly, truly, **I** say to you, we speak what we know, and we testify about what we have seen*
 
 The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  Therefore an
 emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
@@ -134,7 +136,9 @@ emphasis is being made when the nominative case of the personal pronoun is used 
   **ἐγώ**,**εἰμι**,ἡ,ὁδὸς,καὶ,ἡ,ἀλήθεια,καὶ,ἡ,ζωή								
   **egō**,**eimi**,hē,hodos,kai,hē,alētheia,kai,hē,zōē									
   **I**,**I am**,the,way,and,the,truth,and,the,life								
-  **I** am the way and the truth and the life
+ 
+ 
+**I** am the way and the truth and the life
  
 εἰμί is a first person singular present active indicative verb and indicates the number and subject of the sentence.  Therefore the 
 addition of the personal pronoun **ἐγώ**  places a slight emphasis on the pronoun.
@@ -158,7 +162,9 @@ Accusative case depending upon the preposition.
   οὐδεὶς,δύναται,ἐλθεῖν,πρός,με,ἐὰν,μὴ,ὁ,Πατὴρ,ὁ,πέμψας,με,ἑλκύσῃ,αὐτόν
   oudeis,dynatai,elthein,pros,me,ean,mē,ho,Patēr,ho,pempsas,me,helkysē,auton
   no one,is able,to come,to,me,if,not,the,father,who,sent,me,draws,him	
-  No one can come to me unless the Father who sent me draws him
+
+
+*No one can come to me unless the Father who sent me draws him*
 
 
 Subject of a sentence or clause (including predicate nominative)
@@ -173,7 +179,9 @@ Subject of a sentence or clause (including predicate nominative)
   **ἡμεῖς**,πιστεύομεν,διὸ,καὶ,λαλοῦμεν
   **hēmeis**,pisteuomen,dio,kai,laloumen
   **We**,we believe,therefore,also,we speak
-  **We** believe, and so we also speak
+  
+  
+**We** believe, and so we also speak
 
 The personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence. Therefore an 
 emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
@@ -191,7 +199,9 @@ Possession
   σὺ,εἶ,ὁ,Υἱός,**μου**,ὁ,ἀγαπητός
   sy,ei,ho,Huios,**mou**,ho,agapētos
   you,are,the,son,**my**,the,beloved
-  You are **my** beloved Son
+
+
+*You are **my** beloved Son*
 
 Note: Some prepositions take their object in the Genitive case.
 
@@ -213,7 +223,9 @@ Dative
   τί,σημεῖον,δεικνύεις,**ἡμῖν**,ὅτι,ταῦτα,ποιεῖς
   ti,sēmeion,deiknyeis,**hēmin**,hoti,tauta,poieis
   What,sign,do you show,**to us**,because,these things,you do
-  "What sign will you show **us**, since you are doing these things?
+  
+  
+* "What sign will you show **us**, since you are doing these things?*
 
 Accusative
 ^^^^^^^^^^
@@ -226,7 +238,9 @@ Accusative
   φέρετε,αὐτὸν,πρός,**με**
   pherete,auton,pros,**me**
   You bring,him,to,**me**
-  Bring him to **me**
+  
+  
+*Bring him to **me** *
 
 Reflexive use of the first person personal pronoun
 ##################################################
@@ -247,5 +261,7 @@ reflexive personal pronoun.
   κἀγὼ,ἐὰν,ὑψωθῶ,ἐκ,τῆς,γῆς,πάντας,ἑλκύσω,πρὸς,**ἐμαυτόν**
   kagō,ean,hypsōthō,ek,tēs,gēs,pantas,helkysō,pros,**emauton**
   and I,when,I am lifted up,from,the,earth,all (people),I will draw,to,**me**
-  When I am lifted up from the earth, I will draw everyone to **myself**
+  
+  
+* When I am lifted up from the earth, I will draw everyone to **myself** *
 
