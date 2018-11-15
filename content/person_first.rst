@@ -20,7 +20,7 @@ Glossary
   and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
   
  
-*Immediately the father of the child cried out and said, " **I believe!** Help **my** unbelief!"*
+*Immediately the father of the child cried out and said, " \ **I believe!** \ Help **my** unbelief!"*
 
 In this example, we have a first person, singular, present active indicative verb and a first person, genitive, singular personal pronoun.
 
