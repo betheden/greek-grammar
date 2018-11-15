@@ -11,13 +11,16 @@ Glossary
 **First person** is a grammatical feature indicating that the speaker is the subject of the verbal action, is speaking about themselves, or is the object of an action or phrase (e.g.,
 *I ran*, *we ran*).
 
-.. csv-table:: Example: Mark 9:24
-   
+.. csv-table:: 
+  :header-rows: 1
+  
+  Mark 9:24
   καὶ,εὐθὺς,κράξας,ὁ,πατὴρ,τοῦ,παιδίου,ἔλεγεν, **πιστεύω**,βοήθει,**μου**,τῇ,ἀπιστίᾳ
   kai,euthys,kraxas,ho,patēr,tou,paidiou,elegen,**pisteuō**,boēthei,**mou**,tē,apistia
   and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
   
- *Immediately the father of the child cried out and said, "**I believe!** Help **my** unbelief!"*
+ 
+*Immediately the father of the child cried out and said, " **I believe!** Help **my** unbelief!"*
 
 In this example, we have a first person, singular, present active indicative verb and a first person, genitive, singular personal pronoun.
 
