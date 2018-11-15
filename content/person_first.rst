@@ -16,7 +16,8 @@ Glossary
   καὶ,εὐθὺς,κράξας,ὁ,πατὴρ,τοῦ,παιδίου,ἔλεγεν, **πιστεύω**,βοήθει,**μου**,τῇ,ἀπιστίᾳ
   kai,euthys,kraxas,ho,patēr,tou,paidiou,elegen,**pisteuō**,boēthei,**mou**,tē,apistia
   and,immediately,he cried out,the,father,of the,child,he said,**I believe**,help,**my**,the,unbelief
-  Immediately the father of the child cried out and said "**I believe!** Help **my** unbelief!"
+  
+ *Immediately the father of the child cried out and said, "**I believe!** Help **my** unbelief!"*
 
 In this example, we have a first person, singular, present active indicative verb and a first person, genitive, singular personal pronoun.
 
@@ -41,7 +42,7 @@ and are hard to sum up in a simple, helpful way.  These changes can be classifie
 Some languages use an inclusive we (which includes the person being spoken to in the “we”) and an exclusive we (which excludes 
 the person being spoken to from the “we”).  Neither English nor Biblical Greek distinguishes between the inclusive and the exclusive 
 “we”. The context will determine which one is meant. See also `translationAcademy <http://ufw.io/academy/>`_ and
-`translationNotes <http://ufw.io/academy/>` for help if the context is not clear.
+`translationNotes <http://ufw.io/academy/>`_ for help if the context is not clear.
 
 
 Greek distinguishs between :ref:`Number_Singular<number_singular>` and
