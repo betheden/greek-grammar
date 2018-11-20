@@ -1,0 +1,30 @@
+:github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/paradigms.rst
+
+.. _paradigms:
+
+Paradigms
+=========
+
+**Nouns**
+
+First Declension
+----------------
+
+Nouns of the first declension ending in **α** or **η** in the nominative singular are all feminine.
+
+.. csv-table:: 
+
+  nominative sing.,ἀρχή,ἡμέρα
+  genitive sing.,ἀρχῆς,ἡμέρας
+  dative sing., ἀρχῇ,ἡμέρᾳ
+  accusative sing.,ἀρχήν,ἡμέραν
+  ,,
+  nominative pl,ἀρχαί,ἡμέραι
+  genitive pl,ἀρχῶν,ἡμερῶν
+  dative pl,ἀρχαῖς,ἡμέραις
+  accusative pl,ἀρχάς,ἡμέρας
+  
+  
+  Nouns of the first declension ending in an **ης** or **ας** are masculine and are declined as follows:
+  
+  
