@@ -1,37 +1,227 @@
 First Declension
 ^^^^^^^^^^^^^^^^
 
-Nouns of the first declension ending in **α** or **η** in the nominative singular are all feminine.
+**N-1** Nouns of the first declension ending in **α** or **η** in the nominative singular are declined as follows:
 
-.. csv-table:: 
+.. csv-table::
 
-  nominative sing.,ἀρχή,ἡμέρα
-  genitive sing.,ἀρχῆς,ἡμέρας
-  dative sing., ἀρχῇ,ἡμέρᾳ
-  accusative sing.,ἀρχήν,ἡμέραν
-  vocative sing.,ἀρχή,ἡμέρα
+  *single*,,
+  Nominative_Vocative,ἀρχή,ἡμέρα
+  Genitive,ἀρχῆς,ἡμέρας
+  Dative,ἀρχῇ,ἡμέρᾳ
+  Accusative,ἀρχήν,ἡμέραν
   ,,
-  nominative pl,ἀρχαί,ἡμέραι
-  genitive pl,ἀρχῶν,ἡμερῶν
-  dative pl,ἀρχαῖς,ἡμέραις
-  accusative pl,ἀρχάς,ἡμέρας
-  vocative pl,ἀρχαί,ἡμέραι 
-  
-  
-  Nouns of the first declension ending in an **ης** or **ας** are masculine and are declined as follows:
+  *plural*,,
+  Nominative_Vocative,ἀρχαί,ἡμέραι
+  Genitive,ἀρχῶν,ἡμερῶν
+  Dative,ἀρχαῖς,ἡμέραις
+  Accusative,ἀρχάς,ἡμέρας
 
-.. csv-table:: 
 
-  nominative sing.,προφήτης,νεανίας
-  genitive sing.,προφήτου,νεανίου
-  dative sing., προφήτῃ,νεανίᾳ
-  accusative sing.,προφήτην,νεανίαν
-  vocative sing.,προφῆτα,νεανία
-  
+**N-2** Nouns of the first declension inding in an **ης** or **ας** in the nominative singular are masculine and are declined as follows:
+
+.. csv-table::
+
+  *single*,,
+  Nominative,προφήτης,νεανίας
+  Vocative,προφῆτα,νεανία
+  Genitive,προφήτου,νεανίου
+  Dative,προφήτῃ,νεανίᾳ
+  Accusative,προφήτην.νεανίαν
   ,,
-  nominative pl,προφῆται,νεανίαι
-  genitive pl,προφητῶν,νεανίῶν
-  dative pl,προφήταις,νεανίας
-  accusative pl,προφήτας,νεανίας
-  vocative pl, προφήται,νεανίαι
+  *plural*,,
+  Nominative,προφῆται,νεανίαι
+  Vocative,προφῆται,νεανίαι
+  Genitive,προφητῶν,νεανιῶν
+  Dative,προφήταις,νεανίαις
+  Accusative,προφήτας,νεανίας
+
+
+**N-3** Nouns of the first declension ending in an **α** in the Nominative singular not preceded by a vowel or the letter **ρ** are declined as follows:
+
+.. csv-table::
+
+  *single*,
+  Nominative_Vocative,δόξα
+  Genitive,δόξης
+  Dative,δόξῃ
+  Accusative,δόξαν
+  ,
+  *plural*,
+  Nominative_Vocative,δόξαι
+  Genitive,δοξῶν
+  Dative,δόξαις
+  Accusative,δόξας
+
+
+N-4 Second Declension
+^^^^^^^^^^^^^^^^^
+
+Nouns of the second declension ending in **ος** in the Nominative singular are *almost* always masculine.
+*All* nouns ending in **ον** in the Nominative singuar are Neuter.  Note that the Nominative, Accussative, and Vocative case of neuter nouns are the same.
+Note that the case endings for masculine and neuter nouns in the second declensions are the same in the Genitive case and the Dative case.
+
+.. csv-table::
+
+  *Single*,*ος*,*ον
+  Nominative,λόγος,ἔργον
+  Vocative,λόγε,ἔργον
+  Genitive,λόγου,ἔργου
+  Dative,λόγῳ,έργῳ
+  Accusative,λόγον,ἔργον
+  ,
+  *plural*,
+  Nominative_Vocative,λόγοι,ἔργα
+  Genitive,λόγων,ἔργων
+  Dative,λόγοις,ἔργοις
+  Accusative,λόγους,ἔργα
+
+Third Declension
+^^^^^^^^^^^^^^^^
+
+Third declension nouns have stems that end (1) in a connsonant or (2) in a vowel, generally **ι**,**υ**, or **ευ**.
+
+Notes on the formation of the **vocative singular** 
+  - if the stem ends is a mute letter such as φύλαξ or a liquid letter (λ,μ,ν,ρ) AND IS ACCENTED ON THE FINAL SYLLABLE,
+    then the vocative is the same as the nominative.
+  -Nouns not accented on the last syllable, and all other nouns in the third declension have the vocative like the stem.
+  -*exception*   Nouns with stems ending in **ιδ** (έλιπίς) form the vocative by dropping the final connsonant
+  -*exception*   The vocative for σωτήρ is σῶτερ.
+
+  *Dative plural* - When **σι** is added to the dative plural the same connsonantal changes occur that happened in the nominative singular.
+
+**N-5 Stems ending with a consonant** (can be masculine or feminine) are declined as follows:
+
+ 
+.. csv-table::
+  :header-rows: 1
+
+  stem,ending,γυνή
+  *single*,, 
+  Nominative,various,γυναικός 
+  Vocative,generally same as nominative or stem,γύναι
+  Genitive,ος,γυναικός
+  Dative,ι,γυναικί
+  Accusative,α,γυναῖκα
+  ,
+  *Plural*,
+  Nominative,ες,γυναῖκες
+  Vocative,ες,γυναῖκες
+  Genitive,ων,γυναικῶν
+  Dative,σι(ν),γυναιξί(ν)
+  Accusative,ας,γυναῖκας
+
+*Note: in this example for the dative plural the **κ** and the **ς** contract to form **ξ**  (γυναικ + ςι -> γυναιξί)*
+
+**N-6 Stems ending in a mute (or silent) letter** are delined as follows:
+
+.. csv-table::
+  :header-rows: 1
+
+  stem,φυλακ,σαλπιγγ,ὁδοντ,ἐλπιδ
+  ,,,,
+  *single*,,,, 
+  Nominative,φύλαξ,σάλπιγξ,ὀδούς,ἐλπίς 
+  Vocative,φύλαξ,σάλπιγξ,ὀδούς,ἐλπί
+  Genitive,φύλακος,σάλπιγγος,ὀδόντος,ἐλπίδος
+  Dative,φύλακι,σάλπιγγι,ὀδόντι,ἐλπίδι
+  Accusative,φύλακα,σάλπιγγα,ὀδόντα,ἐλπίδα
+  ,,,,
+  *Plural*,,,,
+  Nominative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
+  Vocative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
+  Genitive,φυλάκων,σαλπίγγων,ὀδόντων,ἐλπίδων
+  Dative,φύλαξι,σάλπιγξι,ὀδοῦσι,ἐπίσι
+  Accusative,φύλακας,σάλπγγας,ὀόντας,ἐλπίδας
+
+**N-7 Stems ending in a liquid letter** (λ,μ,ν,ρ)
+
+.. csv-table::
+  :header-rows: 1
+
+  stem,ποιμεν,αἰων,ἡγεμον,σωτερ,κυν
+  ,,,,,
+  *single*,,,,,
+  Nominative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύνων 
+  Vocative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύνων
+  Genitive,ποιμένος,αἰῶνος,ἡγεμόνος,σωτῆρος,κυνός
+  Dative,ποιμένι,αἰῶνι,ἡγεμόνι,σωτῆρι,κυνί
+  Accusative,ποιμένα,αἰῶνα,ἡγεμόνα,σωτῆρα,κυνά
+  ,,,,,
+  *Plural*,,,,,
+  Nominative,ποιμένες,αἰῶνες,ἡγεμόνες,σωτῆρες,κύνες
+  Vocative,ποιμένες,αἰῶνες,ἡγεμόνες,σωτῆρες,κύνες
+  Genitive,ποιμένων,αἰώνων,ἡγεμόνων,σωτήρων,κυνῶν
+  Dative,ποιμέσι(ν),αἰῶσι(ν),ἡγεμόσι(ν),σωτῆρσι(ν),κυσί(ν)
+  Accusative,ποιμένας,αἰῶνας,ἡγεμόνας,σςτῆρας,κύνας
+
+**N-8 Stems ending in a vowel**  (ι,υ,ευ)
+
+.. csv-table::
+  :header-rows: 1
+
+  stem,πολι,ιχθυ,βασιλευ
+  ,,,
+  *single*,,,
+  Nominative,πόλις,ἰχύς,βασιλεύς
+  Vocative,πόλι,ἰχθύ,βασιλεῦ
+  Genitive,πόλεως,ἰχθύος,βασιλέως
+  Dative,πόλει,ἰχυύι,βασιλεῖ
+  Accusative,πόλιν,ἰχθύν,βασιλέα
+  ,,,
+  *Plural*,,,
+  Nominative,πόλεις,ἰχθύες,βασιλεῖς
+  Vocative,πόλεις,ἰχθύες,βασιλεῖς
+  Genitive,πόλεων,ἰχθύων,βασιλέων
+  Dative,πόλεσι,ἰχθύσι,βασιλεῦσι
+  Accusative,πόλεις,βασιλεῖς (or βασιλέας)
+
+**N-8 Neuter Nouns of the third declension** 
+  -Note:  All nouns with a stem ending in **ματ**  are neuter nouns
+  -Note:  Third declension Neuter nouns (like the second declension) have the same ending in the Nominative, Vocative, and accusative singular.
+  -Note:  Third declension Neuter nouns in the nominative, vocative, and accusative plural end in **α** except neuter nouns with stems ending in **ες**.
+
+.. csv-table::
+  :header-rows: 1
+
+  stem,γραμματ,φωτ,γενες
+  ,,,
+  *single*,,,
+  Nominative_vocative,γράμμα,φῶς,γένος
+  Genitive,γράμματος,φῶτος,γένους,
+  Dative,γράμματι,φωτί,γένει
+  Accusative,γράμμα,φῳς,γένος
+  ,,,
+  *Plural*,,,
+  Nominative_Vocative,γράμματα,φῶτα,γένη
+  Genitive,γραμμάτων,φώτων,γενέων (or γενῶν)
+  Dative,γράμμασι,-,γένεσι
+  Accusative,γράμματα,φῶτα,γένη
+
+**N-9 Irregular nouns** of the third declension 
+
+.. csv-table::
+  :header-rows: 1
+
+  stem,πατρ,ανδρ
+  ,,
+  *single*,,
+  Nominative,πατήρ.ἀνήρ
+  Vocative,πάτερ.ἄνερ
+  Genitive,πατρός.ἀνδρός
+  Dative,πατρί,ἀνδρί
+  Accusative,πατέρα,ἄνδρα
+  ,,
+  *Plural*,,
+  Nominative,πατέρες,ἄνδρες
+  Vocative,πατέρες,ἄνδρες
+  Genitive,πατέρων,ἀνδρῶν
+  Dative,πατράσι.ἀνδράσι
+  Accusative,πατέρας,ἄνδρας
+
+
+
+
+
+
 
