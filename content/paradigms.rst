@@ -5,43 +5,48 @@
 Paradigms
 =========
 
-**Nouns**
+Nouns
+-----
 
-First Declension
-----------------
+.. include:: includes/paradigm_noun.txt
 
-Nouns of the first declension ending in **α** or **η** in the nominative singular are all feminine.
+Pronouns
+--------
 
-.. csv-table:: 
+.. include:: includes/paradigm_pronoun.txt
 
-  nominative sing.,ἀρχή,ἡμέρα
-  genitive sing.,ἀρχῆς,ἡμέρας
-  dative sing., ἀρχῇ,ἡμέρᾳ
-  accusative sing.,ἀρχήν,ἡμέραν
-  vocative sing.,ἀρχή,ἡμέρα
-  ,,
-  nominative pl,ἀρχαί,ἡμέραι
-  genitive pl,ἀρχῶν,ἡμερῶν
-  dative pl,ἀρχαῖς,ἡμέραις
-  accusative pl,ἀρχάς,ἡμέρας
-  vocative pl,ἀρχαί,ἡμέραι 
-  
-  
-  Nouns of the first declension ending in an **ης** or **ας** are masculine and are declined as follows:
+Adjectives
+----------
 
-.. csv-table:: 
+.. include:: includes/paradigm_adjective.txt
 
-  nominative sing.,προφήτης,νεανίας
-  genitive sing.,προφήτου,νεανίου
-  dative sing., προφήτῃ,νεανίᾳ
-  accusative sing.,προφήτην,νεανίαν
-  vocative sing.,προφῆτα,νεανία
-  
-  ,,
-  nominative pl,προφῆται,νεανίαι
-  genitive pl,προφητῶν,νεανίῶν
-  dative pl,προφήταις,νεανίας
-  accusative pl,προφήτας,νεανίας
-  vocative pl, προφήται,νεανίαι
-  
-  
+Indicative Thematic
+-------------------
+
+.. include:: includes/paradigm_indicative_thematic.txt
+
+Indicative Athematic
+--------------------
+
+.. include:: includes/paradigm_indicative_athematic.txt
+
+Subjunctive
+-----------
+
+.. include:: includes/paradigm_subjunctive.txt
+
+Imperative
+----------
+
+.. include:: includes/paradigm_imperative.txt
+
+Infinitive
+----------
+
+.. include:: includes/paradigm_infinitive.txt
+
+Participles
+-----------
+
+.. include:: includes/paradigm_participles.txt
+
