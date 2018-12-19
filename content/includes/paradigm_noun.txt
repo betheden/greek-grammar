@@ -18,7 +18,7 @@ First Declension
   Accusative,ἀρχάς,ἡμέρας
 
 
-**N-2** Nouns of the first declension inding in an **ης** or **ας** in the nominative singular are masculine and are declined as follows:
+**N-2** Nouns of the first declension ending in an **ης** or **ας** in the nominative singular are masculine and are declined as follows:
 
 .. csv-table::
 
