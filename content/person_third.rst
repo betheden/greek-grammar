@@ -14,12 +14,12 @@ or writer or the person being addressed (the reader or listener)  (e.g., he ran,
 .. csv-table::
 
   Mark 1:8
-  αὐτὸς,δὲ,βαπτίσει,ὑμᾶς,ἐν,Πνεύματι,Ἁγίῳ
-  autos,de,baptisei,hymas,en,Pneumati,Hagiō
-  he,but,he will baptize,you,with,Spirit,Holy
+  αὐτὸς,δὲ,**βαπτίσει**,ὑμᾶς,ἐν,Πνεύματι,Ἁγίῳ
+  autos,de,**baptisei**,hymas,en,Pneumati,Hagiō
+  he,but,**he** will baptize,you,with,Spirit,Holy
   
   
-*...but he will baptize you with the Holy Spirit.*
+*...but **he** will baptize you with the Holy Spirit.*
 
 
 Summary
@@ -72,14 +72,15 @@ Paradigm
 
 
 **Personal pronouns also have person and appear in various forms.**
-Greek distinguishes between :ref:`Number Singular<number_singular>`  and :ref:`Number Plural<number_plural>` ,AND between 
-:ref:`Gender Masculine<gender_masculine>` ,:ref:`Gender Feminine<gender_feminine>`  ,and :ref:`Gender Neuter<gender_neuter` 
+Greek distinguishes between :ref:`Number Singular<number_singular>`  and :ref:`Number Plural<number_plural>` , AND between 
+:ref:`Gender Masculine<gender_masculine>` , :ref:`Gender Feminine<gender_feminine>`  ,and :ref:`Gender Neuter<gender_neuter` 
 in the third person.
 
 **Third Person Independent Personal Pronoun Forms**
+
 .. csv-table::
 
-  *Masculine*
+  *Masculine*,,,
   Parsing,Greek,Transliteration,Gloss
   Third person nominative singular,αὐτός,autos,he
   Third person nominative plural,αὐτοί,autoi,they
@@ -89,8 +90,8 @@ in the third person.
   Third person dative plural,αὐτοῖς,autois,them
   Third person accusative singular,αὐτόν,auton,him (or it)
   Third person accusative plural,αὐτούς,autous,them
-  ,
-  *Feminine*
+  ,,,
+  *Feminine*,,,
   Parsing,Greek,Transliteration,Gloss
   Third person nominative singular,αὐτή,autē,she
   Third person nominative plural,αὐταί,autai,they
@@ -100,8 +101,8 @@ in the third person.
   Third person dative plural,αὐταῖς,autais,them
   Third person accusative singular,αὐτήν,autēn,her( or it)
   Third person accusative plural,αὐτάς,autas,them
-  ,
-  *Neuter*
+  ,,,
+  *Neuter*,,,
   Parsing,Greek,Transliteration,Gloss
   Third person nominative singular,αὐτό,auto,it
   Third person nominative plural,αὐτά,autα,they
@@ -114,15 +115,15 @@ in the third person.
 
 
 The third person can be found in
-:ref:`verb<verb>`  forms, and as a    :ref:`pronounpersonal(pronoun_personal>`_ forms.
+:ref:`verb<verb>`  forms, and as a :ref:`Pronoun_Personal<pronoun_personal>` forms.
 
 Function
 --------
   
 
 
-In the :ref:`verb<verb>`_ form
-^^^^^^^^^^^^^^^^^^^^^^^
+In the :ref:`verb<verb>` form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 As stated above a suffix is added to the verb stem to indicate the person and number for the subject of the verb.  The subject in a 
 sentence is the person or thing that does the action of the verb.  However, if the verb is in the :ref:`passive voice<voice_passive>`_ ,
@@ -131,9 +132,9 @@ the subject of the sentence receives the action of the verb.
 .. csv-table:: 
 
   John 1:14
-  καὶ,ὁ,λόγος,σὰρξ,ἐγένετο,καὶ,ἐσκήνωσεν,ἐν,ἡμῖν
-  kai,ho,logos,sarx,egeneto,kai,eskēnōsen,en,hemin
-  and,the,word,flesh,it became,and,it lived,among,us
+  καὶ,ὁ,λόγος,σὰρξ,ἐγέν**ετο**,καὶ,ἐσκήνω**σεν**,ἐν,ἡμῖν
+  kai,ho,logos,sarx,egen**eto**,kai,eskēnō**sen**,en,hemin
+  and,the,word,flesh,**it** became,and,**it** lived,among,us
 
 
 *The Word became flesh and lived among us.*
@@ -145,21 +146,21 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
 .. csv-table::
 
   Ephesians 4:11
-  καὶ,αὐτὸς,ἔδωκεν,τοὺς,μὲν,,ἀποστόλους
-  kai,autos,edōken,tous,men,,apostolous
-  and,he,he gave,some,(to be),apostles
+  καὶ,**αὐτὸς**,ἔδωκεν,τοὺς,μὲν,,ἀποστόλους
+  kai,**autos**,edōken,tous,men,,apostolous
+  and,**he**,he gave,some,(to be),apostles
   
   
-*He gave some to be apostles*
+* **He** gave some to be apostles*
 
 
-As a :ref:`pronoun_personal<pronoun_personal>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As a Personal Pronoun
+^^^^^^^^^^^^^^^^^^^^^
 
 
-The third person personal pronoun can be used as a subject, an object, or to indicate possession.  Personal pronouns may also be used 
-as the object of a preposition.  The :ref:`number<number>`_ (singular or plural) and the :ref:`gender<gender>`_ (Masculine, feminine, 
-or neuter) will agree with its antecedent.  However, the :ref:`case<case>`_ will depend on its function in the sentence.
+The third person :ref:`Personal Pronoun<pronoun_personal>`  can be used as a subject, an object, or to indicate possession.  
+Personal pronouns may also be used as the object of a preposition.  The :ref:`number<number>` (singular or plural) and the :ref:`gender<gender>` (Masculine, feminine, 
+or neuter) will agree with its antecedent.  However, the :ref:`case<case>`  will depend on its function in the sentence.
 
 
 **Prepositions**
@@ -172,12 +173,12 @@ depending upon the preposition.
 .. csv-table::
 
   Romans 1:17
-  δικαιοσύνη,γὰρ,Θεοῦ,ἐν,αὐτῷ,ἀποκαλύπτεται,ἐκ,πίστεως,εἰς,πίστιν  
-  dikaiosynē,gar,Theou,en,autō,apokalyptetai,ek,pisteōs,eis,pistin  
-  righteousness,for,of,God,in,it,it is being revealed,from,faith,into,faith
+  δικαιοσύνη,γὰρ,Θεοῦ,ἐν,**αὐτῷ**,ἀποκαλύπτεται,ἐκ,πίστεως,εἰς,πίστιν  
+  dikaiosynē,gar,Theou,en,**autō**,apokalyptetai,ek,pisteōs,eis,pistin  
+  righteousness,for,of,God,in,**it**,it is being revealed,from,faith,into,faith
 
 
-*For in it God's righteousness is revealed from faith to faith*
+*For in **it** God's righteousness is revealed from faith to faith*
 
 
 **Subject of a sentence or clause** (including predicate nominative)
@@ -188,10 +189,11 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
 
 .. csv-table:: Example: Matthew 5:8
 
-Μακάριοι           οἱ    καθαροὶ  τῇ         καρδίᾳ  ὅτι        αὐτοὶ  τὸν  Θεὸν   ὄψονται
-Makarioi             hoi  katharoi  tē         kardia  hoti         autoi  ton  Theon  opsontai
-Blessed  (are)    the   pure        in the  heart     because  they  the   God     they will see
-Blessed are the pure in heart, for they will see God.
+  Μακάριοι,,οἱ,καθαροὶ,τῇ,καρδίᾳ,ὅτι,**αὐτοὶ**,τὸν,Θεὸν,ὄψονται
+  Makarioi,,hoi,katharoi,tē,kardia,hoti,**autoi**,ton,Theon,opsontai
+  Blessed,(are),the,pure,in,the,heart,because,**they**,the,God,**they** will see
+
+*Blessed are the pure in heart, for **they** will see God.*
 
 
 Possession
@@ -200,39 +202,48 @@ Third Person personal pronoun – Genitive case  αὐτοῦ, αὐτῆς, α�
 
 
 .. csv-table:: Example: Matthew 5:2
+  :header-rows: 1
 
-καὶ  ἀνοίξας        τὸ  στόμα  αὐτοῦ  ἐδίδασκεν         αὐτοὺς
-kai  anoixas         to  stoma  autou  edidasken           autous
-and he opened the mouth  his      he was teaching  them
-He opened his mouth and taught them
+  καὶ,ἀνοίξας,τὸ,στόμα,**αὐτοῦ**,ἐδίδασκεν,αὐτοὺς
+  kai,anoixas,to,stoma,**autou**,edidasken,autous
+  and,he,opened,the,mouth,**his**,he was teaching,them
+
+*He opened **his** mouth and taught them*
 
 Objective Cases
+~~~~~~~~~~~~~~~
 
 Third person personal pronoun – Dative  case    αὐτῷ, αὐτῇ, αὐτῷ, αὐτοῖς, αὐταῖς, αὐτοῖς
 
 .. csv-table:: Example: Matthew 8:20
+  :header-rows: 1
 
-καὶ  λέγει     αὐτῷ    ὁ  Ἰησοῦς
-kai   legei     autō     ho  Iēsous
-and he says to him the Jesus
-Jesus said to him
+  καὶ,λέγει,**αὐτῷ**,ὁ,Ἰησοῦς
+  kai,legei,**autō**,ho,Iēsous
+  and,he says,**to him**,the,Jesus
+
+*Jesus said to him*
 
 Third person personal pronoun – Accusative case  αὐτόν, αὐτήν, αὐτό, αὐτούς, αὐτάς, αὐτά 
 
  
 .. csv-table:: Example: Mark 1:37
+  :header-rows: 1
 
-καὶ  εὗρον          αὐτὸν  καὶ  λέγουσιν	  αὐτῷ       ὅτι    πάντες       ζητοῦσίν           σε 
-kai  heuron         auton  kai  legousin	  autō         hoti  pantes      zētousin            se
-and  they found him     and  they said     to him     that  everyone     is seeking        you
-They found him and they said to him, "Everyone is looking for you."
+  καὶ,εὗρον,**αὐτὸν**,καὶ,λέγουσιν,αὐτῷ,ὅτι,πάντες,ζητοῦσίν,σε 
+  kai,heuron,**auton**,kai,legousin,autō,hoti,pantes,zētousin,se
+  and,they found,**him**,and,they said,to him,that,everyone,is seeking,you
+
+*They found him and they said to him, "Everyone is looking for you."*
 
 Reflexive use of the third person personal pronoun – εἀυτοῦ, εἀυτῆς, εἀυτοῦ
 The third person reflexive pronoun occurs 317 times in the New Testament.  It occurs in the Genitive, Dative, and Accusative forms.   αὐτός, αὐτή, αὐτό is used as a reflexive pronoun 119 times.  
 
 .. csv-table:: Example: Romans 14:7
+  :header-rows: 1
 
-οὐδεὶς  γὰρ  ἡμῶν   ἑαυτῷ          ζῇ           καὶ  οὐδεὶς  ἑαυτῷ        ἀποθνῄσκει
-oudeis  gar  hēmōn  heautō         zē          kai  oudeis  heautō       apothnēskei
-no one for     of us     to himself  he lives  and no one  to himself  he dies
-For none of us lives for himself, and none dies for himself.
+  οὐδεὶς,γὰρ,ἡμῶν,**ἑαυτῷ**,ζῇ,καὶ,οὐδεὶς,**ἑαυτῷ**,ἀποθνῄσκει
+  oudeis,gar,hēmōn,**heautō**,zē,kai,oudeis,**heautō**,apothnēskei
+  no one,for,of us,**to himself**,he lives,and,no one,**to himself**,he dies
+
+*For none of us lives for himself, and none dies for himself.*
