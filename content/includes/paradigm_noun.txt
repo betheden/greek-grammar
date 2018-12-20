@@ -5,7 +5,7 @@ First Declension
 
 .. csv-table::
 
-  *single*,,
+  *single*,*beginning_ruler*,*day*
   Nominative_Vocative,ἀρχή,ἡμέρα
   Genitive,ἀρχῆς,ἡμέρας
   Dative,ἀρχῇ,ἡμέρᾳ
@@ -22,12 +22,12 @@ First Declension
 
 .. csv-table::
 
-  *single*,,
+  *single*,*prophet*,*young man*
   Nominative,προφήτης,νεανίας
   Vocative,προφῆτα,νεανία
   Genitive,προφήτου,νεανίου
   Dative,προφήτῃ,νεανίᾳ
-  Accusative,προφήτην.νεανίαν
+  Accusative,προφήτην,νεανίαν
   ,,
   *plural*,,
   Nominative,προφῆται,νεανίαι
@@ -41,7 +41,7 @@ First Declension
 
 .. csv-table::
 
-  *single*,
+  *single*,*glory*
   Nominative_Vocative,δόξα
   Genitive,δόξης
   Dative,δόξῃ
@@ -64,6 +64,7 @@ Note that the case endings for masculine and neuter nouns in the second declensi
 .. csv-table::
 
   *Single*,*ος*,*ον
+  ,*word*,*work_deed*
   Nominative,λόγος,ἔργον
   Vocative,λόγε,ἔργον
   Genitive,λόγου,ἔργου
@@ -82,7 +83,7 @@ Third Declension
 Third declension nouns have stems that end (1) in a connsonant or (2) in a vowel, generally **ι**,**υ**, or **ευ**.
 
 Notes on the formation of the **vocative singular** 
-  - if the stem ends is a mute letter such as φύλαξ or a liquid letter (λ,μ,ν,ρ) AND IS ACCENTED ON THE FINAL SYLLABLE,
+  - if the stem ends in a mute letter such as φύλαξ or a liquid letter (λ,μ,ν,ρ) AND IS ACCENTED ON THE FINAL SYLLABLE,
     then the vocative is the same as the nominative.
   -Nouns not accented on the last syllable, and all other nouns in the third declension have the vocative like the stem.
   -*exception*   Nouns with stems ending in **ιδ** (έλιπίς) form the vocative by dropping the final connsonant
@@ -97,8 +98,8 @@ Notes on the formation of the **vocative singular**
   :header-rows: 1
 
   stem,ending,γυνή
-  *single*,, 
-  Nominative,various,γυναικός 
+  *single*,,*woman_wife* 
+  Nominative,various,γυνή 
   Vocative,generally same as nominative or stem,γύναι
   Genitive,ος,γυναικός
   Dative,ι,γυναικί
@@ -120,7 +121,7 @@ Notes on the formation of the **vocative singular**
 
   stem,φυλακ,σαλπιγγ,ὁδοντ,ἐλπιδ
   ,,,,
-  *single*,,,, 
+  *single*,*guard*,*trumpet*,*tooth*,*hope* 
   Nominative,φύλαξ,σάλπιγξ,ὀδούς,ἐλπίς 
   Vocative,φύλαξ,σάλπιγξ,ὀδούς,ἐλπί
   Genitive,φύλακος,σάλπιγγος,ὀδόντος,ἐλπίδος
@@ -131,8 +132,8 @@ Notes on the formation of the **vocative singular**
   Nominative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
   Vocative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
   Genitive,φυλάκων,σαλπίγγων,ὀδόντων,ἐλπίδων
-  Dative,φύλαξι,σάλπιγξι,ὀδοῦσι,ἐπίσι
-  Accusative,φύλακας,σάλπγγας,ὀόντας,ἐλπίδας
+  Dative,φύλαξι,σάλπιγξι,ὀδοῦσι,ἐλπίσι
+  Accusative,φύλακας,σάλπιγγας,ὀδόντας,ἐλπίδας
 
 **N-7 Stems ending in a liquid letter** (λ,μ,ν,ρ)
 
@@ -140,10 +141,10 @@ Notes on the formation of the **vocative singular**
   :header-rows: 1
 
   stem,ποιμεν,αἰων,ἡγεμον,σωτερ,κυν
-  ,,,,,
+  ,*shepherd*,*age*,*leader*,*saviour*,*dog*
   *single*,,,,,
-  Nominative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύνων 
-  Vocative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύνων
+  Nominative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύων 
+  Vocative,ποιμήν,αἰών,ἡγεμών,σωτήρ,κύων
   Genitive,ποιμένος,αἰῶνος,ἡγεμόνος,σωτῆρος,κυνός
   Dative,ποιμένι,αἰῶνι,ἡγεμόνι,σωτῆρι,κυνί
   Accusative,ποιμένα,αἰῶνα,ἡγεμόνα,σωτῆρα,κυνά
@@ -153,7 +154,7 @@ Notes on the formation of the **vocative singular**
   Vocative,ποιμένες,αἰῶνες,ἡγεμόνες,σωτῆρες,κύνες
   Genitive,ποιμένων,αἰώνων,ἡγεμόνων,σωτήρων,κυνῶν
   Dative,ποιμέσι(ν),αἰῶσι(ν),ἡγεμόσι(ν),σωτῆρσι(ν),κυσί(ν)
-  Accusative,ποιμένας,αἰῶνας,ἡγεμόνας,σςτῆρας,κύνας
+  Accusative,ποιμένας,αἰῶνας,ἡγεμόνας,σωτῆρας,κύνας
 
 **N-8 Stems ending in a vowel**  (ι,υ,ευ)
 
@@ -161,12 +162,12 @@ Notes on the formation of the **vocative singular**
   :header-rows: 1
 
   stem,πολι,ιχθυ,βασιλευ
-  ,,,
+  ,*city*,*fish*,*king*
   *single*,,,
-  Nominative,πόλις,ἰχύς,βασιλεύς
+  Nominative,πόλις,ἰχθύς,βασιλεύς
   Vocative,πόλι,ἰχθύ,βασιλεῦ
   Genitive,πόλεως,ἰχθύος,βασιλέως
-  Dative,πόλει,ἰχυύι,βασιλεῖ
+  Dative,πόλει,ἰχθύι,βασιλεῖ
   Accusative,πόλιν,ἰχθύν,βασιλέα
   ,,,
   *Plural*,,,
@@ -174,7 +175,7 @@ Notes on the formation of the **vocative singular**
   Vocative,πόλεις,ἰχθύες,βασιλεῖς
   Genitive,πόλεων,ἰχθύων,βασιλέων
   Dative,πόλεσι,ἰχθύσι,βασιλεῦσι
-  Accusative,πόλεις,βασιλεῖς (or βασιλέας)
+  Accusative,πόλεις,ιχθύας,βασιλεῖς (or βασιλέας)
 
 **N-8 Neuter Nouns of the third declension** 
   -Note:  All nouns with a stem ending in **ματ**  are neuter nouns
@@ -186,7 +187,7 @@ Notes on the formation of the **vocative singular**
 
   stem,γραμματ,φωτ,γενες
   ,,,
-  *single*,,,
+  *single*,*letter*,*light*,*race_people*
   Nominative_vocative,γράμμα,φῶς,γένος
   Genitive,γράμματος,φῶτος,γένους,
   Dative,γράμματι,φωτί,γένει
@@ -205,10 +206,10 @@ Notes on the formation of the **vocative singular**
 
   stem,πατρ,ανδρ
   ,,
-  *single*,,
+  *single*,*father*,*man_husband*
   Nominative,πατήρ.ἀνήρ
-  Vocative,πάτερ.ἄνερ
-  Genitive,πατρός.ἀνδρός
+  Vocative,πάτερ,ἄνερ
+  Genitive,πατρός,ἀνδρός
   Dative,πατρί,ἀνδρί
   Accusative,πατέρα,ἄνδρα
   ,,
@@ -216,7 +217,7 @@ Notes on the formation of the **vocative singular**
   Nominative,πατέρες,ἄνδρες
   Vocative,πατέρες,ἄνδρες
   Genitive,πατέρων,ἀνδρῶν
-  Dative,πατράσι.ἀνδράσι
+  Dative,πατράσι,ἀνδράσι
   Accusative,πατέρας,ἄνδρας
 
 
