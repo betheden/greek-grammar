@@ -8,7 +8,7 @@ Person third
 Glossary
 --------
 
-**Third person** is a grammatical feature indicating that the speaker is talking about a person (or thing)  other than the speak
+**Third person** is a grammatical feature indicating that the speaker is talking about a person (or thing)  other than the speaker
 or writer or the person being addressed (the reader or listener)  (e.g., he ran, she ran, they ran).
 
 .. csv-table::
@@ -19,7 +19,7 @@ or writer or the person being addressed (the reader or listener)  (e.g., he ran,
   he,but,**he** will baptize,you,with,Spirit,Holy
   
   
-*...but **he** will baptize you with the Holy Spirit.*
+*...but <b>he</b> will baptize you with the Holy Spirit.*
 
 
 Summary
@@ -32,8 +32,9 @@ besides himself or the listener (or reader).
 Article
 -------
 
-The third person is the person or thing refered to other than the speaker or someone being addressed.  Pronouns in the third person
-(*he*, *him*, *his*, *she*, *her*, or *it* or group of people/things *they*, *them*, or *their*, refer to something that is spoken about.
+The third person is used when the person or thing referred to does not include either the speaker(or writer) or the person (or people)
+being addressed.  Pronouns in the third person (*he*, *him*, *his*, *she*, *her*, or *it* or group of people/things *they*, *them*,
+or *their*) refer to something that is spoken about.
 
 The third person can be used in both direct and indirect speech.
 
@@ -61,19 +62,19 @@ Paradigm
 .. csv-table:: 
 
   Parsing,Greek,Transliteration,Gloss
-  Third person present active indicative singular,λύει,lyei,He/she/it is loosing
-  Third person present active indicative plural,λύουσι(ν),lyousi (n),They are loosing
+  Third person present active indicative singular,λύ<b>ει</b>,lyei,He/she/it is loosing
+  Third person present active indicative plural,λύ **ουσι(ν)**,lyousi (n),They are loosing
   Third person present passive indicative singular,λύεται,lyetai,He/she/it is being loosed
   Third person present passive indicative plural,λύονται,lyontai,They are being loosed
-  Third person aorist active indicative singular,ἒλυε,elye,He/she/it loosed
-  Third person aorist active indicative plural,ἒλυον,elyon,They loosed
-  Third person aorist passive indicative singular,ἐλύετο,elyeto,He/she/it was loosed
-  Third person aorist passive indicative plural,ἐλύοντο,elyonto,They were loosed
+  Third person imperfect active indicative singular,ἒλυε(ν),elye(n),He/she/it was loosing
+  Third person imperfect active indicative plural,ἒλυον,elyon,They were loosing
+  Third person imperfect passive indicative singular,ἐλύετο,elyeto,He/she/it was being loosed
+  Third person imperfect passive indicative plural,ἐλύοντο,elyonto,They were being loosed
 
 
 **Personal pronouns also have person and appear in various forms.**
 Greek distinguishes between :ref:`Number Singular<number_singular>`  and :ref:`Number Plural<number_plural>` , AND between 
-:ref:`Gender Masculine<gender_masculine>` , :ref:`Gender Feminine<gender_feminine>`  ,and :ref:`Gender Neuter<gender_neuter` 
+:ref:`Gender Masculine<gender_masculine>` , :ref:`Gender Feminine<gender_feminine>`  ,and :ref:`Gender Neuter<gender_neuter>` 
 in the third person.
 
 **Third Person Independent Personal Pronoun Forms**
@@ -122,18 +123,18 @@ Function
   
 
 
-In the :ref:`verb<verb>` form
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+In the verb form
+^^^^^^^^^^^^^^^^
 
 As stated above a suffix is added to the verb stem to indicate the person and number for the subject of the verb.  The subject in a 
-sentence is the person or thing that does the action of the verb.  However, if the verb is in the :ref:`passive voice<voice_passive>`_ ,
+sentence is the person or thing that does the action of the verb.  However, if the verb is in the :ref:`passive voice<voice_passive>` ,
 the subject of the sentence receives the action of the verb.
 
 .. csv-table:: 
 
   John 1:14
-  καὶ,ὁ,λόγος,σὰρξ,ἐγέν**ετο**,καὶ,ἐσκήνω**σεν**,ἐν,ἡμῖν
-  kai,ho,logos,sarx,egen**eto**,kai,eskēnō**sen**,en,hemin
+  καὶ,ὁ,λόγος,σὰρξ,ἐγέν **ετο**,καὶ,ἐσκήνω**σεν**,ἐν,ἡμῖν
+  kai,ho,logos,sarx,egen<b>eto</b>,kai,eskēnō <b>sen</b>,en,hemin
   and,the,word,flesh,**it** became,and,**it** lived,among,us
 
 
@@ -148,10 +149,10 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
   Ephesians 4:11
   καὶ,**αὐτὸς**,ἔδωκεν,τοὺς,μὲν,,ἀποστόλους
   kai,**autos**,edōken,tous,men,,apostolous
-  and,**he**,he gave,some,(to be),apostles
+  and,**he**,he gave,some,,(to be),apostles
   
   
-* **He** gave some to be apostles*
+* <b>He</b> gave some to be apostles*
 
 
 As a Personal Pronoun
@@ -175,7 +176,7 @@ depending upon the preposition.
   Romans 1:17
   δικαιοσύνη,γὰρ,Θεοῦ,ἐν,**αὐτῷ**,ἀποκαλύπτεται,ἐκ,πίστεως,εἰς,πίστιν  
   dikaiosynē,gar,Theou,en,**autō**,apokalyptetai,ek,pisteōs,eis,pistin  
-  righteousness,for,of,God,in,**it**,it is being revealed,from,faith,into,faith
+  righteousness,for,ofGod,in,**it**,it is being revealed,from,faith,into,faith
 
 
 *For in **it** God's righteousness is revealed from faith to faith*
@@ -187,11 +188,12 @@ depending upon the preposition.
 As stated above, the personal ending of the verb is generally sufficient to show the person and number of the subject of the sentence.  
 Therefore, an emphasis is being made when the nominative case of the personal pronoun is used in conjunction with the verb.
 
-.. csv-table:: Example: Matthew 5:8
+.. csv-table::
 
+  Matthew 5:8
   Μακάριοι,,οἱ,καθαροὶ,τῇ,καρδίᾳ,ὅτι,**αὐτοὶ**,τὸν,Θεὸν,ὄψονται
   Makarioi,,hoi,katharoi,tē,kardia,hoti,**autoi**,ton,Theon,opsontai
-  Blessed,(are),the,pure,in,the,heart,because,**they**,the,God,**they** will see
+  Blessed,(are),the,pure,in the,heart,because,**they**,the,God,**they** will see
 
 *Blessed are the pure in heart, for **they** will see God.*
 
@@ -202,8 +204,7 @@ Third Person personal pronoun – Genitive case  αὐτοῦ, αὐτῆς, α�
 
 
 .. csv-table:: Example: Matthew 5:2
-  :header-rows: 1
-
+  
   καὶ,ἀνοίξας,τὸ,στόμα,**αὐτοῦ**,ἐδίδασκεν,αὐτοὺς
   kai,anoixas,to,stoma,**autou**,edidasken,autous
   and,he,opened,the,mouth,**his**,he was teaching,them
@@ -215,9 +216,9 @@ Objective Cases
 
 Third person personal pronoun – Dative  case    αὐτῷ, αὐτῇ, αὐτῷ, αὐτοῖς, αὐταῖς, αὐτοῖς
 
-.. csv-table:: Example: Matthew 8:20
-  :header-rows: 1
+.. csv-table::
 
+  Matthew 8:20
   καὶ,λέγει,**αὐτῷ**,ὁ,Ἰησοῦς
   kai,legei,**autō**,ho,Iēsous
   and,he says,**to him**,the,Jesus
@@ -227,9 +228,9 @@ Third person personal pronoun – Dative  case    αὐτῷ, αὐτῇ, αὐ�
 Third person personal pronoun – Accusative case  αὐτόν, αὐτήν, αὐτό, αὐτούς, αὐτάς, αὐτά 
 
  
-.. csv-table:: Example: Mark 1:37
-  :header-rows: 1
+.. csv-table::
 
+  Mark 1:37
   καὶ,εὗρον,**αὐτὸν**,καὶ,λέγουσιν,αὐτῷ,ὅτι,πάντες,ζητοῦσίν,σε 
   kai,heuron,**auton**,kai,legousin,autō,hoti,pantes,zētousin,se
   and,they found,**him**,and,they said,to him,that,everyone,is seeking,you
@@ -239,9 +240,9 @@ Third person personal pronoun – Accusative case  αὐτόν, αὐτήν, α�
 Reflexive use of the third person personal pronoun – εἀυτοῦ, εἀυτῆς, εἀυτοῦ
 The third person reflexive pronoun occurs 317 times in the New Testament.  It occurs in the Genitive, Dative, and Accusative forms.   αὐτός, αὐτή, αὐτό is used as a reflexive pronoun 119 times.  
 
-.. csv-table:: Example: Romans 14:7
-  :header-rows: 1
+.. csv-table::
 
+  Romans 14:7
   οὐδεὶς,γὰρ,ἡμῶν,**ἑαυτῷ**,ζῇ,καὶ,οὐδεὶς,**ἑαυτῷ**,ἀποθνῄσκει
   oudeis,gar,hēmōn,**heautō**,zē,kai,oudeis,**heautō**,apothnēskei
   no one,for,of us,**to himself**,he lives,and,no one,**to himself**,he dies
