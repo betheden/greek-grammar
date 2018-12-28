@@ -80,7 +80,7 @@ Note that the case endings for masculine and neuter nouns in the second declensi
 Third Declension
 ^^^^^^^^^^^^^^^^
 
-Third declension nouns have stems that end (1) in a connsonant or (2) in a vowel, generally **ι**,**υ**, or **ευ**.
+Third declension nouns have stems that end (1) in a connsonant or (2) in a vowel, generally **ι**, **υ**, or **ευ**.
 
 Notes on the formation of the **vocative singular** 
   - if the stem ends in a mute letter such as φύλαξ or a liquid letter (λ,μ,ν,ρ) AND IS ACCENTED ON THE FINAL SYLLABLE,
@@ -112,7 +112,7 @@ Notes on the formation of the **vocative singular**
   Dative,σι(ν),γυναιξί(ν)
   Accusative,ας,γυναῖκας
 
-*Note: in this example for the dative plural the **κ** and the **ς** contract to form **ξ**  (γυναικ + ςι -> γυναιξί)*
+Note: in this example for the dative plural the **κ** and the **ς** contract to form **ξ**  (γυναικ + ςι -> γυναιξί)
 
 **N-6 Stems ending in a mute (or silent) letter** are delined as follows:
 
@@ -207,7 +207,7 @@ Notes on the formation of the **vocative singular**
   stem,πατρ,ανδρ
   ,,
   *single*,*father*,*man_husband*
-  Nominative,πατήρ.ἀνήρ
+  Nominative,πατήρ,ἀνήρ
   Vocative,πάτερ,ἄνερ
   Genitive,πατρός,ἀνδρός
   Dative,πατρί,ἀνδρί
