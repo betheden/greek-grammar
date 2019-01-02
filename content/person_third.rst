@@ -19,7 +19,7 @@ or writer or the person being addressed (the reader or listener)  (e.g., he ran,
   he,but,**he** will baptize,you,with,Spirit,Holy
   
   
-*...but <b>he</b> will baptize you with the Holy Spirit.*
+*...but* **he** *will baptize you with the Holy Spirit.*
 
 
 Summary
@@ -62,8 +62,8 @@ Paradigm
 .. csv-table:: 
 
   Parsing,Greek,Transliteration,Gloss
-  Third person present active indicative singular,λύ<b>ει</b>,lyei,He/she/it is loosing
-  Third person present active indicative plural,λύ **ουσι(ν)**,lyousi (n),They are loosing
+  Third person present active indicative singular,λύει>,lyei,He/she/it is loosing
+  Third person present active indicative plural,λύουσι(ν),lyousi (n),They are loosing
   Third person present passive indicative singular,λύεται,lyetai,He/she/it is being loosed
   Third person present passive indicative plural,λύονται,lyontai,They are being loosed
   Third person imperfect active indicative singular,ἒλυε(ν),elye(n),He/she/it was loosing
@@ -133,8 +133,8 @@ the subject of the sentence receives the action of the verb.
 .. csv-table:: 
 
   John 1:14
-  καὶ,ὁ,λόγος,σὰρξ,ἐγέν **ετο**,καὶ,ἐσκήνω**σεν**,ἐν,ἡμῖν
-  kai,ho,logos,sarx,egen<b>eto</b>,kai,eskēnō <b>sen</b>,en,hemin
+  καὶ,ὁ,λόγος,σὰρξ,ἐγένετο,καὶ,ἐσκήνωσεν,ἐν,ἡμῖν
+  kai,ho,logos,sarx,egeneto,kai,eskēnōsen,en,hemin
   and,the,word,flesh,**it** became,and,**it** lived,among,us
 
 
@@ -152,7 +152,7 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
   and,**he**,he gave,some,,(to be),apostles
   
   
-* <b>He</b> gave some to be apostles*
+*He gave some to be apostles*
 
 
 As a Personal Pronoun
@@ -176,10 +176,10 @@ depending upon the preposition.
   Romans 1:17
   δικαιοσύνη,γὰρ,Θεοῦ,ἐν,**αὐτῷ**,ἀποκαλύπτεται,ἐκ,πίστεως,εἰς,πίστιν  
   dikaiosynē,gar,Theou,en,**autō**,apokalyptetai,ek,pisteōs,eis,pistin  
-  righteousness,for,ofGod,in,**it**,it is being revealed,from,faith,into,faith
+  righteousness,for,of God,in,**it**,it is being revealed,from,faith,into,faith
 
 
-*For in **it** God's righteousness is revealed from faith to faith*
+*For in* **it** *God's righteousness is revealed from faith to faith*
 
 
 **Subject of a sentence or clause** (including predicate nominative)
@@ -195,7 +195,7 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
   Makarioi,,hoi,katharoi,tē,kardia,hoti,**autoi**,ton,Theon,opsontai
   Blessed,(are),the,pure,in the,heart,because,**they**,the,God,**they** will see
 
-*Blessed are the pure in heart, for **they** will see God.*
+*Blessed are the pure in heart, for* **they** *will see God.*
 
 
 Possession
@@ -207,9 +207,9 @@ Third Person personal pronoun – Genitive case  αὐτοῦ, αὐτῆς, α�
   
   καὶ,ἀνοίξας,τὸ,στόμα,**αὐτοῦ**,ἐδίδασκεν,αὐτοὺς
   kai,anoixas,to,stoma,**autou**,edidasken,autous
-  and,he,opened,the,mouth,**his**,he was teaching,them
+  and,he opened,the,mouth,**his**,he was teaching,them
 
-*He opened **his** mouth and taught them*
+*He opened* **his** *mouth and taught them*
 
 Objective Cases
 ~~~~~~~~~~~~~~~
