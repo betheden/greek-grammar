@@ -80,16 +80,16 @@ Note that the case endings for masculine and neuter nouns in the second declensi
 Third Declension
 ^^^^^^^^^^^^^^^^
 
-Third declension nouns have stems that end (1) in a connsonant or (2) in a vowel, generally **ι**, **υ**, or **ευ**.
+Third declension nouns have stems that end (1) in a consonant or (2) in a vowel, generally **ι**, **υ**, or **ευ**.
 
 Notes on the formation of the **vocative singular** 
   - if the stem ends in a mute letter such as φύλαξ or a liquid letter (λ,μ,ν,ρ) AND IS ACCENTED ON THE FINAL SYLLABLE,
     then the vocative is the same as the nominative.
   -Nouns not accented on the last syllable, and all other nouns in the third declension have the vocative like the stem.
-  -*exception*   Nouns with stems ending in **ιδ** (έλιπίς) form the vocative by dropping the final connsonant
+  -*exception*   Nouns with stems ending in **ιδ** (έλιπίς) form the vocative by dropping the final consonant
   -*exception*   The vocative for σωτήρ is σῶτερ.
 
-  *Dative plural* - When **σι** is added to the dative plural the same connsonantal changes occur that happened in the nominative singular.
+  *Dative plural* - When **σι** is added to the dative plural the same consonantal changes occur that happened in the nominative singular.
 
 **N-5 Stems ending with a consonant** (can be masculine or feminine) are declined as follows:
 
@@ -114,7 +114,7 @@ Notes on the formation of the **vocative singular**
 
 Note: in this example for the dative plural the **κ** and the **ς** contract to form **ξ**  (γυναικ + ςι -> γυναιξί)
 
-**N-6 Stems ending in a mute (or silent) letter** are delined as follows:
+**N-6 Stems ending in a mute (or silent) letter** are declined as follows:
 
 .. csv-table::
   :header-rows: 1
@@ -129,7 +129,7 @@ Note: in this example for the dative plural the **κ** and the **ς** contract t
   Accusative,φύλακα,σάλπιγγα,ὀδόντα,ἐλπίδα
   ,,,,
   *Plural*,,,,
-  Nominative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
+  Nominative,φύλακες,σάλπιγγες,ὀδόντες,ἐλπίδες
   Vocative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
   Genitive,φυλάκων,σαλπίγγων,ὀδόντων,ἐλπίδων
   Dative,φύλαξι,σάλπιγξι,ὀδοῦσι,ἐλπίσι
@@ -189,9 +189,9 @@ Note: in this example for the dative plural the **κ** and the **ς** contract t
   ,,,
   *single*,*letter*,*light*,*race_people*
   Nominative_vocative,γράμμα,φῶς,γένος
-  Genitive,γράμματος,φῶτος,γένους,
+  Genitive,γράμματος,φωτός,γένους,
   Dative,γράμματι,φωτί,γένει
-  Accusative,γράμμα,φῳς,γένος
+  Accusative,γράμμα,φῶς,γένος
   ,,,
   *Plural*,,,
   Nominative_Vocative,γράμματα,φῶτα,γένη
