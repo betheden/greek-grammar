@@ -130,7 +130,7 @@ Note: in this example for the dative plural the **κ** and the **ς** contract t
   ,,,,
   *Plural*,,,,
   Nominative,φύλακες,σάλπιγγες,ὀδόντες,ἐλπίδες
-  Vocative,φύλακες,σάλπιγγες,ὀδόντεσ,ἐλπίδες
+  Vocative,φύλακες,σάλπιγγες,ὀδόντες,ἐλπίδες
   Genitive,φυλάκων,σαλπίγγων,ὀδόντων,ἐλπίδων
   Dative,φύλαξι,σάλπιγξι,ὀδοῦσι,ἐλπίσι
   Accusative,φύλακας,σάλπιγγας,ὀδόντας,ἐλπίδας
