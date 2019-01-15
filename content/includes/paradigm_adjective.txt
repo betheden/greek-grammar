@@ -1,1 +1,267 @@
 paradigm_adjective
+
+Adjectives are described by a three number combination that describes the way they are declined.  (2-1-2) or (3-1-3), and so on.  The three numbers correspond to masculine, feminine, and neuter in that order.  The number describes the declension pattern of adjective (1-first declension, 2-second declension, and 3-third declension).  Therefore a 2-1-2 pattern will follow the second declension for masculine adjectives, the first declension for feminine adjectives, and the second declension for neuter adjectives.
+
+Adjectives of the Second Declension
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2-1-2 uncontracted adjectives
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Tables a1 through a3 give the paradigms for uncontracted 2-1-2 adjectives.
+Table a1 - *uncontracted adjectives without a vowel shift in the feminine*
+Table a2 - *uncontracted adjectives with a vowel shift in the feminine*
+Table a3 - *uncotracted with with an omicron in the neuter.
+
+**Table a1** - *uncontracted adjectives without a vowel shift in the feminine*
+
+If the letter immediately preceding the case ending for an adjective is α **vowel**  or **ρ** then, in the feminine declension, the nominative and genitive singular the final vowel will remain an alpha and not change to an **“η”**.
+
+.. csv-table:: a1 (2-1-2) (ἃγioς *holy*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἅγιος,ἁγία,ἅγιον
+  Vocative,ἅγιε,ἁγία,ἅγιον
+  Genitive,ἁγίου,ἁγιάς,ἁγίου
+  Dative,ἁγίῳ,ἁγἰᾳ,ἁγίῳ
+  Accusative,ἃγιον,ἁγίαν,ἃγιον
+  *Plural*,,,
+  Nominative_Vocative,ἃγιοι,ἃγιαι,ἃγια
+  Genitive,ἁγίων,ἁγίων,ἁγίων
+  Dative,ἁγίοις,ἁγίαις,ἁγίοις
+  Accusative,ἁγίους,ἁγίας,ἃγια
+
+
+**Table a2** - *uncontracted with a vowel shift in the feminine*
+
+
+When the letter **immediately preceding the case ending for an adjective is not a vowel or the letter “ρ”** the final vowel lengthens in the feminine declension.
+
+.. csv-table:: a2 (2-1-2) (ἀγαθός *good*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἀγαθός,ἀγαθή,ἀγαθόν
+  Vocative,ἀγαθέ,ἀγαθή,ἀγαθόν
+  Genitive,ἀγαθοῦ,ἀγαθῆς,ἀγαθοῦ
+  Dative,ἀγαθῷ,ἀγαθῇ,ἀγαθῷ
+  Accusative,ἀγαθόν,ἀγαθήν,ἀγαθόν
+  *Plural*,,,
+  Nominative_Vocative,ἀγαθοί,ἀγαθαί,ἀγαθά
+  Genitive,ἀγαθῶν,ἀγαθῶν,ἀγαθῶν
+  Dative,ἀγαθοῖς,ἀγαθαῖς,ἀγαθοῖς
+  Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
+
+
+**Table a3** - *uncontracted with “ο” in the neuter*
+
+
+**[Note: DELETE AFTER EDITING:  I checked this against Freiberg analytical greek lexicon, but could have use αὒτος**
+**from Mounce]**
+
+.. csv-table:: a3 (2-1-2) (ἂλλος *other, another*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἂλλος,ἂλλη,ἂλλο
+  Genitive,ἂλλου,ἂλλης,ἂλλου
+  Dative,ἂλλῳ,ἂλλῃ,ἂλλῳ
+  Accusative,ἂλλον,ἂλλην,ἂλλο
+  *Plural*,,,
+  Nominative,ἄλλοι,ἄλλαι,ἂλλα
+  Genitive,ἂλλων,ἂλλων,ἂλλων
+  Dative,ἂλλοις,ἂλλαις,ἂλλοις
+  Accusative,ἂλλους,ἂλλας,ἂλλα
+
+2-1-2 contract adjectives 
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+**Note:** The circumflex accent should help the reader to recognize the contraction.
+
+.. csv-table:: a4 (2-1-2) (ἁπλοῦς  *single, sincere*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἁπλοῦς,ἁπλῆς,ἁπλοῦν
+  Genitive,ἁπλοῦ,ἁπλῆς,ἁπλοῦ
+  Dative,ἁπλῷ,ἁπλῇ,ἁπλῷ
+  Accusative,ἁπλοῦν,ἁπλῆν,ἁπλοῦν
+  *Plural*,,,
+  Nominative,ἁπλοῖ,ἁπλαῖ,ἁπλᾶ
+  Genitive,ἁπλῶν,ἁπλῶν,ἁπλῶν
+  Dative,ἁπλοῖς,ἁπλαῖς,ἁπλοῖς
+  Accusative,ἁπλοῦς,ἁπλᾶς,ἁπλᾶ
+  μέγας and πολύς (2-1-2)
+
+
+2-1-2 special paradigms
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The stem for μέγας is **μεγαλ** and the stem for πολύς is **πολλ**.
+Note that in the nominative and accusative masculine and neuter, the stem drops a lambda.
+
+Table a5 - *μέγας*
+Table a6 - *πολύς*
+
+**Table a5** - *μέγας*
+
+.. csv-table:: a5 (2-1-2) (μέγας  *great*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,μέγας,μεγάλη,μέγα
+  Genitive,μεγάλου,μεγάλης,μεγάλου
+  Dative,μεγάλῳ, μεγάλῃ,μεγάλῳ
+  Accusative,μέγαν,μεγάλην,μέγα
+  *Plural*,,,
+  Nominative,μεγάλοι,μεγάλαι,μεγάλα
+  Genitive,μεγάλων,μεγάλων,μεγάλων
+  Dative,μεγάλοις,μεγάλαις,μεγάλοις
+  Accusative,μεγάλους,μεγάλας,μεγάλα
+
+
+**Table a6** -*πολῦς*
+.. csv-table:: a6 (2-1-2) (πολύς  *much, great*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,πολύς,πολλή,πολὐ
+  Genitive,πολλοῦ,πολλῆς,πολλοῦ
+  Dative,πολλῷ,πολλῇ,πολλῷ
+  Accusative,πολύν,πολλήν,πολύ
+  *Plural*,,,
+  Nominative,πολλοί,πολλαί,πολλά
+  Genitive,πολλῶν,πολλῶν,πολλῶν
+  Dative,πολλοῖς,πολλαῖς,πολλοῖς
+  Accusative,πολλούς,πολλάς,πολλά
+
+
+3-1-3 Adjectives
+^^^^^^^^^^^^^
+
+The 3-1-3 adjectives (tables a7 through a9) are divided into three groups:
+Table a7 is the paradigm for εἵς *(one)* and therefore only occurs in the singular.
+Table a8 is the paradigm for πᾶς  *(all, every)*.  
+Table a9 is the paradigm for ταχύς  *(quick, speedy)*.
+
+.. csv-table:: a7 (3-1-3) (εἵς  *one*)
+  :header-rows: 1 
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,εἵς,μία,ἕν
+  Genitive,ἑνός,μιᾶς,ἑνός
+  Dative,ἑνί,μιᾷ,ἑνί
+  Accusative,ἕνα,μίαν,ἕν
+
+πᾶς (3-1-3) adjective
+^^^^^^^^^
+
+The root for πᾶς is **παντ**  This is a very important paradigm to know because it also serves as a model for  active and aorist passive participles.
+
+.. csv-table:: a8 (3-1-3) (πᾶς  *all, every*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,πᾶς,πᾶσα,πᾶν
+  Genitive,παντός,πάσης,παντός
+  Dative,παντί,πάςῃ,παντί
+  Accusative,πάντα,πᾶσαν,πᾶν
+  *Plural*,,,
+  Nominative,πάντες,πᾶσαι,πάντα
+  Genitive,πάντων,παςῶν,πάντων
+  Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
+  Accusative,πάντας,πάσας,πάντα
+
+.. csv-table:: a9 (3-1-3) (ταχύς  *quick, speedy*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ταχύς,ταχεῖα,ταχῦ
+  Genitive,ταχέως,ταχείας,ταχέως
+  Dative,ταχεῖ,ταχείᾳ,ταχεῖ
+  Accusative,ταχύν,ταχεῖαν,ταχῦ
+  *Plural*,,,
+  Nominative,ταχεῖς,ταχεῖαι,ταχέα
+  Genitive,ταχέων,ταχειῶν,ταχέων
+  Dative,ταχέσι(ν),ταχείαις,ταχέσι(ν)
+  Accusative,ταχεῖς,ταχείας,ταχέα
+
+
+(2-2-2) άμαρτωλός
+^^^^^^^^^^^^^^^
+In this category there are eight verbs that will sometimes follow the 2-2-2 pattern and sometimes their respective 2-1-2 pattern with a feminine ending of alpha or eta. 
+
+**Note that the masculine and feminine declensions are identical in the 2-2-2 pattern.**
+
+.. csv-table:: a10 (2-2-2) (ἁμαρτωλός  *sinful*)
+  :header-rows: 1
+
+    ,Masculine,Feminine,Neuter
+    *Singular*,,,
+    Nominative,ἁμαρτωλός,ἁμαρτωλός,άμαρτωλόν
+  Vocative,ἁμαρτωλέ,ἁμαρτωλέ,ἁμαρτωλόν
+  Genitive,ἁμαρτωλοῦ,ἁμαρτωλοῦ,ἁμαρτωλοῦ
+  Dative,ἁμαρτωλῷ, ἁμαρτωλῷ, ἁμαρτωλῷ
+  Accusative,ἁμαρτωλόν, ἁμαρτωλόν, ἁμαρτωλόν
+  *Plural*,,,
+  Nominative_vocative,ἁμαρτωλοί,ἁμαρτωλοί,ἁμαρτωλά
+  Genitive,ἁματωλῶν,ἁμαρτωλῶν,ἁμαρτωλῶν
+  Dative,ἁμαρτωλοῖς, ἁμαρτωλοῖς, ἁμαρτωλοῖς
+  Accusative,ἁμαρτωλούς,ἁμαρτωλούς,ἁμαρτωλά
+
+(3-3-3) adjectives
+^^^^^^^^^^^^^^
+
+3-3-3 adjectives are divided into two groups.  Table a10 is the paradigm for stems ending in **ες**. 
+Table a11 is the paradigm for stems ending in **ον**
+
+
+**Note that the masculine and feminine conjugations are the same for 3-3-3 adjectives.**
+
+.. csv-table:: a11 (3-3-3) (ἀληθής  *true*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἀληθής, ἀληθής, ἀληθές
+  Genitive,ἀληθοῦς,ἀληθοῦς,ἀληθοῦς
+  Dative,ἀληθεῖ,ἀληθεῖ,ἀληθεῖ
+  Accusative,ἀληθῆ,ἀληθῆ,ἀληθές
+  *Plural*,,,
+  Nominative,ἀληθεῖς,ἀληθεῖς,ἀληθῆ
+  Genitive,ἀληθῶν,ἀληθῶν,ἀληθῶν
+  Dative,ἀληθέσι(ν),ἀληθέσι(ν),ἀληθέσι(ν)
+  Accusative,ἀληθεῖς,ἀληθεῖς,ἀληθῆ
+
+.. csv-table:: a12 (3-3-3) (μείζων  *greater*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,μείζων,μείζων,μεῖζον
+  Genitive,μείζονος,μείζονος,μείζονος
+  Dative,μείζονι,μείζονι,μείζονι
+  Accusative,μείζονα (μείζω),μείζονα (μείζω),μεῖζον
+  *Plural*,,,
+  Nominative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
+  Genitive,μειζόνων,μειζόνων,μειζόνων
+  Dative,μείζοσι(ν),μείζοσι(ν),μείζοσι(ν)
+  Accusative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
+
+
+
+  
+
+
