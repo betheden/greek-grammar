@@ -10,9 +10,10 @@ Adjectives of the Second Declension
 
 
 Tables a1 through a3 give the paradigms for uncontracted 2-1-2 adjectives.
-Table a1 - *uncontracted adjectives without a vowel shift in the feminine*
-Table a2 - *uncontracted adjectives with a vowel shift in the feminine*
-Table a3 - *uncotracted with with an omicron in the neuter.
+
+* Table a1 - *uncontracted adjectives without a vowel shift in the feminine*
+* Table a2 - *uncontracted adjectives with a vowel shift in the feminine*
+* Table a3 - *uncotracted with with an omicron in the neuter.
 
 **Table a1** - *uncontracted adjectives without a vowel shift in the feminine*
 
@@ -107,8 +108,8 @@ When the letter **immediately preceding the case ending for an adjective is not 
 The stem for μέγας is **μεγαλ** and the stem for πολύς is **πολλ**.
 Note that in the nominative and accusative masculine and neuter, the stem drops a lambda.
 
-Table a5 - *μέγας*
-Table a6 - *πολύς*
+* Table a5 - *μέγας*
+* Table a6 - *πολύς*
 
 **Table a5** - *μέγας*
 
@@ -129,6 +130,7 @@ Table a6 - *πολύς*
 
 
 **Table a6** -*πολῦς*
+
 .. csv-table:: a6 (2-1-2) (πολύς  *much, great*)
   :header-rows: 1
 
@@ -146,29 +148,23 @@ Table a6 - *πολύς*
 
 
 3-1-3 Adjectives
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
-The 3-1-3 adjectives (tables a7 through a9) are divided into three groups:
-Table a7 is the paradigm for εἵς *(one)* and therefore only occurs in the singular.
-Table a8 is the paradigm for πᾶς  *(all, every)*.  
-Table a9 is the paradigm for ταχύς  *(quick, speedy)*.
+The 3-1-3 adjectives (tables a7 and a8) are divided into two groups:
 
-.. csv-table:: a7 (3-1-3) (εἵς  *one*)
-  :header-rows: 1 
+* Table a7 is the paradigm for πᾶς  *(all, every)*.  
+* Table a8 is the paradigm for ταχύς  *(quick, speedy)*.
 
-  ,Masculine,Feminine,Neuter
-  *Singular*,,,
-  Nominative,εἵς,μία,ἕν
-  Genitive,ἑνός,μιᾶς,ἑνός
-  Dative,ἑνί,μιᾷ,ἑνί
-  Accusative,ἕνα,μίαν,ἕν
+The paradigm for the number one also follows a 3-1-3 pattern but is listed with the cardinals in table a12 below.
 
+
+**Table a7** - *πᾳς*
 πᾶς (3-1-3) adjective
-^^^^^^^^^
+
 
 The root for πᾶς is **παντ**  This is a very important paradigm to know because it also serves as a model for  active and aorist passive participles.
 
-.. csv-table:: a8 (3-1-3) (πᾶς  *all, every*)
+.. csv-table:: a7 (3-1-3) (πᾶς  *all, every*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -183,7 +179,8 @@ The root for πᾶς is **παντ**  This is a very important paradigm to know 
   Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
   Accusative,πάντας,πάσας,πάντα
 
-.. csv-table:: a9 (3-1-3) (ταχύς  *quick, speedy*)
+**Table a8** - *ταχύς*
+.. csv-table:: a8 (3-1-3) (ταχύς  *quick, speedy*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -200,17 +197,19 @@ The root for πᾶς is **παντ**  This is a very important paradigm to know 
 
 
 (2-2-2) άμαρτωλός
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 In this category there are eight verbs that will sometimes follow the 2-2-2 pattern and sometimes their respective 2-1-2 pattern with a feminine ending of alpha or eta. 
 
 **Note that the masculine and feminine declensions are identical in the 2-2-2 pattern.**
 
-.. csv-table:: a10 (2-2-2) (ἁμαρτωλός  *sinful*)
+**Table a9** - *ἁμαρτςλός*
+
+.. csv-table:: a9 (2-2-2) (ἁμαρτωλός  *sinful*)
   :header-rows: 1
 
-    ,Masculine,Feminine,Neuter
-    *Singular*,,,
-    Nominative,ἁμαρτωλός,ἁμαρτωλός,άμαρτωλόν
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,ἁμαρτωλός,ἁμαρτωλός,άμαρτωλόν
   Vocative,ἁμαρτωλέ,ἁμαρτωλέ,ἁμαρτωλόν
   Genitive,ἁμαρτωλοῦ,ἁμαρτωλοῦ,ἁμαρτωλοῦ
   Dative,ἁμαρτωλῷ, ἁμαρτωλῷ, ἁμαρτωλῷ
@@ -222,15 +221,18 @@ In this category there are eight verbs that will sometimes follow the 2-2-2 patt
   Accusative,ἁμαρτωλούς,ἁμαρτωλούς,ἁμαρτωλά
 
 (3-3-3) adjectives
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
-3-3-3 adjectives are divided into two groups.  Table a10 is the paradigm for stems ending in **ες**. 
-Table a11 is the paradigm for stems ending in **ον**
+3-3-3 adjectives are divided into two groups. 
+
+* Table a10 is the paradigm for stems ending in **ες**. 
+* Table a11 is the paradigm for stems ending in **ον**
 
 
 **Note that the masculine and feminine conjugations are the same for 3-3-3 adjectives.**
 
-.. csv-table:: a11 (3-3-3) (ἀληθής  *true*)
+**Table a10** - *αληθής*
+.. csv-table:: a10 (3-3-3) (ἀληθής  *true*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -245,7 +247,9 @@ Table a11 is the paradigm for stems ending in **ον**
   Dative,ἀληθέσι(ν),ἀληθέσι(ν),ἀληθέσι(ν)
   Accusative,ἀληθεῖς,ἀληθεῖς,ἀληθῆ
 
-.. csv-table:: a12 (3-3-3) (μείζων  *greater*)
+**Table a11** - *μείζων*
+
+.. csv-table:: a11 (3-3-3) (μείζων  *greater*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -259,6 +263,72 @@ Table a11 is the paradigm for stems ending in **ον**
   Genitive,μειζόνων,μειζόνων,μειζόνων
   Dative,μείζοσι(ν),μείζοσι(ν),μείζοσι(ν)
   Accusative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
+  
+  
+Cardinals (numerals)
+^^^^^^^^^^^^^^^^^^^^
+
+The following four tables are for the declension of the cardinal numbers one through four.
+One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two through four only occur in the plural.  Two is the same in the nominative, genetive, and accusative cases.
+
+* Table a12 - εἷς      (one)
+* Table a13 - δὑο      (two)
+* Table a14 - τρεῖς    (three)
+* Table a15 - τέσσαρες (four)
+
+
+
+**Table a12** - *εῖς* 
+
+.. csv-table:: a12 (3-1-3) (εἵς  *one*)
+  :header-rows: 1 
+
+  ,Masculine,Feminine,Neuter
+  *Singular*,,,
+  Nominative,εἵς,μία,ἕν
+  Genitive,ἑνός,μιᾶς,ἑνός
+  Dative,ἑνί,μιᾷ,ἑνί
+  Accusative,ἕνα,μίαν,ἕν
+  
+**Table a13** -δὑο  
+
+.. csv-table:: a13  (δὑο  *two*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,δύο,δύο,δύο
+  Genitive,δύο,δύο,δύο
+  Dative,δυσί,δυσί,δυσί
+  Accusative,δύο,δύο,δύο
+  
+**Table a14** - (3-3-3) (τρεῖς    *three*)  
+ Note that the masculine and feminine declension is identical. 
+ 
+ .. csv-table:: a14 (3-3-3) (τρεῖς  *three*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τρεῖς,τρεῖς,τρία
+  Genitive,τριῶν,τριῶν,τριῶν
+  Dative,τρισί(ν),τρισί(ν),τρισί(ν)
+  Accusative,τρεῖς,τρεῖς,τρία
+  
+**Table a15**  (3-3-3)  (τέσσαρες  *four*)
+
+.. csv-table:: a15 (3-3-3) (τέσσαρες  *four*)
+  :header-rows: 1
+
+  ,Masculine,Feminine,Neuter
+  *Plural*,,,
+  Nominative,τέσσαρες.τέσσαρες.τέσσαρα
+  Genitive,τεσσάρων,τεσσάρων,τεσσάρων
+  Dative,τέσσαρσι(ν),τέσσαρσι(ν),τέσσαρσι(ν)
+  Accusative,τέσσαρας,τέσσαρας,τέσσαρα
+  
+  
+
 
 
 
