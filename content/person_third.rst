@@ -62,8 +62,8 @@ Paradigm
 .. csv-table:: 
 
   Parsing,Greek,Transliteration,Gloss
-  Third person present active indicative singular,λύει>,lyei,He/she/it is loosing
-  Third person present active indicative plural,λύουσι(ν),lyousi (n),They are loosing
+  Third person present active indicative singular,λύει,lyei,He/she/it is loosing
+  Third person present active indicative plural,λύουσι(ν),lyousi(n),They are loosing
   Third person present passive indicative singular,λύεται,lyetai,He/she/it is being loosed
   Third person present passive indicative plural,λύονται,lyontai,They are being loosed
   Third person imperfect active indicative singular,ἒλυε(ν),elye(n),He/she/it was loosing
@@ -100,7 +100,7 @@ in the third person.
   Third person genitive plural,αὐτῶν,autōn,their
   Third person dative singular,αὐτῇ,autē,her
   Third person dative plural,αὐταῖς,autais,them
-  Third person accusative singular,αὐτήν,autēn,her( or it)
+  Third person accusative singular,αὐτήν,autēn,her (or it)
   Third person accusative plural,αὐτάς,autas,them
   ,,,
   *Neuter*,,,
@@ -152,7 +152,7 @@ Therefore, an emphasis is being made when the nominative case of the personal pr
   and,**he**,he gave,some,,(to be),apostles
   
   
-*He gave some to be apostles*
+**He**  *gave some to be apostles*
 
 
 As a Personal Pronoun
@@ -223,7 +223,7 @@ Third person personal pronoun – Dative  case    αὐτῷ, αὐτῇ, αὐ�
   kai,legei,**autō**,ho,Iēsous
   and,he says,**to him**,the,Jesus
 
-*Jesus said to him*
+*Jesus said* **to him**
 
 Third person personal pronoun – Accusative case  αὐτόν, αὐτήν, αὐτό, αὐτούς, αὐτάς, αὐτά 
 
@@ -235,10 +235,11 @@ Third person personal pronoun – Accusative case  αὐτόν, αὐτήν, α�
   kai,heuron,**auton**,kai,legousin,autō,hoti,pantes,zētousin,se
   and,they found,**him**,and,they said,to him,that,everyone,is seeking,you
 
-*They found him and they said to him, "Everyone is looking for you."*
+*They found* **him** *and they said to him, "Everyone is looking for you."*
 
 Reflexive use of the third person personal pronoun – εἀυτοῦ, εἀυτῆς, εἀυτοῦ
-The third person reflexive pronoun occurs 317 times in the New Testament.  It occurs in the Genitive, Dative, and Accusative forms.   αὐτός, αὐτή, αὐτό is used as a reflexive pronoun 119 times.  
+The third person reflexive pronoun occurs 317 times in the New Testament.  It occurs in the Genitive, Dative, and Accusative forms.
+αὐτός, αὐτή, and αὐτό are used as a reflexive pronoun 119 times.  
 
 .. csv-table::
 
@@ -247,4 +248,4 @@ The third person reflexive pronoun occurs 317 times in the New Testament.  It oc
   oudeis,gar,hēmōn,**heautō**,zē,kai,oudeis,**heautō**,apothnēskei
   no one,for,of us,**to himself**,he lives,and,no one,**to himself**,he dies
 
-*For none of us lives for himself, and none dies for himself.*
+*For none of us lives for* **himself**, and none dies for* **himself.**
