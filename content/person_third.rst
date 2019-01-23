@@ -34,7 +34,7 @@ Article
 
 The third person is used when the person or thing referred to does not include either the speaker(or writer) or the person (or people)
 being addressed.  Pronouns in the third person (*he*, *him*, *his*, *she*, *her*, or *it* or group of people/things *they*, *them*,
-or *their*) refer to something that is spoken about.
+or *their*) refer to someone or something that is spoken about.
 
 The third person can be used in both direct and indirect speech.
 
@@ -116,7 +116,7 @@ in the third person.
 
 
 The third person can be found in
-:ref:`verb<verb>`  forms, and as a :ref:`Pronoun_Personal<pronoun_personal>` forms.
+:ref:`verb<verb>`  forms, and in :ref:`Pronoun_Personal<pronoun_personal>` forms.
 
 Function
 --------
@@ -160,7 +160,7 @@ As a Personal Pronoun
 
 
 The third person :ref:`Personal Pronoun<pronoun_personal>`  can be used as a subject, an object, or to indicate possession.  
-Personal pronouns may also be used as the object of a preposition.  The :ref:`number<number>` (singular or plural) and the :ref:`gender<gender>` (Masculine, feminine, 
+Personal pronouns may also be used as the object of a preposition.  The :ref:`number<number>` (singular or plural) and the :ref:`gender<gender>` (masculine, feminine, 
 or neuter) will agree with its antecedent.  However, the :ref:`case<case>`  will depend on its function in the sentence.
 
 
