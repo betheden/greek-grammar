@@ -13,11 +13,13 @@ Tables a1 through a3 give the paradigms for uncontracted 2-1-2 adjectives.
 
 * Table a1 - *uncontracted adjectives without a vowel shift in the feminine*
 * Table a2 - *uncontracted adjectives with a vowel shift in the feminine*
-* Table a3 - *uncotracted with with an omicron in the neuter.
+* Table a3 - *uncontracted with an omicron in the neuter.*
 
 **Table a1** - *uncontracted adjectives without a vowel shift in the feminine*
 
-If the letter immediately preceding the case ending for an adjective is α **vowel**  or **ρ** then, in the feminine declension, the nominative and genitive singular the final vowel will remain an alpha and not change to an **“η”**.
+In the feminine declension, the final vowel will remain an alpha, and not lengthen to an eta, for adjectives that have
+**a vowel or the letter rho "ρ" ** immediately preceding the case ending.   
+
 
 .. csv-table:: a1 (2-1-2) (ἃγioς *holy*)
   :header-rows: 1
@@ -58,11 +60,8 @@ When the letter **immediately preceding the case ending for an adjective is not 
   Accusative,ἀγαθούς,ἀγαθάς,ἀγαθά
 
 
-**Table a3** - *uncontracted with “ο” in the neuter*
+**Table a3** - *uncontracted with an omicron in the neuter*
 
-
-**[Note: DELETE AFTER EDITING:  I checked this against Freiberg analytical greek lexicon, but could have use αὒτος**
-**from Mounce]**
 
 .. csv-table:: a3 (2-1-2) (ἂλλος *other, another*)
   :header-rows: 1
@@ -99,7 +98,7 @@ When the letter **immediately preceding the case ending for an adjective is not 
   Genitive,ἁπλῶν,ἁπλῶν,ἁπλῶν
   Dative,ἁπλοῖς,ἁπλαῖς,ἁπλοῖς
   Accusative,ἁπλοῦς,ἁπλᾶς,ἁπλᾶ
-  μέγας and πολύς (2-1-2)
+  
 
 
 2-1-2 special paradigms
@@ -179,7 +178,9 @@ The root for πᾶς is **παντ**  This is a very important paradigm to know 
   Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
   Accusative,πάντας,πάσας,πάντα
 
+
 **Table a8** - *ταχύς*
+
 .. csv-table:: a8 (3-1-3) (ταχύς  *quick, speedy*)
   :header-rows: 1
 
@@ -198,11 +199,12 @@ The root for πᾶς is **παντ**  This is a very important paradigm to know 
 
 (2-2-2) άμαρτωλός
 ^^^^^^^^^^^^^^^^^
+
 In this category there are eight verbs that will sometimes follow the 2-2-2 pattern and sometimes their respective 2-1-2 pattern with a feminine ending of alpha or eta. 
 
 **Note that the masculine and feminine declensions are identical in the 2-2-2 pattern.**
 
-**Table a9** - *ἁμαρτςλός*
+**Table a9** - *ἁμαρτωλός*
 
 .. csv-table:: a9 (2-2-2) (ἁμαρτωλός  *sinful*)
   :header-rows: 1
@@ -232,6 +234,7 @@ In this category there are eight verbs that will sometimes follow the 2-2-2 patt
 **Note that the masculine and feminine conjugations are the same for 3-3-3 adjectives.**
 
 **Table a10** - *αληθής*
+
 .. csv-table:: a10 (3-3-3) (ἀληθής  *true*)
   :header-rows: 1
 
@@ -290,7 +293,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Dative,ἑνί,μιᾷ,ἑνί
   Accusative,ἕνα,μίαν,ἕν
   
-**Table a13** -δὑο  
+**Table a13** - *δὑο*  
 
 .. csv-table:: a13  (δὑο  *two*)
   :header-rows: 1
@@ -302,7 +305,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Dative,δυσί,δυσί,δυσί
   Accusative,δύο,δύο,δύο
   
-**Table a14** - (3-3-3) (τρεῖς    *three*)  
+**Table a14** - (τρεῖς    *three*)  
  Note that the masculine and feminine declension is identical. 
  
  .. csv-table:: a14 (3-3-3) (τρεῖς  *three*)
@@ -315,14 +318,14 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Dative,τρισί(ν),τρισί(ν),τρισί(ν)
   Accusative,τρεῖς,τρεῖς,τρία
   
-**Table a15**  (3-3-3)  (τέσσαρες  *four*)
+**Table a15** - (τέσσαρες  *four*)
 
 .. csv-table:: a15 (3-3-3) (τέσσαρες  *four*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
   *Plural*,,,
-  Nominative,τέσσαρες.τέσσαρες.τέσσαρα
+  Nominative,τέσσαρες,τέσσαρες,τέσσαρα
   Genitive,τεσσάρων,τεσσάρων,τεσσάρων
   Dative,τέσσαρσι(ν),τέσσαρσι(ν),τέσσαρσι(ν)
   Accusative,τέσσαρας,τέσσαρας,τέσσαρα
