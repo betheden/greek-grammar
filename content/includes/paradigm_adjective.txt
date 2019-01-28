@@ -18,7 +18,7 @@ Tables a1 through a3 give the paradigms for uncontracted 2-1-2 adjectives.
 **Table a1** - *uncontracted adjectives without a vowel shift in the feminine*
 
 In the feminine declension, the final vowel will remain an alpha, and not lengthen to an eta, for adjectives that have
-**a vowel or the letter rho "ρ" ** immediately preceding the case ending.   
+**a vowel or the letter rho (ρ)** immediately preceding the case ending.   
 
 
 .. csv-table:: a1 (2-1-2) (ἃγioς *holy*)
@@ -89,7 +89,7 @@ When the letter **immediately preceding the case ending for an adjective is not 
 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
-  Nominative,ἁπλοῦς,ἁπλῆς,ἁπλοῦν
+  Nominative,ἁπλοῦς,ἁπλῆ,ἁπλοῦν
   Genitive,ἁπλοῦ,ἁπλῆς,ἁπλοῦ
   Dative,ἁπλῷ,ἁπλῇ,ἁπλῷ
   Accusative,ἁπλοῦν,ἁπλῆν,ἁπλοῦν
@@ -105,7 +105,7 @@ When the letter **immediately preceding the case ending for an adjective is not 
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 The stem for μέγας is **μεγαλ** and the stem for πολύς is **πολλ**.
-Note that in the nominative and accusative masculine and neuter, the stem drops a lambda.
+Note that in the nominative and accusative masculine and neuter in the singular, the stem drops a lambda.
 
 * Table a5 - *μέγας*
 * Table a6 - *πολύς*
@@ -170,11 +170,11 @@ The root for πᾶς is **παντ**  This is a very important paradigm to know 
   *Singular*,,,
   Nominative,πᾶς,πᾶσα,πᾶν
   Genitive,παντός,πάσης,παντός
-  Dative,παντί,πάςῃ,παντί
+  Dative,παντί,πάσῃ,παντί
   Accusative,πάντα,πᾶσαν,πᾶν
   *Plural*,,,
   Nominative,πάντες,πᾶσαι,πάντα
-  Genitive,πάντων,παςῶν,πάντων
+  Genitive,πάντων,πασῶν,πάντων
   Dative,πᾶσι(ν),πάσαις,πᾶσι(ν)
   Accusative,πάντας,πάσας,πάντα
 
@@ -265,7 +265,9 @@ In this category there are eight verbs that will sometimes follow the 2-2-2 patt
   Nominative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
   Genitive,μειζόνων,μειζόνων,μειζόνων
   Dative,μείζοσι(ν),μείζοσι(ν),μείζοσι(ν)
-  Accusative,μείζονες (μείζους),μείζονες (μείζους),μείζονα (μείζω)
+  Accusative,μείζονας (μείζους),μείζονας (μείζους),μείζονα (μείζω)
+  
+  *μείζω is an alternative form for μείζονα.  μείζους is an alternative form for μείζονες.*
   
   
 Cardinals (numerals)
