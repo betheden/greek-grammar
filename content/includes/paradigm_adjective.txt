@@ -267,7 +267,8 @@ In this category there are eight verbs that will sometimes follow the 2-2-2 patt
   Dative,μείζοσι(ν),μείζοσι(ν),μείζοσι(ν)
   Accusative,μείζονας (μείζους),μείζονας (μείζους),μείζονα (μείζω)
   
-  *μείζω is an alternative form for μείζονα.  μείζους is an alternative form for μείζονες.*
+
+*μείζω is an alternative form for μείζονα.  μείζους is an alternative form for μείζονες.*
   
   
 Cardinals (numerals)
@@ -283,21 +284,21 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
 
 
 
-**Table a12** - *εῖς* 
+**Table a12** - *εἷς* 
 
-.. csv-table:: a12 (3-1-3) (εἵς  *one*)
+.. csv-table:: a12 (3-1-3) (εἷς  *one*)
   :header-rows: 1 
 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
-  Nominative,εἵς,μία,ἕν
+  Nominative,εἷς,μία,ἕν
   Genitive,ἑνός,μιᾶς,ἑνός
   Dative,ἑνί,μιᾷ,ἑνί
   Accusative,ἕνα,μίαν,ἕν
   
-**Table a13** - *δὑο*  
+**Table a13** - *δύο*  
 
-.. csv-table:: a13  (δὑο  *two*)
+.. csv-table:: a13  (δύο  *two*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -307,7 +308,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Dative,δυσί,δυσί,δυσί
   Accusative,δύο,δύο,δύο
   
-**Table a14** - (τρεῖς    *three*)  
+**Table a14** - *τρεῖς*  
  Note that the masculine and feminine declension is identical. 
  
  .. csv-table:: a14 (3-3-3) (τρεῖς  *three*)
@@ -320,7 +321,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Dative,τρισί(ν),τρισί(ν),τρισί(ν)
   Accusative,τρεῖς,τρεῖς,τρία
   
-**Table a15** - (τέσσαρες  *four*)
+**Table a15** - *τέσσαρες*
 
 .. csv-table:: a15 (3-3-3) (τέσσαρες  *four*)
   :header-rows: 1
@@ -330,7 +331,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Nominative,τέσσαρες,τέσσαρες,τέσσαρα
   Genitive,τεσσάρων,τεσσάρων,τεσσάρων
   Dative,τέσσαρσι(ν),τέσσαρσι(ν),τέσσαρσι(ν)
-  Accusative,τέσσαρας,τέσσαρας,τέσσαρα
+  Accusative,τέσσαρας (τέσσαρες),τέσσαρας (τέσσαρες),τέσσαρα
   
   
 
