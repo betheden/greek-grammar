@@ -268,7 +268,12 @@ In this category there are eight verbs that will sometimes follow the 2-2-2 patt
   Accusative,μείζονας (μείζους),μείζονας (μείζους),μείζονα (μείζω)
   
 
-*μείζω is an alternative form for μείζονα.  μείζους is an alternative form for μείζονες.*
+*μείζω is an alternative form for μείζονα in the masculine and feminine accusative singular,*
+*and in the nominative and accusative neuter plural.*
+
+*μείζους is an alternative form for μείζονες in the masculine and feminine nominative plural,*
+*and for μείζονας in the masculine and feminine accustive plural.
+
   
   
 Cardinals (numerals)
@@ -294,7 +299,7 @@ One follows a 3-1-3 pattern but only occurs in the singular.   The numbers two t
   Nominative,εἷς,μία,ἕν
   Genitive,ἑνός,μιᾶς,ἑνός
   Dative,ἑνί,μιᾷ,ἑνί
-  Accusative,ἕνα,μίαν,ἕν
+  Accusative,ἑνά,μίαν,ἕν
   
 **Table a13** - *δύο*  
 
