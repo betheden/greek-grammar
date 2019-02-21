@@ -11,7 +11,7 @@ The article appears approximately 19,723 times in the Greek New Testament.  It f
   ,Masculine,Feminine,Neuter
   *Singular*,,,
   Nominative,ὁ,ἡ,τό
-  Genitive,τοῦ,τής,τοῦ
+  Genitive,τοῦ,τῆς,τοῦ
   Dative,τῷ,τῇ,τῷ
   Accusative,τόν,τήν,τό
   *Plural*,,,
@@ -23,20 +23,20 @@ The article appears approximately 19,723 times in the Greek New Testament.  It f
 The relative pronoun  (2-1-2) (*neuter in “ο”*)
 ^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: R2 (2-1-2) (ὃς  *who,which*)
+.. csv-table:: r2 (2-1-2) (ὅς  *who,which*)
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
   *Singular*,,,
-  Nominative,ὃς,ἣ,ὅ
+  Nominative,ὅς,ἥ,ὅ
   Genitive,οὗ,ἧς,οὗ
-  Dative,ῷ,ῇ,ῷ
+  Dative,ᾧ,ᾗ,ᾧ
   Accusative,ὅν,ἥν,ὅ
   *Plural*,,,
   Nominative,οἵ,αἵ,ἅ
   Genitive,ὧν,ὧν,ὧν
   Dative,οἷς,αἷς,οἷς
-  Accusative,οὗς,ἅς,ἅ
+  Accusative,οὕς,ἅς,ἅ
 
 
 
@@ -46,7 +46,7 @@ Personal Pronouns
 ^^^^^^^^^^^^^^^^^
 
   Table r3 - (*ἐγώ, σύ*)
-  Table r4  - (*ἀὐτός*)
+  Table r4  - (*αὐτός*)
 
   Note: *ἐγώ*  and *σύ*  do not have gender
 
@@ -57,9 +57,9 @@ Personal Pronouns
 
   *Singular*, 1st person,,2nd person
   Nominative,ἐγώ,,σύ
-  Genitive,μοῦ (ἐμοῦ),,σοῦ
-  Dative,μοί (ἐμοί),,σοί
-  Accusative,μέ (ἐμέ),,σέ
+  Genitive,μου (ἐμοῦ),,σοῦ (σου)
+  Dative,μοι (ἐμοί),,σοί (σοι)
+  Accusative,με (ἐμέ),,σέ (σε)
   *Plural*,,,
   Nominative,ἡμεῖς,,ὑμεῖς
   Genitive,ἡμῶν,,ὑμῶν
@@ -69,7 +69,6 @@ Personal Pronouns
 **Table r4**   *αὐτός*  
 
 .. csv-table:: r4 (2-1-2)  *αὐτός* (he,she,it,they)
-
   :header-rows: 1
 
   ,Masculine,Feminine,Neuter
@@ -82,7 +81,7 @@ Personal Pronouns
   Nominative,αὐτοί,αὐταί,αὐτά
   Genitive,αὐτῶν,αὐτῶν,αὐτῶν
   Dative,αὐτοῖς,αὐταῖς,αὐτοῖς
-  Accusative,αὐτούς.αὐτάς.αὐτά
+  Accusative,αὐτούς,αὐτάς,αὐτά
 
 Demonstrative pronoun – οὗτος,ἐκεῖνος
 ^^^^^^^^^^^^^^^^^^^^^
@@ -107,6 +106,7 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
   Dative,τούτοις,ταύταις,τούτοις
   Accusative,τούτους,ταύτας,ταῦτα
 
+**Table r6** - ἐκεῖνος
 
 .. csv-table:: r6 (2-1-2) (ἐκεῖνος  *that*)
   :header-rows: 1
@@ -116,18 +116,17 @@ Demonstrative pronoun – οὗτος,ἐκεῖνος
   Nominative,ἐκεῖνος,ἐκείνη,ἐκεῖνο
   Genitive,ἐκείνου,ἐκείνης,ἐκείνου
   Dative,ἐκείνῳ,ἐκείνῃ,ἐκείνῳ
-  Accusative,
+  Accusative,ἐκεῖνον,ἐκείνην,ἐκεῖνο
   *Plural*,,,
   Nominative,ἐκεῖνοι,ἐκεῖναι,ἐκεῖνα
-  Genitive,ἐκείνων,ἐείνων,ἐκείνων
+  Genitive,ἐκείνων,ἐκείνων,ἐκείνων
   Dative,ἐκείνοις,ἐκείναις,ἐκείνοις
   Accusative,ἐκείνους,ἐκείνας,ἐκεῖνα
 
 
 
-
 Interrogative pronoun – τίς
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
 **Table r7**  -stems ending in a nu
 NOTE:  *The masculine and feminine declensions are identical.*
@@ -145,7 +144,7 @@ NOTE:  *The masculine and feminine declensions are identical.*
   *Plural*,,,
   Nominative,τίνες,τίνες,τίνα
   Genitive,τίνων,τίνων,τίνων
-  Dative,τίςι(ν),τίσι(ν),τίσι(ν)
+  Dative,τίσι(ν),τίσι(ν),τίσι(ν)
   Accusative,τίνας,τίνας,τίνα
 
 
@@ -164,12 +163,12 @@ Note:
   :header-rows: 1
 
   ,Masculine,Feminine,,Masculine,Feminine
-  *Singular*,ἐμαυταῦ,,σεαυτοῦ,
+  *Singular*,ἐμαυταῦ,,,σεαυτοῦ,
   Genitive,ἐμαυτοῦ,ἐμαυτῆς,,σεαυτοῦ,σεαυτῆς
   Dative,ἐμαυτῷ,ἐμαυτῇ,,σεαυτῷ,σεαυτῇ
   Accusative,ἐμαυτόν,ἐμαυτήν,,σεαυτόν,σεαυτήν
   *Plural*,,,,
-   Genitive,ἐαυτῶν,ἐαυτῶν,,σεαυτῶν,σεαυτῶν
-  Dative,ἐμαυτοῖς,ἐμαυταῖς,,σεαυτοῖς,σεαυταῖς
-  Accusative,ἐμαυτούς,ἐμαυτάς,,σεαυτούς,σεαυτάς
+   Genitive,ἑαυτῶν,ἑαυτῶν,,σεαυτῶν,σεαυτῶν
+  Dative,ἑαυτοῖς,ἑαυταῖς,,σεαυτοῖς,σεαυταῖς
+  Accusative,ἑαυτούς,ἑαυτάς,,σεαυτούς,σεαυτάς
 
