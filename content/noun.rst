@@ -15,3 +15,8 @@ preposition (e.g., The *man* drank *water* from *Jerusalem*).
 
 Article
 -------
+
+Example image inclue:
+
+.. image:: images/MC1_2.jpg
+
