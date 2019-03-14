@@ -5,6 +5,26 @@
 Paradigms
 =========
 
+Master
+------
+
+Case Endings
+^^^^^^^^^^^^
+
+Table 1 -  First and Second Declension
+Table 2 -  Third Declension
+
+**Table 1** First and Second Declension
+
+  Note: -The columns shaded in grey show the case ending WITH the final stem vowel.
+		 The unshaded columns show the true case ending.
+        -The cells with a hyphen (-) indicate that there is no case ending.  
+         The word ends with the theme vowel (or in some cases the theme vowel is lengthened). 
+         
+ .. image:: Table1.*         
+
+
+
 Nouns
 -----
 
