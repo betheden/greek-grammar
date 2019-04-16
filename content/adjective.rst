@@ -25,15 +25,15 @@ Article
 
 Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or are used) in four distinct ways; 
 
-  #	Attributive – giving information about the noun. It tells of an attribute or a quality to the word it modifies.
-  #	Substantive – taking the place of a noun (or pronoun), acts like a noun
-  #	Predicate Nominative – asserting something about the subject of the sentence
-  #	Adverbial – used to modify (or give information) about a verb
+  #.	Attributive – giving information about the noun. It tells of an attribute or a quality to the word it modifies.
+  #.	Substantive – taking the place of a noun (or pronoun), acts like a noun
+  #.	Predicate Nominative – asserting something about the subject of the sentence
+  #.	Adverbial – used to modify (or give information) about a verb
 
 Often the final determination as to how an adjective is being used (or its function in the sentence) must be based on context
 after taking into account the form of the adjective.
 
-Adjectives may also be used as a :ref:`comparative<adjective.html#comparisons>` .
+Adjectives may also be used as a `comparative <https://ugg.readthedocs.io/en/latest/adjective.html#comparisons>` .
 
 
 Form
@@ -48,16 +48,16 @@ An adjective is listed in a lexicon in its nominative, singular, masculine form.
 Adjectives will show these these various forms by using the same endings as nouns.
 See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 (The set of suffixes used by each adjective is determined by its stem, 
-just as is true with nouns.   See :ref:`adjective paradigms<paradigms.html#adjectives>` .
+just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>` .
 
 
-**Adjectives decline according to the stem of the adjective NOT THE NOUN IT IS MODIFYING.**  In other words, 
+**Adjectives decline according to the stem of the adjective NOT THE STEM OF THE NOUN IT IS MODIFYING.**  In other words, 
 the feminine dative singular for the adjective πάς will always be πάςῃ.  It will not change when modifying any other
 dative feminine noun.
 
 **Example:**  The final vowel (α) in the feminine declension for the adjective 
 πάς, πάσα, πάν ( *all, each, every *) changes to an (η) in the dative singular.  
- See :ref:`Table A7<https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`
+ See `Table_A7 <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`
 The first declension noun εὐλογία  does not undergo the same vowel change.
 As long as the adjective agrees with its noun in number, and gender, 
 the specific form of its endings makes no difference to translation.
@@ -66,9 +66,9 @@ the specific form of its endings makes no difference to translation.
   :header-rows: 1
 
 Ephesians 1:3
-  ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ,εὐλογίᾳ,πνευματικῇ**
-  ho,eulogēsas,hēmas,en,**pasē,eulogia,pneumatikē**
-  who,has blessed,us,with,**every,blessing,spiritual**
+  ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
+  ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
+  who,has blessed,us,with,**every**,**blessing**,**spiritual**
 
 *who has blessed us with*  **every spiritual blessing**
 
@@ -90,9 +90,9 @@ modifying ποίμην must therefore decline in the masculine form. In this exa
 .. csv-table::
 
   John 10:11
-  ἐγώ,εἰμι,**ὁ,ποιμὴν,ὁ,καλός.**
-  Egō,eimi,**ho,poimēn,ho,kalos.**
-  I,I am,**the,shepherd,the,good**
+  ἐγώ,εἰμι,ὁ,**ποιμὴν**,ὁ,**καλός.**
+  Egō,eimi,ho,**poimēn**,ho,**kalos.**
+  I,I am,the,**shepherd**,the,**good**
 
 *I am the* **good shepherd.**
 
@@ -131,14 +131,14 @@ Another pattern for attributive adjectives is:  **definite article – adjective
   Matthew 12:35
   ὁ,**ἀγαθὸς**,**ἄνθρωπος**,ἐκ,τοῦ,**ἀγαθοῦ**,**θησαυροῦ**
   ho,**agathos**,**anthrōpos**,ek,tou,**agathou**,**thēsaurou**
-  the,**good,man**,out,of the,**good,treasure**
+  the,**good**,**man**,out,of the,**good**,**treasure**
 
 *The*  **good man** *from the* **good treasure..**
 
 Attributive adjectives may also occur with no definite article.
 The pattern for attributive adjectives without an article is generally:   **noun-adjective**
 
-..csv-table::
+.. csv-table::
   :header-rows: 1
 
   1 John 2:7
@@ -157,18 +157,18 @@ Substantive Function
 
 Sometimes, an adjective is used, but there is no noun nearby that it agrees
 with in case, number,and gender.  There is therefore no noun that
-that it could be modifying.  When this occurs the adjective functions as a noun by itself. 
+it could be modifying.  When this occurs the adjective is functioning as a noun. 
 In this case, the reader understands that the writer is referring to some unnamed person or
-object, but the adjective is the only identifying term given to the
-person or object. An adjective functioning in this way is called a
+object in the sentence.  The unnamed person or object is simply identified by the adjective. 
+An adjective functioning in this way is called a
 **substantive** (because the substance of a noun is implied by the
 adjective). A substantive adjective will **usually** have an article.
 
 If an adjective is functioning as a **substantive** , its **case** will be
-determined by its function within the sentence.
+determined by its function within the clause.
 Its **number** and **gender** will be determined by the person or object it represents.
 
-..csv-table::
+.. csv-table::
   :header-rows: 1
 
   Romans 1:17
