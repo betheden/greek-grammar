@@ -33,7 +33,7 @@ Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or ar
 Often the final determination as to how an adjective is being used (or its function in the sentence) must be based on context
 after taking into account the form of the adjective.
 
-Adjectives may also be used as a `comparative <https://ugg.readthedocs.io/en/latest/adjective.html#comparisons>` .
+Adjectives may also be used as a `comparative <https://ugg.readthedocs.io/en/latest/adjective.html#comparisons>`_ .
 
 
 Form
@@ -48,7 +48,7 @@ An adjective is listed in a lexicon in its nominative, singular, masculine form.
 Adjectives will show these these various forms by using the same endings as nouns.
 See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 (The set of suffixes used by each adjective is determined by its stem, 
-just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>` .
+just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
 
 
 **Adjectives decline according to the stem of the adjective NOT THE STEM OF THE NOUN IT IS MODIFYING.**  In other words, 
@@ -57,7 +57,7 @@ dative feminine noun.
 
 **Example:**  The final vowel (α) in the feminine declension for the adjective 
 πάς, πάσα, πάν ( *all, each, every *) changes to an (η) in the dative singular.  
- See `Table_A7 <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`
+ See `Table_A7 <https://ugg.readthedocs.io/en/latest/paradigms.html#id6>`_
 The first declension noun εὐλογία  does not undergo the same vowel change.
 As long as the adjective agrees with its noun in number, and gender, 
 the specific form of its endings makes no difference to translation.
@@ -65,7 +65,7 @@ the specific form of its endings makes no difference to translation.
 .. csv-table:: 
   :header-rows: 1
 
-Ephesians 1:3
+  Ephesians 1:3
   ὁ,εὐλογήσας,ἡμᾶς,ἐν,**πάσῃ**,**εὐλογίᾳ**,**πνευματικῇ**
   ho,eulogēsas,hēmas,en,**pasē**,**eulogia**,**pneumatikē**
   who,has blessed,us,with,**every**,**blessing**,**spiritual**
