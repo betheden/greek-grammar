@@ -8,7 +8,7 @@ Adjective
 Glossary
 --------
 
-An adjective is a part of speech which describes a noun or pronoun.
+An adjective is a part of speech which describes a noun or pronoun (or a word functioning as a noun or pronoun).
 
 .. csv-table:: 
 
@@ -22,6 +22,9 @@ An adjective is a part of speech which describes a noun or pronoun.
 
 Article
 -------
+
+Overview
+~~~~~~~~
 
 Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or are used) in four distinct ways; 
 
@@ -230,9 +233,9 @@ Predicative adjectives occur in three basic patterns.
 .. csv-table::
 
   John 3:33
-  ὁ,Θεὸς,**ἀληθής**,ἐστιν
+  ὁ,θεὸς,**ἀληθής**,ἐστιν
   ho,Theos,**alēthēs**,estin
-  the,God,**true**,He is
+  the,God,**true**,he is
 
 *God is* **true**
 
@@ -250,7 +253,9 @@ Predicative adjectives occur in three basic patterns.
 Adverbial Function
 ^^^^^^^^^^^^^^^^^^
 
-Sometimes an adjective is used in place of an adverb.  
+Some adjectives can be used as an adverb.  In this case the adjective is usually be in the neuter gender and accusative (or dative) case.
+The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
+μόνον (alone), πολύ (many), πρῶτον (first), ὕστερον (second).
 
 .. csv-table::
 
