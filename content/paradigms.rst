@@ -23,7 +23,14 @@ Table 2 -  Third Declension
          
  .. image:: images/MC1_2.jpg         
 
+** Table 2**  Third Declension
 
+Note: The columns shaded in grey and the unshaded columns are the same.  This is because Third Declension nouns (or adjectives)
+       end in a consonant and do not have a final stem vowel as in Table 1.
+       - The cells with a hyphen (-) indicate that there is no case ending.
+       -  Both the Masculine and the Feminine forms are identical for the Third Declension
+       
+       
 .. raw:: html
 
     <style type="text/css">
