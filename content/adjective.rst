@@ -235,7 +235,7 @@ Predicative adjectives occur in three basic patterns.
 Adverbial Function
 ^^^^^^^^^^^^^^^^^^
 
-Some adjectives can be used as an adverb.  In this case the adjective is usually be in the neuter gender and accusative (or dative) case.
+Some adjectives can be used as an adverb.  In this case the adjective will usually be in the neuter gender and accusative (or dative) case.
 The most common adjectives used as an adverb are:  βραχύ (short), ἲδιον (one's own), μίκρον (small), ὀλίγον (little),
 μόνον (alone), πολύ (many), πρῶτον (first), ὕστερον (second).
 
