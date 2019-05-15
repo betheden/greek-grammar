@@ -28,7 +28,7 @@ Overview
 
 Adjectives describe (or modify) a noun or a pronoun.  Adjectives function (or are used) in four distinct ways; 
 
-  #.	Attributive – giving information about the noun. It tells of an attribute or a quality to the word it modifies.
+  #.	Attributive – giving information about the noun. It tells of an attribute or a quality of the word it modifies.
   #.	Substantive – taking the place of a noun (or pronoun), acts like a noun
   #.	Predicate Nominative – asserting something about the subject of the sentence
   #.	Adverbial – used to modify (or give information) about a verb
@@ -54,7 +54,7 @@ See Master Table 1 and Master Table 2 :ref:`Master Tables<paradigms>` .
 just as is true with nouns.   See `adjective_paradigms <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ .
 
 
-**Adjectives decline according to the stem of the adjective NOT THE STEM OF THE NOUN IT IS MODIFYING.**  In other words, 
+**Adjectives will decline according to the stem of the adjective, NOT THE STEM OF THE NOUN THEY ARE MODIFYING.**  In other words, 
 the feminine dative singular for the adjective πάς will always be πάςῃ.  It will not change when modifying any other
 dative feminine noun.
 
@@ -109,7 +109,7 @@ Attributive function
 This is the most common use of an adjective. If the adjective is giving more information about its noun,
 it is functioning as an :ref:`ascriptive adjective<adjective_ascriptive>` . If it is identifying which 
 noun the writer is speaking about, it is functioning as a :ref:`restrictive adjective<adjective_restrictive>` 
-adjective. Attributive adjectives may come before or after the noun it modifies. They will usually have 
+adjective. An attributive adjective may come before or after the noun it modifies. An attributive adjective will usually have 
 an article. Attributive adjectives must agree with the noun they modify in case, number, and gender. 
 They will occur in one of several patterns.  One of the most common patterns is
 **definite article- noun- definite article- adjective**.  
@@ -169,7 +169,7 @@ adjective). A substantive adjective will **usually** have an article.
 
 If an adjective is functioning as a **substantive** , its **case** will be
 determined by its function within the clause.
-Its **number** and **gender** will be determined by the person or object it represents.
+Its **number** and **gender** will be determined by the person or thing it represents.
 
 .. csv-table::
   :header-rows: 1
@@ -179,26 +179,8 @@ Its **number** and **gender** will be determined by the person or object it repr
   kathōs,gegraptai,ho,de,**dikaios**,,ek,pisteōs,zēsetai
   as,it has been written,the,but,**righteous**,[man/person],from,faith,he will live
 
-*as it has been written, "Indeed, the* **righteous** will live by faith."
+*as it has been written, "But, the* **righteous** will live by faith."
 
-
-
-**[ Note to Grant & Ken]  I have a real question about the English Unfolding Word Literal text’s literal translation of Romans 1:17.**
-**I do not see any justification for translating “δε” as “indeed.”**
- https://door43.org/u/Door43-Catalog/en_ult/c36fb9d97a/46-ROM.html#045-ch-001
-
-**NASB translates it a “but”  NIV, NKJV, ESV just omit the word.    The following is from BDAG δέ (Hom.+) one of the most common Gk.**
-**particles, used to connect one clause to another, either to express contrast or simple continuation. When it is felt that there**
-**is some contrast betw. clauses—though the contrast is oft. scarcely discernible—the most common translation is ‘but’. When a simple** 
-**connective is desired, without contrast being clearly implied, ‘and’ will suffice, and in certain occurrences the marker may be left** 
-**untranslated**
-
-**If one compares this passage with Habakkuk 2:4 there is a mild contrast intended, this would justify the use of “but” as opposed to “and”.**
-**However as per BDAG   simple omission of the conjunction is acceptable as well which was the path chosen by NIV,NKJV, and ESV.**     
-
-**RECOMMENDATION** :  I am therefore recommending that we change the word “indeed” in the “smooth translation” to “but”  or simply omit 
-**the translation of “δε” as was done by the NIV, etc.   It is kind of a toss up as to which path.  Personally, I lean to the “but” as I**
-**think a contrast is intended based on Habakkuk and this is a quote.  ....      Your suggestions.**
 
 
 Predicative Function
@@ -212,7 +194,7 @@ and *number*.  Some languages need a verb in every sentence, so the understood v
 translation in order to make the sentence grammatically correct in the target language. 
 
 Predicative adjectives **never** have the article preceding them.  The absence of the article is a big clue
-that and adjective is a predicate adjective. However, a final determination must be based on context.   
+that an adjective is a predicate adjective. However, a final determination must be based on context.   
 If the noun has an article, and the adjective does not have an article, then the adjective is functioning as a predicative adjective.   
 If there is no article before the noun or the adjective, the function of the adjective must be determined based on context.  
 Predicative adjectives occur in three basic patterns.  
@@ -228,7 +210,7 @@ Predicative adjectives occur in three basic patterns.
  
 **Blessed are**  *the poor in spirit*
 
-*A second pattern is:*  **article-noun-adjective**
+*A second pattern is:*  **definite article-noun-adjective**
 
 .. csv-table::
 
@@ -273,7 +255,7 @@ Comparisons
 Adjectives may be used to make a comparison between two nouns. 
   •	The *positive degree* of an adjective makes a simple assertion about the kind or quality of an object.
   •	The *comparative degree* asserts that the person or thing described by it has this quality in a higher degree than some other person or thing.
-  •	The *superlative degree* asserts that the person or thing described by it as the highest degree or more of this quality that all the others in a group of items.
+  •	The *superlative degree* asserts that the person or thing described by it has the highest degree or more of the stated quality than all the others in a group.
 
 **Comparative degree form**
 
@@ -308,7 +290,7 @@ adjective. The suffixes that show the superlative form are:
 Caution:
 
   •	Sometimes adjectives use the *comparative form*  of an adjective to express a superlative quality.  
-  •	At other times the *superlative form* form may be used to simply make a comparison
+  •	At other times the *superlative form* may be used to simply make a comparison
 
 .. csv-table::
 
