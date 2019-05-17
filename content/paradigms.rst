@@ -11,8 +11,8 @@ Master
 Case Endings
 ^^^^^^^^^^^^
 
-Table 1 -  First and Second Declension
-Table 2 -  Third Declension
+  * Table 1 -  First and Second Declension
+  * Table 2 -  Third Declension
 
 **Table 1** First and Second Declension
 
@@ -28,8 +28,8 @@ Table 2 -  Third Declension
 Note: The columns shaded in grey and the unshaded columns are the same.
        This is because Third Declension nouns (or adjectives) end in a consonant and do not have a final stem vowel as in Table 1.
        
-       -The cells with a hyphen (-) indicate that there is no case ending.
-       -Both the Masculine and the Feminine forms are identical for the Third Declension
+       * The cells with a hyphen (-) indicate that there is no case ending.
+       * Both the Masculine and the Feminine forms are identical for the Third Declension
        
        
 .. raw:: html
