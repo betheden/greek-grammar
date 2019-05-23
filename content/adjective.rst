@@ -163,14 +163,16 @@ See  *Predicate Nominative* below.
 Substantive Function
 ^^^^^^^^^^^^^^^^^^^^
 
+Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
+`Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+
 Sometimes, an adjective is used, but there is no noun nearby that it agrees
 with in case, number,and gender.  There is therefore no noun that
 it could be modifying.  When this occurs the adjective is functioning as a noun. 
 In this case, the reader understands that the writer is referring to some unnamed person or
 object in the sentence.  The unnamed person or object is simply identified by the adjective. 
-An adjective functioning in this way is called a
-**substantive** (because the substance of a noun is implied by the
-adjective). A substantive adjective will **usually** have an article.
+An adjective functioning in this way is called a **substantive** (because the substance of a noun is implied by the
+adjective). A substantive adjective will **usually** have an article immediately preceding the adjective.
 
 If an adjective is functioning as a **substantive** , its **case** will be
 determined by its function within the clause.
@@ -188,21 +190,24 @@ Its **number** and **gender** will be determined by the person or thing it repre
 
 
 
-Predicative Function
+Predicate Function
 ^^^^^^^^^^^^^^^^^^^^
 
+Adjectives functioning as a Predicate are parsed as a **Noun Predicate** in the 
+`Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+
 If an adjective does not have an article, but the modified noun does have an article, the adjective is 
-probably functioning as a **predicate**.   Predicative adjectives are adjectives that describe nouns 
+*probably* functioning as a **predicate**.   Predicate adjectives are adjectives that describe nouns 
 using a linking verb.  Often the linking verb is not present in the Greek text and must be supplied 
-when translating in English. Predictive adjectives must agree with the noun they are modifying in *gender* 
+when translating in English. Predicte adjectives must agree with the noun they are modifying in *gender* 
 and *number*.  Some languages need a verb in every sentence, so the understood verb may be added to the 
 translation in order to make the sentence grammatically correct in the target language. 
 
-Predicative adjectives **never** have the article preceding them.  The absence of the article is a big clue
+Predicate adjectives **never** have the article preceding them.  The absence of the article is a big clue
 that an adjective is a predicate adjective. However, a final determination must be based on context.   
-If the noun has an article, and the adjective does not have an article, then the adjective is functioning as a predicative adjective.   
+If the noun has an article, and the adjective does not have an article, then the adjective is functioning as a predicate adjective.   
 If there is no article before the noun or the adjective, the function of the adjective must be determined based on context.  
-Predicative adjectives occur in three basic patterns.  
+Predicate adjectives occur in three basic patterns.  
 
 *The first pattern is:*   **adjective-definite article-noun**
 
