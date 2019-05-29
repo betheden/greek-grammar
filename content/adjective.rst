@@ -164,7 +164,7 @@ Substantive Function
 ^^^^^^^^^^^^^^^^^^^^
 
 Adjectives functioning as a Substantive are parsed as a **Noun Substantive** in the 
-`Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
 
 Sometimes, an adjective is used, but there is no noun nearby that it agrees
 with in case, number,and gender.  There is therefore no noun that
@@ -194,7 +194,7 @@ Predicate Function
 ^^^^^^^^^^^^^^^^^^^^
 
 Adjectives functioning as a Predicate are parsed as a **Noun Predicate** in the 
-`Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
+`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_
 
 If an adjective does not have an article, but the modified noun does have an article, the adjective is 
 *probably* functioning as a **predicate**.   Predicate adjectives are adjectives that describe nouns 
