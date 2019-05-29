@@ -107,7 +107,7 @@ Attributive function
 ^^^^^^^^^^^^^^^^^^^^
 
 This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
-:ref:`ascriptive adjective<adjective_ascriptive>` may have an *attributive* function.   
+:ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
   -Restrictive adjectives follow a pattern of **definite article- noun- definite article- adjective**
   -Ascriptive adjectives follow one of four patterns of **Definite article- adjective- noun**  or
      -**Definite Article- noun- adjective** or
