@@ -157,7 +157,7 @@ The pattern for attributive adjectives without an article is generally:   **noun
 *I am not writing a* **new commandment** *to you, but an* **old commandment...**
 
 Note:  if there is NO article, the adjective could be functioning as a predicate nominative.
-See  *Predicate Nominative* below.
+See  *Predicate Function* below.
 
 
 Substantive Function
