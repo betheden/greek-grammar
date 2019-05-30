@@ -8,7 +8,7 @@ Adjective ascriptive
 Glossary
 --------
 
-For the Unlocked Greek Grammar and `Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_,
+For the Unlocked Greek Grammar and `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_,
 Ascriptive Adjectives are adjectives that (1) are NOT classified as a noun, and 
 (2)DO NOT follow the pattern **Article-Noun-Article-Adjective**.
 
