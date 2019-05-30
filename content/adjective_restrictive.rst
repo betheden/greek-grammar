@@ -24,7 +24,7 @@ Adjectives occur in five basic patterns when modifying a noun:
   #. Noun-adjective
 
 Pattern 1 is classified as Restrictive in the Unlocked Greek Grammar and the 
-`Unfolding_Word_Greek_New_Testament`Unfolding_Word_Greek_New_Testament<https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_.
+`Unfolding_Word_Greek_New_Testament`Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_.
 
 Patterns 2, 3, 4, and 5, are classified as ascriptive in the Unlocked Greek Grammar and the Unfolding Word Greek New Testament.
 
