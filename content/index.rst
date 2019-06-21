@@ -17,10 +17,10 @@ unfoldingWord Greek Grammar
       accusative case <case_accusative>
       dative case <case_dative>
       genitive case <case_genitive>
-      nominative case <case case_nominative>
+      nominative case <case_nominative>
       vocative case <case_vocative>
    comparative
-   cond
+   conditional
    conjunction
       coordinating conjunction <conjunction_coordinating>
       correlative conjunction <conjunction_correlative>
@@ -49,7 +49,7 @@ unfoldingWord Greek Grammar
       imperative <mood_imperative>
       imperative participle <mood_imperative_participle>
       indicative <mood_indicative>
-      infinative <mood_infinitive>
+      infinitive <mood_infinitive>
       optative <mood_optative>
       participle <mood_participle>
       subjunctive <mood_subjunctive>
