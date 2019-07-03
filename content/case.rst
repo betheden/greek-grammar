@@ -52,7 +52,7 @@ The case of a noun, pronoun, adjective, or participle is indicated by the case e
 These changes follow three basic patterns called *"First declension"*, *"Second declension”*, and *“Third declension.”*
 
 First declension nouns have a feminine gender for the most part and in the nominative singular end in an alpha or an eta.  
-See `First_Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#first-declension>_ .  A few masculine nouns end in an  -ας or –ης.  These words 
+See `First Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#first-declension>`_ .  A few masculine nouns end in an  -ας or –ης.  These words 
 also follow a first declension pattern.
 
 Second declension nouns end in –ος or –ον in the nominative singular.  Almost all words ending in –ος in the nominative singular are
@@ -73,7 +73,7 @@ Because the Greek language has a case system, the order of the words in a senten
 or clause.   The normal word order is **conjunction – verb – subject – object**.   When this order is changed there is probably a slight
 emphasis being made on the words that are moved up.  
 
-..csv-table::  Example  Satan tempting Jesus
+.. csv-table::  Example: Satan tempting Jesus
 
   Matthew 4:3
   Εἰ,υἱὸς,εἶ,τοῦ,θεοῦ,εἰπὲ,ἵνα,οἱ,λίθοι,οὗτοι,ἄρτοι,γένωνται.
