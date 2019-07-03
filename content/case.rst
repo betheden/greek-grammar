@@ -19,10 +19,12 @@ Article
 Languages such as Greek, Japanese, German, and Russian also have a case system.   English for the most part does not use a case system
 except for pronouns.  Instead English mostly uses word order to indicate the function of nouns, pronouns, and adjectives within the
 sentence.  In the example below the first person singular pronoun changes depending on its function in the sentence.
-	
-    Subject case :     	I am speaking
-	Possessive case :  	It is My  ball
-	Object case  :   	The ball hit me.
+
+..csv-table
+
+  Subject case,,**I** am speaking
+  Possessive case,,It is **My** ball
+  Object case,,The ball hit **me**.
     
 Other languages, such as Hebrew, do not use a case system.
 
