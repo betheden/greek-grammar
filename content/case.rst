@@ -20,7 +20,7 @@ Languages such as Greek, Japanese, German, and Russian also have a case system. 
 except for pronouns.  Instead English mostly uses word order to indicate the function of nouns, pronouns, and adjectives within the
 sentence.  In the example below the first person singular pronoun changes depending on its function in the sentence.
 
-..csv-table
+.. csv-table::
 
   Subject case,,**I** am speaking
   Possessive case,,It is **My** ball
@@ -75,7 +75,7 @@ emphasis being made on the words that are moved up.
 
 - Matthew 4:3
 
-..csv-table::  Example:  Satan tempting Jesus
+..csv-table::  Example-  Satan tempting Jesus
   :header-rows:1
 
   Matthew 4:3
