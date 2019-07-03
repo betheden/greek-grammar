@@ -41,7 +41,7 @@ genitive case will also be in the Genitive. Some prepositions take their object 
 The **Dative case** is used to indicate, location, means, agency, or the indirect object.  Adjectives and participles modifying an object
 in the Dative case will also be in the dative.  Some prepositions take their object in the dative.  See :ref:`Dative Case<case_dative>` for more details.
 
-The **accusative case** is the case for the Direct Object among other uses.  Adjectives and participles modifying a object in the accusative
+The **Accusative case** is the case for the Direct Object among other uses.  Adjectives and participles modifying a object in the accusative
 case will also be in the accusative.  Some prepositions take their object in the accusative.  See :ref:`Accusative case<case_accusative>` 
 for more details.
 
@@ -52,19 +52,19 @@ The case of a noun, pronoun, adjective, or participle is indicated by the case e
 These changes follow three basic patterns called *"First declension"*, *"Second declension”*, and *“Third declension.”*
 
 First declension nouns have a feminine gender for the most part and in the nominative singular end in an alpha or an eta.  
-See https://ugg.readthedocs.io/en/latest/paradigms.html#first-declension .  A few masculine nouns end in an  -ας or –ης.  These words 
+See `First_Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#first-declension>_ .  A few masculine nouns end in an  -ας or –ης.  These words 
 also follow a first declension pattern.
 
 Second declension nouns end in –ος or –ον in the nominative singular.  Almost all words ending in –ος in the nominative singular are
 masculine gender.  All words that end in –ον in the nominative singular are neuter gender.  
-See https://ugg.readthedocs.io/en/latest/paradigms.html#n-4-second-declension .
+See `Second Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#n-4-second-declension>`_ .
 
 Third declension nouns have stems that end in a consonant or the vowels (ι, υ, ευ).  They are made up of all three genders. 
-See https://ugg.readthedocs.io/en/latest/paradigms.html#third-declension .
+See `Third Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#third-declension>`_ .
 
 Adjectives and pronouns agree in gender with the noun they are modifying (or to which they are referring).  The form of the ending will
-vary both by case and gender.  See  https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives  or  
-https://ugg.readthedocs.io/en/latest/paradigms.html#pronouns .
+vary both by case and gender.  See `Adjective_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_  or  
+`Pronoun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#pronouns>`_ .
 
 Order of Words
 ~~~~~~~~~~~~~~
@@ -73,10 +73,7 @@ Because the Greek language has a case system, the order of the words in a senten
 or clause.   The normal word order is **conjunction – verb – subject – object**.   When this order is changed there is probably a slight
 emphasis being made on the words that are moved up.  
 
-- Matthew 4:3
-
-..csv-table::  Example-  Satan tempting Jesus
-  :header-rows:1
+..csv-table::  Example  Satan tempting Jesus
 
   Matthew 4:3
   Εἰ,υἱὸς,εἶ,τοῦ,θεοῦ,εἰπὲ,ἵνα,οἱ,λίθοι,οὗτοι,ἄρτοι,γένωνται.
