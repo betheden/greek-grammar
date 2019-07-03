@@ -78,7 +78,7 @@ emphasis being made on the words that are moved up.
   Matthew 4:3
   Εἰ,υἱὸς,εἶ,τοῦ,θεοῦ,εἰπὲ,ἵνα,οἱ,λίθοι,οὗτοι,ἄρτοι,γένωνται.
   Ei,huios,ei,tou,theou,eipe,hina,hoi,lithoi,houtoi,artoi,genōntai.
-  If,son,you are,of god,order,that,the,stones,these,bread,they become.
+  If,son,you are,of,god,order,that,the,stones,these,bread,they become.
 
 **If you are the son of god**, *order that these stones become bread.*
 
