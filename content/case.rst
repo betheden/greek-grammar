@@ -16,40 +16,40 @@ language;  Nominative, Vocative, Genitive, Dative, and Accusative.
 Article
 -------
 
-Languages such as Greek, Japanese, German, and Russian also have a case system.   English for the most part does not use a case system
-except for pronouns.  Instead English mostly uses word order to indicate the function of nouns, pronouns, and adjectives within the
-sentence.  In the example below the first person singular pronoun changes depending on its function in the sentence.
+Languages such as Greek, Japanese, German, and Russian have a case system.   English for the most part does not use a case system
+except for pronouns.  Instead English mostly uses word order to indicate the function of nouns, pronouns, and adjectives within a
+sentence.  In the example below, the first person singular pronoun changes depending on its function in the sentence.
 
 .. csv-table::
 
   Subject case,,**I** am speaking
-  Possessive case,,It is **My** ball
+  Possessive case,,It is **my** ball
   Object case,,The ball hit **me**.
     
 Other languages, such as Hebrew, do not use a case system.
 
-The **Nominative Case** is used to indicate the subject of the sentence, but it can also can indicate a  predicate nominative,
+The **Nominative Case** is used to indicate the subject of the sentence, but it can also indicate a  predicate nominative,
 and can be used to indicate apposition.  It is also used for adjectives and participles modifying the subject of the sentence.
 See :ref:`Nominative case<case_nominative>` for more detail.
 
 The **Vocative case** is the case of Direct Address.  See :ref:`Vocative Case<case_vocative>` for more detail.
 
 The **Genitive case** indicates possession, but can also be used to indicate separation or relation.  In limited situations, it can also
-can indicate the subject or an object of the verb in the sentence among other uses.  Adjectives and participles modifying an object in the
-genitive case will also be in the Genitive. Some prepositions take their object in the genitive.  See :ref:`Genitive case<case_genitive>` for more details.
+indicate the subject or an object of the verb in the sentence among other uses.  Adjectives and participles modifying an object in the
+genitive case will also be in the genitive case. Some prepositions take their object in the genitive case.  See :ref:`Genitive case<case_genitive>` for more details.
 
 The **Dative case** is used to indicate, location, means, agency, or the indirect object.  Adjectives and participles modifying an object
-in the Dative case will also be in the dative.  Some prepositions take their object in the dative.  See :ref:`Dative Case<case_dative>` for more details.
+in the dative case will also be in the dative case.  Some prepositions take their object in the dative case.  See :ref:`Dative Case<case_dative>` for more details.
 
-The **Accusative case** is the case for the Direct Object among other uses.  Adjectives and participles modifying a object in the accusative
-case will also be in the accusative.  Some prepositions take their object in the accusative.  See :ref:`Accusative case<case_accusative>` 
+The **Accusative case** is the case for the Direct Object among other uses.  Adjectives and participles modifying an object in the accusative
+case will also be in the accusative case.  Some prepositions take their object in the accusative case.  See :ref:`Accusative case<case_accusative>` 
 for more details.
 
 Form
 ~~~~
 
-The case of a noun, pronoun, adjective, or participle is indicated by the case ending (or suffix) attached to the end of the word.   
-These changes follow three basic patterns called *"First declension"*, *"Second declension”*, and *“Third declension.”*
+The case of a noun, pronoun, adjective, article, or participle is indicated by the case ending (or suffix) attached to the end of the word.   
+These changes follow three basic patterns called *"First declension,"* *"Second declension,”* and *“Third declension.”*
 
 First declension nouns have a feminine gender for the most part and in the nominative singular end in an alpha or an eta.  
 See `First Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#first-declension>`_ .  A few masculine nouns end in an  -ας or –ης.  These words 
@@ -62,8 +62,7 @@ See `Second Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#n-4-
 Third declension nouns have stems that end in a consonant or the vowels (ι, υ, ευ).  They are made up of all three genders. 
 See `Third Declension <https://ugg.readthedocs.io/en/latest/paradigms.html#third-declension>`_ .
 
-Adjectives and pronouns agree in gender with the noun they are modifying (or to which they are referring).  The form of the ending will
-vary both by case and gender.  See `Adjective_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_  or  
+Adjectives and pronouns agree in gender with the noun they are modifying (or to which they are referring).    See `Adjective_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_  or  
 `Pronoun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#pronouns>`_ .
 
 Order of Words
