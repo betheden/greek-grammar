@@ -113,8 +113,8 @@ Note:
   *	The hyphen (-) indicates there is no case ending for feminine singular first and second declension nouns.
   *	There is no case ending for third declension neuter singular nouns, but the final stem letter may undergo changes. 
 
-See `noun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
-`adjective paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
+See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
+`AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 Nominative - Subject
 	
 Nominative-Subject
