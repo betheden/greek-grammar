@@ -113,8 +113,8 @@ Note:
   *	The hyphen (-) indicates there is no case ending for feminine singular first and second declension nouns.
   *	There is no case ending for third declension neuter singular nouns, but the final stem letter may undergo changes. 
 
-See `noun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`  for a complete listing of the noun paradigms and 
-`adjective paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>` for the adjective paradigms.
+See `noun_paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
+`adjective paradigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 Nominative - Subject
 	
 Nominative-Subject
@@ -151,7 +151,7 @@ Example – adjective and noun are both in the nominative case.
   ho,poimēn,**ho**,**kalos**,tēn,psychēn,autou,tithēsin,hyper,tōn,probatōn
   the,shepherd,**the**,**good**,the,life,of him,he lays down,in behalf of,the,sheep
 
-  **The good** *shepherd lays down his life for the sheep.*
+**The good** *shepherd lays down his life for the sheep.*
 
 Example – participle and noun being modified are both in the nominative case. (Like adjectives, participles agree with the noun they modify in case, number, and gender). See :ref:`Participles<participle>` .
 
