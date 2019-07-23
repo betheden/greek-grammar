@@ -168,10 +168,10 @@ If an adjective or participle is serving as the subject of the sentence, they wi
 
 .. csv-table::
 
-Romans 1:17
-ὁ,δὲ,**δίκαιος**,ἐκ,πίστεως,ζήσεται.
-ho de **dikaios** ek pisteōs zēsetai.
-the indeed **righteous**  by faith he will live.
+  Romans 1:17
+  ὁ,δὲ,**δίκαιος**,ἐκ,πίστεως,ζήσεται.
+  ho de **dikaios** ek pisteōs zēsetai.
+  the indeed **righteous**  by faith he will live.
 
 *Indeed, the* **righteous** *will live by faith.*
 
@@ -248,32 +248,39 @@ In this sentence, the subject “you” is included in the verb εἶ.  υἱὸ
 	
 2)	If only one of the words in the nominative case is preceded with the article, the word with the article is the subject.
 
-John 1:1
-καὶ θεὸς ἦν ὁ λόγος
-kai theos ēn ho logos
-and god  was the word
+.. csv-table::
 
-and the Word was God
+  John 1:1
+  καὶ,θεὸς,ἦν,ὁ,**λόγος**
+  kai,theos,ēn,ho,**logos**
+  and,god,was,the,**word**
 
-John 1:14
-καὶ ὁ λόγος σὰρξ ἐγένετο
-kai ho logos sarx egeneto
-and the word flesh it became
+*and the* **Word** *was God*
 
-The Word became flesh
+.. csv-table::
+
+  John 1:14
+  καὶ,ὁ,**λόγος**,σὰρξ,ἐγένετο
+  kai,ho,**logos**,sarx,egeneto
+  and,the,**word**,flesh,it became
+
+*The* **Word** *became flesh*
 
 3)	If only one of the words in the nominative case is a proper name, the proper name will be the subject.
 
-James 5:17
-Ἠλείας ἄνθρωπος ἦν ὁμοιοπαθὴς ἡμῖν
-Ēleias anthrōpos ēn homoiopathēs hemin
-Elijah   a man        he was   like/or with a nature like     us
+.. csv-table::
 
-Elijah was a man just like us.
+  James 5:17
+  **Ἠλείας**,ἄνθρωπος,ἦν,ὁμοιοπαθὴς,ἡμῖν
+  **Ēleias**,anthrōpos,ēn,homoiopathēs,hemin
+  **Elijah**,a man,he was,like/or with a nature like,us
+
+**Elijah** *was a man just like us.*
 
 Notice that in this example both the Subject (ἠλείας) and the predicate nominative (ἂνθρςπος) come before the verb.
 
-4)	If one of the nouns in the nominative case is a pronoun and one is a proper name, the pronoun will be the subject and the proper name will be the predicate nominative.
+4)	If one of the nouns in the nominative case is a pronoun and one is a proper name, the pronoun will be the subject and the proper name 
+will be the predicate nominative.
 
 Matthew 16:20
 αὐτός ἐστιν ὁ Χριστός
