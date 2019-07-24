@@ -306,50 +306,63 @@ will be the predicate nominative.
 
 **He** *is Elijah*
 
-5)	If 
+5)	If... 
   a.	both have the article or 
   b.	both are proper names or 
   c.	one has the article and the other is a proper name, 
 
     ...then the one that comes first is the subject.
 
-John 15:1
-ὁ πατήρ μου ὁ γεωργός ἐστιν.
-ho patēr mou ho geōrgos estin
-the father my the farmer/gardener he is
+.. csv-table::
 
-My father is the gardener
+  John 15:1
+  ὁ,**πατήρ**,μου,ὁ,γεωργός,ἐστιν.
+  ho,**patēr**,mou,ho,geōrgos,estin
+  the,**father**,my,the,farmer/gardener,he is
 
-6)	Some times εις + accusative is used for the predicate nominative.  This may occur with γίνομαι, εἰμί, or λογίζομαι. This portrays a process of something “changing into” something else.  In English, it is translated with a predicate nominative and the εἰς is not translated.
+*My* **father** *is the gardener*
 
-Mark 10:8
-καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν
-kai esontai hoi dyo eis sarka mian
-and they will be the two,, flesh one 
+6)	Some times **εις + accusative** is used for the predicate nominative.  This may occur with γίνομαι, εἰμί, or λογίζομαι. This portrays
+a process of something “changing into” something else.  In English, it is translated with a predicate nominative and the εἰς is not
+translated.    [D R A F T]
 
-and the two will become one flesh
+.. csv-table::
+
+  Mark 10:8
+  καὶ,ἔσονται,οἱ,δύο,**εἰς,σάρκα**,μίαν
+  kai,esontai,hoi,dyo,**eis,sarka**,mian
+  and,they will become,the,two,,**flesh**,one 
+
+*and the two will become one* **flesh**
 	
 
 Nominative–Stand_alone
+~~~~~~~~~~~~~~~~~~~~~~
 
-A word or clause may appear in the nominative case without a verb or a direct object.  This may occur in the greeting of a letter, titles, headings, or to make something a heading by giving it special emphasis.  A word or clause may also appear in the nominative case to express the emotion of the writer.   In these cases, there is no intent of the writer to form a complete sentence.
+A word or clause may appear in the nominative case without a verb or a direct object.  This may occur in the greeting of a letter, 
+titles, headings, or to make something a heading by giving it special emphasis.  A word or clause may also appear in the nominative case 
+to express the emotion of the writer.   In these cases, there is no intent of the writer to form a complete sentence.
 
 For example see the greeting of the book of Jude.
 
-Jude 1
-Ἰούδας Ἰησοῦ Χριστοῦ δοῦλος, ἀδελφὸς δὲ Ἰακώβου
-Ioudas Iēsou Christou doulos, adelphos de Iakōbou
-Jude     of Jesus of Christ a slave  brother and of James
+.. csv-table::
 
-Jude, a servant of Jesus Christ, and brother of James
+  Jude 1
+  Ἰούδας,Ἰησοῦ,Χριστοῦ,δοῦλος,ἀδελφὸς,δὲ,Ἰακώβου
+  Ioudas,Iēsou,Christou,doulos,adelphos,de,Iakōbou
+  Jude,of Jesus,of Christ,a slave,brother,and,of James
+
+**Jude**, *a servant of Jesus Christ, and brother of James*
 
 
 In Romans 11:33, Paul cries out with emotion
 
-Romans 11:33
-ὦ βάθος πλούτου, καὶ σοφίας καὶ γνώσεως Θεοῦ
-ō bathos ploutou, kai sophias kai gnōseōs Theou
-Oh depth of riches both of wisdom and of knowledge of God
+.. csv-table::
 
-Oh, the depth of the riches both of the wisdom and the knowledge of God!
+  Romans 11:33
+  ὦ,**βάθος**,πλούτου,καὶ,σοφίας,καὶ,γνώσεως,Θεοῦ
+  ō,**bathos**,ploutou,kai,sophias,kai,gnōseōs,theou
+  Oh,**depth**,of riches,both,of wisdom,and,of knowledge,of God
+
+*Oh*, **the depth** *of the riches both of the wisdom and the knowledge of God!*
 
