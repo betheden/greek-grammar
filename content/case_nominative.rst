@@ -24,7 +24,7 @@ headword in a dictionary entry (as the lemma).
 **Jesus**  *wept.*
 
 
-Article
+Article  [In Process - Draft]
 -------
 
 
@@ -153,7 +153,8 @@ Example – adjective and noun are both in the nominative case.
 
 **The good** *shepherd lays down his life for the sheep.*
 
-Example – participle and noun being modified are both in the nominative case. (Like adjectives, participles agree with the noun they modify in case, number, and gender). See :ref:`Participles<participle>` .
+Example – participle and noun being modified are both in the nominative case. (Like adjectives, participles agree with the noun they 
+modify in case, number, and gender). See :ref:`Participles<participle>` .
 
 .. csv-table::
 
@@ -190,7 +191,7 @@ Example:
 .. csv-table::
 
   Revelation 1:5
-  καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
+  καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
   kai,apo,Iēsou,Christou,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
   and,from,Jesus,Christ,the,**witness**,the,faithful,the,**firstborn**,from the,dead
 
@@ -200,21 +201,26 @@ Example:
 Nominative-Predicate
 ~~~~~~~~~~~~~~~~~~~~
 
- Linking verbs such as **εἰμί, γίνομαι, and ὑπάρχω** are completed with an object in nominative case.  The **Nominative-Predicate"**
- construction can take different forms but consists of a **subject + a linking verb + an object in the nominative case.**  [The linking
- verb may be implied and not actually present in the text.]  Care must be used in the translation of translation of a *Nominative-Predicate*
- because the object may not be in the last position and often not an exact equivalent of the subject.   The predicate nominative is 
- generally the larger class of objects, while the subject is the smaller class.  Therefore, the translator must clearly understand 
- which word (or phrase) is the subject of the sentence and which word (or phrase) is the predicate nominative and the translator 
- must use equal care in the translation so that the reader will be able to distinguish between the subject and the predicate nominative.
+Linking verbs such as **εἰμί, γίνομαι, and ὑπάρχω** are completed with an object in nominative case.  The **Nominative-Predicate** 
+(also referred to as Predicate nominative) construction can take different forms but consists of a **subject + a linking verb +**
+**an object in the nominative case.**   [The linking verb may be implied and not actually present in the text.]  Care must be used in 
+the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of 
+the subject.   The predicate nominative is generally the larger class of objects, while the subject is the smaller class.  Therefore, the 
+translator must clearly understand which word (or phrase) is the subject of the sentence and which word (or phrase) is the predicate 
+nominative and the translator must use equal care in the translation so that the reader will be able to distinguish between the subject 
+and the predicate nominative.
   
-Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the predicate nominative.   The translator must be careful 
-understand and take care in his translation to make sure the reader understands that Paul is the subject and man is the predicate nominative.  English uses word order to indicate which word is the subject and which word is the predicate nominative. Therefore reversing the word order in English to say “a man is Paul” would lead to the reader to think that all men are “Paul” which is not true.   The more definite of the two words (or clauses) in the nominative case will be the subject of the sentence. 
+  Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the Nominative-predicate.   The translator must be careful 
+  to first understand the passage and then take equal care in the translation to make sure the reader understands that Paul is the subject
+  and man is the Nominative-predicate.  English uses word order to indicate which word is the subject and which word is the predicate 
+  nominative. Therefore reversing   the word order in English to say “a man is Paul” would lead to the reader to think that all men are 
+  “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence. 
 
 Greek, for the most part, does not use position to distinguish between subject and the predicate nominative.  In Greek the predicate
-nominative may be moved in front of the subject to place an emphasis on the predicate nominative. The following basic rules will help 
-to clarify which word (or clause) is the subject of the sentence and which word (or clause) is the predicate nominative for the sentence 
-in Koine Greek.  
+nominative may be moved in front of the subject to place an emphasis on the predicate nominative. 
+
+**The following basic rules will help to clarify which word (or clause) is the subject of the sentence and which word (or clause)**
+**is the predicate nominative for the sentence in Koine Greek.**  
 
 NOTE: In Koine Greek, the linking verb may be omitted entirely, and may have to be supplied by the reader (or translator) to complete 
 the sentence. (an example of this will be given below.)
@@ -282,25 +288,30 @@ Notice that in this example both the Subject (ἠλείας) and the predicate n
 4)	If one of the nouns in the nominative case is a pronoun and one is a proper name, the pronoun will be the subject and the proper name 
 will be the predicate nominative.
 
-Matthew 16:20
-αὐτός ἐστιν ὁ Χριστός
-autos estin ho Christos
-he       he is  the Christ
+.. csv-table::
 
-He is the Christ.
+  Matthew 16:20
+  **αὐτός**,ἐστιν,ὁ,Χριστός
+  **autos**,estin,ho, Christos
+  **he**,he is,the Christ
 
-Matthew 11:14
-αὐτός ἐστιν Ἠλείας
-autos estin Ēleias
-he     he is   Elijah
+**He** *is the Christ.*
 
-He is Elijah
+.. csv-table::
+
+  Matthew 11:14
+  **αὐτός**,ἐστιν,Ἠλείας
+  **autos**,estin,Ēleias
+  **he**,he is,Elijah
+
+**He** *is Elijah*
 
 5)	If 
-a.	both have the article or 
-b.	both are proper names or 
-c.	one has the article and the other is a proper name, 
-then the one that comes first is the subject.
+  a.	both have the article or 
+  b.	both are proper names or 
+  c.	one has the article and the other is a proper name, 
+
+    ...then the one that comes first is the subject.
 
 John 15:1
 ὁ πατήρ μου ὁ γεωργός ἐστιν.
