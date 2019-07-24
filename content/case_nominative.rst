@@ -126,11 +126,11 @@ case when it is modifying the subject of the sentence as can be seen in the exam
 .. csv-table:: 
 
   John 3:35 
-  ὁ,**πατὴρ**,ἀγαπᾷ,τὸν,υἱόν
-  ho,**patēr**,agapa,ton,huion
-  the,**father**,he loves,the,son
+  **ὁ**,**πατὴρ**,ἀγαπᾷ,τὸν,υἱόν
+  **ho**,**patēr**,agapa,ton,huion
+  **the**,**father**,he loves,the,son
 
-*The* **father** *loves the son.*
+**The father** *loves the son.*
 
 The reader will notice that the verb includes the subject of the sentence “he” as part of a first person singular verb.  **ὁ πατὴρ** 
 identifies the subject by pointing specifically to the father.  Therefore the nominative-subject also stands in *apposition* (or next to)
@@ -160,7 +160,7 @@ Example – participle and noun being modified are both in the nominative case. 
   Matthew 6:6
   ὁ,πατήρ,σου,**ὁ**,**βλέπων**,ἐν,τῷ,κρυπτῷ,ἀποδώσει,σοι.
   ho,patēr,sou,**ho**,**blepōn**,en,tō,kryptō,apodōsei,soi.
-  the,father,of,you,**who is seeing**,in,the,secret,he will reward,to,you
+  the,father,of you,**who**,**is seeing**,in,the,secret,he will reward,to you
 
 *your Father* **who sees** *in secret will reward you*
 
@@ -170,8 +170,8 @@ If an adjective or participle is serving as the subject of the sentence, they wi
 
   Romans 1:17
   ὁ,δὲ,**δίκαιος**,ἐκ,πίστεως,ζήσεται.
-  ho de **dikaios** ek pisteōs zēsetai.
-  the indeed **righteous**  by faith he will live.
+  ho,de,**dikaios**,ek,pisteōs,zēsetai.
+  the,indeed,**righteous**,by,faith,he will live.
 
 *Indeed, the* **righteous** *will live by faith.*
 
@@ -191,7 +191,7 @@ Example:
 
   Revelation 1:5
   καὶ,ἀπὸ,Ἰησοῦ,Χριστοῦ,**ὁ**,**μάρτυς**,ὁ,πιστός,,**ὁ**,**πρωτότοκος**,τῶν,νεκρῶν...
-  kai,apo,Iēsou,Christou,,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
+  kai,apo,Iēsou,Christou,**ho**,**martys**,ho,pistos,**ho**,**prōtotokos**,tōn,nekrōn...
   and,from,Jesus,Christ,the,**witness**,the,faithful,the,**firstborn**,from the,dead
 
 *and from Jesus Christ, the faithful* **witness**, *the* **firstborn** *from the dead...*
