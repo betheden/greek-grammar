@@ -28,14 +28,14 @@ sentence.  In the example below, the first person singular pronoun changes depen
     
 Other languages, such as Hebrew, do not use a case system.
 
-The **Nominative Case** is used to indicate the subject of the sentence, but it can also indicate a  predicate nominative,
+The **Nominative case** is used to indicate the subject of the sentence, but it can also indicate a  predicate nominative,
 and can be used to indicate apposition.  It is also used for adjectives and participles modifying the subject of the sentence.
 See :ref:`Nominative case<case_nominative>` for more detail.
 
 The **Vocative case** is the case of Direct Address.  See :ref:`Vocative Case<case_vocative>` for more detail.
 
 The **Genitive case** indicates possession, but can also be used to indicate separation or relation.  In limited situations, it can also
-indicate the subject or an object of the verb in the sentence among other uses.  Adjectives and participles modifying an object in the
+indicate the subject or the object of the verb in the sentence among other uses.  Adjectives and participles modifying an object in the
 genitive case will also be in the genitive case. Some prepositions take their object in the genitive case.  See :ref:`Genitive case<case_genitive>` for more details.
 
 The **Dative case** is used to indicate, location, means, agency, or the indirect object.  Adjectives and participles modifying an object
@@ -72,7 +72,7 @@ Order of Words
 
 Because the Greek language has a case system, the order of the words in a sentence can be changed to place an emphasis on a particular word
 or clause.   The normal word order is **conjunction – verb – subject – object**.   When this order is changed there is probably a slight
-emphasis being made on the words that are moved up.  
+emphasis being made on the words that are moved forward.  
 
 .. csv-table::  Example: Satan tempting Jesus
 
