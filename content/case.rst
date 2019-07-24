@@ -79,9 +79,9 @@ emphasis being made on the words that are moved forward.
   Matthew 4:3
   Εἰ,υἱὸς,εἶ,τοῦ,θεοῦ,εἰπὲ,ἵνα,οἱ,λίθοι,οὗτοι,ἄρτοι,γένωνται.
   Ei,huios,ei,tou,theou,eipe,hina,hoi,lithoi,houtoi,artoi,genōntai.
-  If,son,you are,of,god,order,that,the,stones,these,bread,they become.
+  If,son,you are,of,God,order,that,the,stones,these,bread,they become.
 
-**If you are the son of god**, *order that these stones become bread.*
+**If you are the son of God**, *order that these stones become bread.*
 
 Note:  In this sentence the phrase “if you are the son of god” has been moved to the first position in the sentence.   The movement of the
 phrase to the front of the sentence places a slight emphasis or stress on the condition.
