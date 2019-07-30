@@ -39,7 +39,7 @@ The nominative case is the case of designation or identity. It is used to:
 Form
 ^^^^
 
-The Nominative case is formed by adding the nominative case ending to the stem of a word (often with a connecting vowel).
+The nominative case is formed by adding the nominative case ending to the stem of a word (often with a connecting vowel).
 
 .. raw:: html
 
@@ -126,11 +126,11 @@ case when it is modifying the subject of the sentence as can be seen in the exam
 .. csv-table:: 
 
   John 3:35 
-  **ὁ**,**πατὴρ**,ἀγαπᾷ,τὸν,υἱόν
+  **ὁ**,**Πατὴρ**,ἀγαπᾷ,τὸν,Υἱόν
   **ho**,**patēr**,agapa,ton,huion
-  **the**,**father**,he loves,the,son
+  **the**,**Father**,he loves,the,Son
 
-**The father** *loves the son.*
+**The Father** *loves the Son.*
 
 The reader will notice that the verb includes the subject of the sentence “he” as part of a first person singular verb.  **ὁ πατὴρ** 
 identifies the subject by pointing specifically to the father.  Therefore the nominative-subject also stands in *apposition* (or next to)
@@ -159,9 +159,9 @@ modify in case, number, and gender). See :ref:`Participles<participle>` .
 .. csv-table::
 
   Matthew 6:6
-  ὁ,πατήρ,σου,**ὁ**,**βλέπων**,ἐν,τῷ,κρυπτῷ,ἀποδώσει,σοι.
+  ὁ,Πατήρ,σου,**ὁ**,**βλέπων**,ἐν,τῷ,κρυπτῷ,ἀποδώσει,σοι.
   ho,patēr,sou,**ho**,**blepōn**,en,tō,kryptō,apodōsei,soi.
-  the,father,of you,**who**,**is seeing**,in,the,secret,he will reward,to you
+  the,Father,of you,**who**,**is seeing**,in,the,secret,he will reward,to you
 
 *your Father* **who sees** *in secret will reward you*
 
@@ -181,7 +181,7 @@ Nominative – Apposition
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Apposition means “*next to*” or “*beside*.”  Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional clarity.  This is the nominative of Apposition. The **nominative-Apposition** sometimes will modify the subject of the sentence, 
+additional information (to further describe the suject of the sentence).  This is the nominative of Apposition. The **nominative-Apposition** sometimes will modify the subject of the sentence, 
 or it may modify a noun that is not the subject and is not in the nominative case.  However, the Nominative-Apposition will still be in 
 the nominative case because it is **identifying or designating the noun**. In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in 
 the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
@@ -207,7 +207,7 @@ Linking verbs such as **εἰμί, γίνομαι, and ὑπάρχω** are compl
 the translation of a *Nominative-Predicate* because the object may not be in the last position and is often not an exact equivalent of 
 the subject.   The predicate nominative is generally the larger class of objects, while the subject is the smaller class.  Therefore, the 
 translator must clearly understand which word (or phrase) is the subject of the sentence and which word (or phrase) is the predicate 
-nominative and the translator must use equal care in the translation so that the reader will be able to distinguish between the subject 
+nominative. The translator must use equal care in the translation so that the reader will be able to distinguish between the subject 
 and the predicate nominative.
   
   Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the Nominative-predicate.   The translator must be careful 
@@ -244,22 +244,22 @@ When Jesus spoke to the crowd and said “you”, they had a clear understanding
 .. csv-table::
 
   Matthew 14:33
-  ἀληθῶς,θεοῦ,υἱὸς,**εἶ**
+  ἀληθῶς,Θεοῦ,Υἱὸς,**εἶ**
   alēthōs,theou,huios,**ei**
-  truly,of god,son,**you** are
+  truly,of God,Son,**you** are
 
 *Truly* **you** *are the Son of God.*
 
-In this sentence, the subject “you” is included in the verb εἶ.  υἱὸς is the predicate nominative.  
+In this sentence, the subject “you” is included in the verb εἶ.  Υἱὸς is the predicate nominative.  
 	
 2)	If only one of the words in the nominative case is preceded with the article, the word with the article is the subject.
 
 .. csv-table::
 
   John 1:1
-  καὶ,θεὸς,ἦν,ὁ,**λόγος**
+  καὶ,Θεὸς,ἦν,ὁ,**λόγος**
   kai,theos,ēn,ho,**logos**
-  and,god,was,the,**word**
+  and,God,was,the,**word**
 
 *and the* **Word** *was God*
 
@@ -283,7 +283,7 @@ In this sentence, the subject “you” is included in the verb εἶ.  υἱὸ
 
 **Elijah** *was a man just like us.*
 
-Notice that in this example both the Subject (ἠλείας) and the predicate nominative (ἂνθρςπος) come before the verb.
+Notice that in this example both the subject (Ἠλείας) and the predicate nominative (ἂνθρςπος) come before the verb.
 
 4)	If one of the nouns in the nominative case is a pronoun and one is a proper name, the pronoun will be the subject and the proper name 
 will be the predicate nominative.
@@ -293,7 +293,7 @@ will be the predicate nominative.
   Matthew 16:20
   **αὐτός**,ἐστιν,ὁ,Χριστός
   **autos**,estin,ho, Christos
-  **he**,he is,the Christ
+  **he**,he is,the, Christ
 
 **He** *is the Christ.*
 
@@ -316,11 +316,11 @@ will be the predicate nominative.
 .. csv-table::
 
   John 15:1
-  ὁ,**πατήρ**,μου,ὁ,γεωργός,ἐστιν.
+  ὁ,**Πατήρ**,μου,ὁ,γεωργός,ἐστιν.
   ho,**patēr**,mou,ho,geōrgos,estin
-  the,**father**,my,the,farmer/gardener,he is
+  the,**Father**,my,the,farmer/gardener,he is
 
-*My* **father** *is the gardener*
+*My* **Father** *is the gardener*
 
 6)	Some times **εις + accusative** is used for the predicate nominative.  This may occur with γίνομαι, εἰμί, or λογίζομαι. This portrays
 a process of something “changing into” something else.  In English, it is translated with a predicate nominative and the εἰς is not
