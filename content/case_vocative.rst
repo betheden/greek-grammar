@@ -24,7 +24,7 @@ Article   **In process - Draft**
 
 The vocative case is the case of direct address.   
   *	However, a noun in the vocative case preceded by the particle **ὥ** is is used to add emphasis or to express emotion.
-  * Caution: Do not confuse ὥ (the particle) with ῷ -the dative case relative personal pronoun,  or with ὦ - the first person 
+  * Caution: Do not confuse **ὥ** (the particle) with **ῷ** -the dative case relative personal pronoun,  or with **ὦ** - the first person 
     subjunctive form of εἰμί. 
 
 Only 2.1% of the 28,599 nouns in the New Testament are in the vocative case.
@@ -53,7 +53,7 @@ The **vocative of direct address**  is the most frequent use of the vocative cas
   ou,pas,ho,legōn,moi,**Kyrie,Kyrie**,eiseleusetai,eis,tēn,Basileian,tōn,Ouranōn
   not,everyone,who says,to me,**Lord,Lord**,he will enter,into,the,kingdom,of,heaven
   
-  *Not everyone who says to me,* **‘Lord, Lord’**,*will enter into the kingdom of heaven*
+*Not everyone who says to me,* **‘Lord, Lord’**,*will enter into the kingdom of heaven*
 
 .. csv-table::
 
@@ -81,6 +81,7 @@ Example of **ὥ + vocative** to add an *emotional emphasis.*
   to them,he says,**Oh,generation**,unbelieving,until,when,with,you,will I be?
   
 *and he said to them*, “You unbelieving* **generation!**, *how long will I be with you?* 
+
 Note:  The emotional emphasis can be difficult to reflect in a translation.  The exclaimation mark is used in this example to 
 reflect the emotion. 
 
@@ -96,4 +97,6 @@ Example of **ὥ + vocative** *to add emphasis.*
   you,but,**o,man**,of God,these things,you flee,you pursue,but (instead),righteousness
 
 *But you*, **man** *of God, flee from these things. Instead, pursue righteousness...* 
+
+NOte:  The emphasis is lost in the English text.  
 
