@@ -132,7 +132,7 @@ case when it is modifying the subject of the sentence as can be seen in the exam
 
 **The Father** *loves the Son.*
 
-The reader will notice that the verb includes the subject of the sentence “he” as part of a first person singular verb.  **ὁ πατὴρ** 
+The reader will notice that the verb includes the subject of the sentence “he” as part of a first person singular verb.  **ὁ Πατὴρ** 
 identifies the subject by pointing specifically to the father.  Therefore the nominative-subject also stands in *apposition* (or next to)
 the subject that is included as a part of the verb, but helps to clarify the subject of the verb with the additional information.
 
@@ -142,7 +142,7 @@ they are modifying)  See :ref:`Adjectives<adjective>` .
 
 
 
-Example – adjective and noun are both in the nominative case.
+Example – The adjective (καλός) and the noun (ποιμὴν) are both in the nominative case.
 
 .. csv-table::
 
@@ -153,7 +153,7 @@ Example – adjective and noun are both in the nominative case.
 
 **The good** *shepherd lays down his life for the sheep.*
 
-Example – participle and noun being modified are both in the nominative case. (Like adjectives, participles agree with the noun they 
+Example – The participle (βλέπων) and the noun (Πατήρ) being modified are both in the nominative case. (Like adjectives, participles agree with the noun they 
 modify in case, number, and gender). See :ref:`Participles<participle>` .
 
 .. csv-table::
@@ -174,7 +174,7 @@ If an adjective or participle is serving as the subject of the sentence, they wi
   ho,de,**dikaios**,ek,pisteōs,zēsetai.
   the,indeed,**righteous**,by,faith,he will live.
 
-*Indeed, the* **righteous** *will live by faith.*
+*But, the* **righteous** *will live by faith.*
 
 
 Nominative – Apposition	
