@@ -126,7 +126,7 @@ case when it is modifying the subject of the sentence as can be seen in the exam
 
   John 3:35 
   **ὁ**,**Πατὴρ**,ἀγαπᾷ,τὸν,Υἱόν
-  **ho**,**patēr**,agapa,ton,huion
+  **ho**,**Patēr**,agapa,ton,huion
   **the**,**Father**,he loves,the,Son
 
 **The Father** *loves the Son.*
@@ -180,7 +180,7 @@ Nominative – Apposition
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Apposition means “*next to*” or “*beside*.”  Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional information (to further describe the suject of the sentence).  This is the nominative of Apposition. The **nominative-Apposition** sometimes will modify the subject of the sentence, 
+additional information (to further describe the subject of the sentence).  This is the nominative of Apposition. The **nominative-Apposition** sometimes will modify the subject of the sentence, 
 or it may modify a noun that is not the subject and is not in the nominative case.  However, the Nominative-Apposition will still be in 
 the nominative case because it is **identifying or designating the noun**. In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in 
 the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
