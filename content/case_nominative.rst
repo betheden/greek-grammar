@@ -132,7 +132,7 @@ case when it is modifying the subject of the sentence as can be seen in the exam
 **The Father** *loves the Son.*
 
 The reader will notice that the verb includes the subject of the sentence “he” as part of a third person singular verb.  **ὁ Πατὴρ** 
-identifies the subject by pointing specifically to the father.  Therefore the nominative-subject also stands in *apposition* (or next to)
+identifies the subject by pointing specifically to the Father.  Therefore the nominative-subject also stands in *apposition* (or next to)
 the subject that is included as a part of the verb, but helps to clarify the subject of the verb with the additional information.
 
 The **nominative case** is also used for *adjectives* and *participles* modifying the subject.  This is because adjectives and participles 
