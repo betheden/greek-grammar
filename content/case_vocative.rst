@@ -19,7 +19,7 @@ Glossary
 **Lord**, *if you are willing, you can make me clean*
 
 
-Article   **In process - Draft**
+Article   [**In process - Draft**]
 -------
 
 The vocative case is the case of direct address.   
@@ -49,9 +49,9 @@ The **vocative of direct address**  is the most frequent use of the vocative cas
 .. csv-table::
 
   Matthew 7:21
-  οὐ,πᾶς,ὁ,λέγων,μοι,**Κύριε,Κύριε**,εἰσελεύσεται,εἰς,τὴν,Βασιλείαν,τῶν,Οὐρανῶν
-  ou,pas,ho,legōn,moi,**Kyrie,Kyrie**,eiseleusetai,eis,tēn,Basileian,tōn,Ouranōn
-  not,everyone,who says,to me,**Lord,Lord**,he will enter,into,the,kingdom,of,heaven
+  οὐ,πᾶς,ὁ,λέγων,μοι,**Κύριε**,**Κύριε**,εἰσελεύσεται,εἰς,τὴν,Βασιλείαν,τῶν,Οὐρανῶν
+  ou,pas,ho,legōn,moi,**Kyrie**,**Kyrie**,eiseleusetai,eis,tēn,Basileian,tōn,Ouranōn
+  not,everyone,who says,to me,**Lord**,**Lord**,he will enter,into,the,kingdom,of,heaven
   
 *Not everyone who says to me,* **‘Lord, Lord’**,*will enter into the kingdom of heaven*
 
@@ -76,11 +76,11 @@ Example of **ὥ + vocative** to add an *emotional emphasis.*
 .. csv-table::
 
   Mark 9:19
-  αὐτοῖς,λέγει,**ὦ,γενεὰ**,ἄπιστος!,ἕως,πότε,πρὸς,ὑμᾶς,ἔσομαι?
-  autois,legei,**ō,genea**,apistos!,heōs,pote,pros,hymas,esomai?
-  to them,he says,**Oh,generation**,unbelieving,until,when,with,you,will I be?
+  αὐτοῖς,λέγει,**ὦ**,**γενεὰ**,ἄπιστος!,ἕως,πότε,πρὸς,ὑμᾶς,ἔσομαι?
+  autois,legei,**ō**,**genea**,apistos!,heōs,pote,pros,hymas,esomai?
+  to them,he says,**Oh**,**generation**,unbelieving,until,when,with,you,will I be?
   
-*and he said to them*, “You unbelieving* **generation!**, *how long will I be with you?* 
+*and he said to them*, You unbelieving* **generation!**, *how long will I be with you?* 
 
 Note:  The emotional emphasis can be difficult to reflect in a translation.  The exclaimation mark is used in this example to 
 reflect the emotion. 
@@ -92,11 +92,11 @@ Example of **ὥ + vocative** *to add emphasis.*
 .. csv-table::
 
   I Timothy 6:11
-  σὺ,δέ,**ὦ,ἄνθρωπε**,Θεοῦ,ταῦτα,φεῦγε,δίωκε,δὲ,δικαιοσύνην...
-  sy,de,**ō,anthrōpe**,Theou,tauta,pheuge,diōke,de,dikaiosynēn...
-  you,but,**o,man**,of God,these things,you flee,you pursue,but (instead),righteousness
+  σὺ,δέ,**ὦ**,**ἄνθρωπε**,Θεοῦ,ταῦτα,φεῦγε,δίωκε,δὲ,δικαιοσύνην...
+  sy,de,**ō**,**anthrōpe**,Theou,tauta,pheuge,diōke,de,dikaiosynēn...
+  you,but,**o**,**man**,of God,these things,you flee,you pursue,but (instead),righteousness
 
 *But you*, **man** *of God, flee from these things. Instead, pursue righteousness...* 
 
-NOte:  The emphasis is lost in the English text.  
+Note:  The emphasis is lost in the English text.  
 
