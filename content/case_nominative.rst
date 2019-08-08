@@ -180,7 +180,7 @@ Nominative – Apposition
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Apposition means “*next to*” or “*beside*.”  Sometimes a second noun is placed next to the subject of the sentence (or clause) to add 
-additional information (to further describe the subject of the sentence).  This is the nominative of Apposition. The **nominative-Apposition** sometimes will modify the subject of the sentence, 
+additional information (to further describe the subject of the sentence).  This is the Nominative of Apposition. The **Nominative-Apposition** sometimes will modify the subject of the sentence, 
 or it may modify a noun that is not the subject and is not in the nominative case.  However, the Nominative-Apposition will still be in 
 the nominative case because it is **identifying or designating the noun**. In the example below  *ὁ μάρτυς* and *ὁ προτότοκος* are both in 
 the nominative case and are in apposition to Ἰησοῦ χριστοῦ which is in the genitive case. 
@@ -212,7 +212,7 @@ and the predicate nominative.
   Consider the sentence, “Paul is a man.”   “Paul” is the subject and “man” is the Nominative-Predicate.   The translator must be careful 
   to first understand the passage and then take equal care in the translation to make sure the reader understands that Paul is the subject
   and man is the Nominative-Predicate.  English uses word order to indicate which word is the subject and which word is the Predicate 
-  Nominative. Therefore reversing   the word order in English to say “a man is Paul” would lead to the reader to think that all men are 
+  Nominative. Therefore reversing   the word order in English to say “a man is Paul” would lead the reader to think that all men are 
   “Paul” which is not true.   The more   definite of the two words (or clauses) in the nominative case will be the subject of the sentence. 
 
 Greek, for the most part, does not use position to distinguish between subject and the predicate nominative.  In Greek the predicate
@@ -316,7 +316,7 @@ will be the predicate nominative.
 
   John 15:1
   ὁ,**Πατήρ**,μου,ὁ,γεωργός,ἐστιν.
-  ho,**patēr**,mou,ho,geōrgos,estin
+  ho,**Patēr**,mou,ho,geōrgos,estin
   the,**Father**,my,the,farmer/gardener,he is
 
 *My* **Father** *is the gardener*
