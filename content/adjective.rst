@@ -108,11 +108,12 @@ Attributive function
 
 This is the most common use of an adjective.  Both :ref:`restrictive adjectives<adjective_restrictive>` and 
 :ref:`ascriptive adjectives<adjective_ascriptive>` may have an *attributive* function.   
-  -Restrictive adjectives follow a pattern of **definite article- noun- definite article- adjective**
-  -Ascriptive adjectives follow one of four patterns of **Definite article- adjective- noun**  or
-     -**Definite Article- noun- adjective** or
-     -**noun- adjective** or
-     -**adjective- noun**
+  *Restrictive adjectives follow a pattern of **noun- definite article- adjective**
+  *Ascriptive adjectives follow one of four patterns:
+     * **Definite article- adjective- noun**  or
+     * **Definite Article- noun- adjective** or
+     * **noun- adjective** or
+     * **adjective- noun**
      
 An attributive adjective may come before or after the noun it modifies. An attributive adjective will usually have 
 an article. Attributive adjectives must agree with the noun they modify in case, number, and gender. 
