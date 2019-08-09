@@ -111,6 +111,7 @@ This is the most common use of an adjective.  Both :ref:`restrictive adjectives<
 
   #. Restrictive adjectives follow a pattern of **noun- definite article- adjective**
   #. Ascriptive adjectives follow one of four patterns:
+ 
      * **Definite article- adjective- noun**  or
      * **Definite Article- noun- adjective** or
      * **noun- adjective** or
