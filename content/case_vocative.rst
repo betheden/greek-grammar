@@ -53,7 +53,7 @@ The **vocative of direct address**  is the most frequent use of the vocative cas
   ou,pas,ho,legōn,moi,**Kyrie**,**Kyrie**,eiseleusetai,eis,tēn,Basileian,tōn,Ouranōn
   not,everyone,who,says,to me,**Lord**,**Lord**,he will enter,into,the,kingdom,of,heaven
   
-*Not everyone who says to me,* **‘Lord, Lord’**,will enter into the kingdom of heaven
+*Not everyone who says to me,* **‘Lord, Lord’**, *will enter into the kingdom of heaven*
 
 .. csv-table::
 
