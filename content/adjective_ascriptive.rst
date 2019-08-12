@@ -10,14 +10,14 @@ Glossary
 
 For the Unlocked Greek Grammar and `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_,
 Ascriptive Adjectives are adjectives that (1) are NOT classified as a noun, and 
-(2)DO NOT follow the pattern **Article-Noun-Article-Adjective**.
+(2)DO NOT follow the pattern **Noun-Article-Adjective**.
 
 Article
 -------
 
 Adjectives occur in five basic patterns when modifying a noun:
 
-  #. Article-noun-article adjective
+  #. noun-article adjective or with an article before the noun (article-noun-article-adjective)
   #. Article-adjective-noun
   #. Article-noun-adjective
   #. Adjective-noun
@@ -31,6 +31,6 @@ Some resources will describe an adjectival clause as restrictive if it narrows d
 In other words it directs the reader to a specific person or thing (or persons or things) from a larger group.   
 In contrast an ascriptive adjective provides additional information about a person or thing that has already been clearly identified. 
 For the purposes of the Unlocked Greek Grammar, the terms “ascriptive” and “restrictive” are NOT being used in this manner.
-Restrictive adjectives are adjectives that are not functioning as a noun and follow the pattern [Article-Noun-Article-Adjective].  
-All other adjectives are classified as ascriptive if they are not functioning as a noun.    
+Restrictive adjectives are adjectives that are not functioning as a noun and follow the pattern **Noun-Article-Adjective**, or 
+(article-noun-article-adjective).  All other adjectives are classified as ascriptive if they are not functioning as a noun.    
 
