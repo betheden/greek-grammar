@@ -10,14 +10,14 @@ Glossary
 
 For the Unlocked Greek Grammar and `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_,
 Ascriptive Adjectives are adjectives that (1) are NOT classified as a noun, and 
-(2)DO NOT follow the pattern **Noun-Article-Adjective**.
+(2) DO NOT follow the pattern **Noun-Article-Adjective**.
 
 Article
 -------
 
 Adjectives occur in five basic patterns when modifying a noun:
 
-  #. noun-article adjective or with an article before the noun (article-noun-article-adjective)
+  #. Noun-article adjective or with an article before the noun (article-noun-article-adjective)
   #. Article-adjective-noun
   #. Article-noun-adjective
   #. Adjective-noun
