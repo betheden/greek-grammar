@@ -17,13 +17,13 @@ Article
 -------
 
 Adjectives occur in five basic patterns when modifying a noun:
-  #. noun-article-adjective or with the article before the noun (article-noun-article-adjective)
+  #. Noun-article-adjective or with the article before the noun (article-noun-article-adjective)
   #. Article-adjective-noun
   #. Article-noun-adjective
   #. Adjective-noun
   #. Noun-adjective
 
-Pattern 1 is classified as Restrictive in the Unlocked Greek Grammar and the 
+Pattern 1 is classified as restrictive in the Unlocked Greek Grammar and the 
  `Unfolding_Word_Greek_New_Testament <https://klappy.github.io/translation-helps/?owner=door43-catalog&rc=/en/ult/>`_.
 
 Patterns 2, 3, 4, and 5, are classified as ascriptive in the Unlocked Greek Grammar and the Unfolding Word Greek New Testament.
