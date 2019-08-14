@@ -25,7 +25,7 @@ Article
 The vocative case is the case of direct address.   
   *	However, a noun in the vocative case preceded by the particle **ὥ** is used to add emphasis or to express emotion.
   * Caution: Do not confuse **ὦ** (the particle) with **ᾧ** -the dative case relative pronoun,  or with **ὦ** - the first person singular
-    subjunctive form of εἰμί (notice it is identical to the particle in form). 
+    subjunctive form of εἰμί (which is identical to the particle ὦ in form). 
 
 Only 2.1% of the 28,599 nouns in the New Testament are in the vocative case.
 
@@ -67,8 +67,8 @@ The **vocative of direct address**  is the most frequent use of the vocative cas
 Vocative – Emphasis/Emotion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The vocative case can also be used **to express emotion or emphasis**.  The particle ὥ is used when the vocative case is used 
-to add additional emphasis or emotion to the basic function of direct address.  ὥ followed by a word in the vocative case only 
+The vocative case can also be used **to express emotion or emphasis**.  The particle ὦ is used when the vocative case is used 
+to add additional emphasis or emotion to the basic function of direct address.  ὦ followed by a word in the vocative case only 
 occurs 14 times in the New Testament.
 
 Example of **ὦ + vocative** to add an *emotional emphasis.*
