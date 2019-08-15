@@ -57,6 +57,8 @@ unfoldingWord Greek Grammar
    noun
       predicate adjective <noun_predicate_adj>
       substantive adjective <noun_substantive_adj>
+      proper <proper_noun>
+      indeclinable <indeclinable_proper_noun>
    number
       plural <number_plural>
       singular <number_singular>
@@ -79,7 +81,6 @@ unfoldingWord Greek Grammar
       reciprocal <pronoun_reciprocal>
       reflexive <pronoun_reflexive>
       relative <pronoun_relative>
-   proper noun <proper_noun_indeclinable>
    punctuation
    superlative
    tense
