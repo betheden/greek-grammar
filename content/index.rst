@@ -58,7 +58,7 @@ unfoldingWord Greek Grammar
       predicate adjective <noun_predicate_adj>
       substantive adjective <noun_substantive_adj>
       proper <proper_noun>
-      indeclinable proper <indeclinable_proper_noun>
+      indeclinable proper <proper_noun_indeclinable>
    number
       plural <number_plural>
       singular <number_singular>
