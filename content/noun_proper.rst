@@ -1,8 +1,8 @@
-:github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/noun_proper.rst
+:github_url: https://git.door43.org/unfoldingWord/en_ugg/src/branch/master/content/proper_noun.rst
 
-.. _noun_proper:
+.. _proper_noun:
 
-Noun Proper
+Proper Noun
 ===========
 
 Glossary
