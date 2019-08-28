@@ -23,7 +23,7 @@ Article
 -------
 
 The vocative case is the case of direct address.   
-  *	However, a noun in the vocative case preceded by the particle **ὥ** is used to add emphasis or to express emotion.
+  *	However, a noun in the vocative case preceded by the particle **ὦ** is used to add emphasis or to express emotion.
   * Caution: Do not confuse **ὦ** (the particle) with **ᾧ** -the dative case relative pronoun,  or with **ὦ** - the first person singular
     subjunctive form of εἰμί (which is identical to the particle ὦ in form). 
 
