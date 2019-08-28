@@ -35,6 +35,9 @@ people were instrumental in the creation of the UGG:
 -  Todd L. Price (BA Biblical Languages, Calvary Bible College; MA Biblical
    Languages, Midwestern Baptist Theological Seminary; PhD New Testament &
    Corpus Linguistics, London School of Theology)
+   
+-  Grant I. Ailie (B.A. Biblical Studies, Criswell College; 
+   MDiv, Liberty Baptist Theological Seminary)
 
 License
 -------
