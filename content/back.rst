@@ -38,6 +38,8 @@ Long, Fredrick J. *Kairos: A Beginning Greek Grammar*. Mishawaka, IN: Fredrick J
 
 Long, Gary A. *Grammatical Concepts 101 for Biblical Greek: Learning Biblical Greek Grammatical Concepts through English Grammar. *Peabody, MA: Hendrickson Publishers, 2006.
 
+Matthewson, David L., and Elodie Ballantine Emig. *Intermediate Greek Grammar: Syntax for Students of the New Testament*. Grand Rapids, MI: Baker Academic, 2016.
+
 Moulton, James Hope. *An Introduction to the Study of New Testament Greek*. London: Charles H. Kelly, 1895.
 
 Mounce, William D. *Basics of Biblical Greek: Grammar*. Edited by Verlyn D. Verbrugge. Third Edition. Grand Rapids, MI: Zondervan, 2009.
@@ -57,5 +59,7 @@ Sophocles, E. A. *A Greek Grammar, for the Use of Learners*. Ninth Edition. Hart
 Summers, Ray, and Thomas Sawyer. *Essentials of New Testament Greek*. Rev. ed. Nashville, TN: Broadman & Holman, 1995.
 
 Wallace, Daniel B. *Greek Grammar beyond the Basics: An Exegetical Syntax of the New Testament*. Grand Rapids, MI: Zondervan, 1996.
+
+Young, Richard A. *Intermediate New Testament Greek: A Linguistic and Exegetical Approach*. Nashville, TN: Broadman & Holman, 1994.
 
 Zerwick, Max. *Biblical Greek Illustrated by Examples. *Vol. 114. English ed., adapted from the fourth Latin ed. Scripta Pontificii Instituti Biblici. Rome: Pontificio Istituto Biblico, 1963.
