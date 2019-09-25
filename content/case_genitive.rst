@@ -55,30 +55,30 @@ The word in the Genitive case usually follows the word that it is modifying.
 
 .. raw:: html
   	
-  <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-09bg{font-family:serif !important;;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-f8tv{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-7g6k{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-  </style>
-  <table class="tg">
-  <tr>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-09bg{font-family:serif !important;;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <tr>
     <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Genitive Case Ending</span></th>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-f8tv" colspan="3">First and Second Declension</td>
     <td class="tg-0pky"></td>
     <td class="tg-f8tv" colspan="2">Third Declencion</td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Masculine</td>
     <td class="tg-0pky">Feminine</td>
@@ -86,12 +86,12 @@ The word in the Genitive case usually follows the word that it is modifying.
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Masculine/Feminine</td>
     <td class="tg-0pky">Neuter</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
-    <td class="tg-3xi5" colspan="6"></td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
+      <td class="tg-3xi5" colspan="6"></td>
+    </tr>
+    <tr>
     <td class="tg-f8tv">Genitive</td>
     <td class="tg-3xi5"><span style="font-weight:bold">υ</span></td>
     <td class="tg-3xi5"> <span style="font-weight:bold">ς</span></td>
@@ -99,8 +99,8 @@ The word in the Genitive case usually follows the word that it is modifying.
     <td class="tg-fymr"></td>
     <td class="tg-7btt">ος</td>
     <td class="tg-7btt">ος</td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td class="tg-0pky"><span style="font-style:italic">Plural</span></td>
     <td class="tg-7g6k"></td>
     <td class="tg-7g6k"></td>
@@ -108,8 +108,8 @@ The word in the Genitive case usually follows the word that it is modifying.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td class="tg-0pky"><span style="font-style:italic">Genitive</span></td>
     <td class="tg-7g6k">ων</td>
     <td class="tg-7g6k">ων</td>
@@ -117,8 +117,8 @@ The word in the Genitive case usually follows the word that it is modifying.
     <td class="tg-0pky"></td>
     <td class="tg-c3ow"><span style="font-weight:bold">ων</span></td>
     <td class="tg-7btt">ων</td>
-  </tr>
-</table>
+    </tr>
+    </table>
 
 
 See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
