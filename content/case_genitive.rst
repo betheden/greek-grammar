@@ -95,7 +95,7 @@ The word in the Genitive case usually follows the word that it is modifying.
     <td class="tg-f8tv">Genitive</td>
     <td class="tg-3xi5"><span style="font-weight:bold">υ</span></td>
     <td class="tg-3xi5"> <span style="font-weight:bold">ς</span></td>
-    <td class="tg-09bg"><span style="font-weight:bold">υ</span></td>
+    <td class="tg-3xi5"><span style="font-weight:bold">υ</span></td>
     <td class="tg-fymr"></td>
     <td class="tg-7btt">ος</td>
     <td class="tg-7btt">ος</td>
