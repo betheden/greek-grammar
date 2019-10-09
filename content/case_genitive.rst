@@ -19,7 +19,8 @@ Glossary  [DRAFT - IN PROCESS]
   kai,hautē,estin,hē,martyria,**tou**,**Iōannou**
   and,this,it is,the,testimony,**of**,**the**,**John**
 
- *This is the testimony* **of John**  ; or
+
+*This is the testimony* **of John**  ; or
  *This is* **John’s** *testimony*
 
 In this example, the relationship expressed is that of possession.
@@ -31,21 +32,21 @@ Article   [DRAFT - IN PROCESS]
 
 The **Genitive case** is primarily the case of description.  
 
-  1. The Genitive case may be used to attribute 
+  1. The Genitive case may be used to attribute   
   
-      * a basic quality to the noun or 
-      *	of material from which it was formed or consists.
+      * a basic quality to the noun, or [see `Genitive-Attribute<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_
+      *	of material from which it was formed or contains.  [see `Genitive_Material<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_
       
   2. The Genitive case may also express a relationship to the subject noun (or substantive) 
       
-      *	of kinship, 
-      * possession, 
-      * apposition, 
-      * separation (or source).
+      *	of kinship, [see `Genitive_Kinship<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_
+      * possession, [see `Genitive_Possession<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_
+      * apposition, or [see `Genitive_Apposition<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_
+      * separation (or source).[see `Genitive_Separation<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source.`_
       
-  3. A word in the genitive case may also serve as the subject or object of the head noun.
+  3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-subject-object>`_
 
-The translator may observe that sometimes a specific word in the Genitive may seem to fit into more than one of the above categories.
+The translator may observe that sometimes a specific word in the Genitive case may seem to fit into more than one of the above categories.
 There is often no clear single category and the final determination by the translator must be based upon context.
 
 Form
@@ -130,7 +131,7 @@ Genitive – Attributive
 
 The Genitive case restricts (or limits) the head noun (or substantive) by describing the head noun.  The limitation is generally 
 as to “kind” and not to “extent or result.”   The effect of the description is that it separates the head noun from other similar 
-items that do not possess the described attribute.  For example if I were to say a “book of the law;”  the phrase “of the law” 
+items that do not possess the described attribute.  For example if I were to say a “book of the law;”  the phrase *"of the law”* 
 describes the book. The phrase also separates this book from all the other books which are not law books.  
 
 The **Genitive-attributive** functions like an adjective and gives a general attribute (or description) of the head noun.  
@@ -168,6 +169,11 @@ In this instance the *item (or thing) that is used to create the object* or *tha
   and,they,were,filled,all,**with Spirit**,Holy
 
 *They were all filled* **with** *the Holy* **Spirit**
+
+Note:   The preposition *with* is used because it better conveys the concept of the "content an object contains."
+If the translator interpreted this passage as a Genitive of separation- they would use the preposition "from" or  the Genitive of source,
+they would use the preposition "by".   These determinations are being made based on context in order to accurately convey the concept
+intended by the text.
 
 Genitive – of Kinship
 #####################
@@ -213,7 +219,8 @@ The Genitive of Possession us used to indicate ownership or possession of an obj
 The ownership may be an indication of a legal right to ownership or physical possession of an item.  
 
 It may also refer to an emotional attachment to the object.  In this instance the ownership is like that of a child to his father, 
-a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.
+a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  In each of these cases
+an emotional attachment is being expressed.
 
 The Genitive of Possession is often used with a possessive pronoun such as *μου, ἡμῶν, σοῦ, ὑμῶν.*
 
@@ -281,7 +288,7 @@ separation of the two objects.
   Luke 19:8
   τὰ,ἡμίσιά,μου,**τῶν**,**ὑπαρχόντων**,Κύριε,τοῖς,πτωχοῖς,δίδωμι
   ta,hēmisia,mou,**tōn**,**hyparchontōn**,Kyrie,tois,ptōchois,didōmi
-  the,half,of my,**of**,**possessions/goods**,Lord,to,the,poor,I give
+  the,half,of my,**of**,**possessions/goods**,Lord,to the,poor,I give
 
 *Lord, the half of my* **goods** *I give to the poor*
 
@@ -313,7 +320,7 @@ verbs prefixed with ἀπό, ἐκ, or κατά will take their object in the Ge
   Matthew 24:27
   οὕτως,ἔσται,ἡ,παρουσία,**τοῦ**,**Υἱοῦ**,τοῦ,Ἀνθρώπου
   houtōs,estai,hē,parousia,**tou**,**Huiou**,tou,Anthrōpou
-  thus,it will be,the,coming,**of the**,**Son**,of Man
+  thus,it will be,the,coming,**of the**,**Son**,of,Man
 
 *so will be the coming* **of the Son** *of Man*
 
