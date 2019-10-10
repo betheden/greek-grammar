@@ -42,7 +42,7 @@ The **Genitive case** is primarily the case of description.
       *	of kinship, [see `Genitive_Kinship <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_]
       * possession, [see `Genitive_Possession <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_]
       * apposition, or [see `Genitive_Apposition <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_
-      * separation (or source).[see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source.` _]
+      * separation (or source).[see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source` _]
       
   3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-subject-object>`_]
 
