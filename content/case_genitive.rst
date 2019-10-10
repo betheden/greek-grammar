@@ -17,10 +17,10 @@ Glossary  [DRAFT - IN PROCESS]
   John 1:19
   καὶ,αὕτη,ἐστὶν,ἡ,μαρτυρία,**τοῦ**,**Ἰωάννου**
   kai,hautē,estin,hē,martyria,**tou**,**Iōannou**
-  and,this,it is,the,testimony,**of**,**the**,**John**
+  and,this,it is,the,testimony,**of the**,**John**
 
 
-*This is the testimony* **of John**  ; or
+*This is the testimony*  **of John**  ; or
  *This is* **John’s** *testimony*
 
 In this example, the relationship expressed is that of possession.
@@ -34,15 +34,15 @@ The **Genitive case** is primarily the case of description.
 
   1. The Genitive case may be used to attribute   
   
-      * a basic quality to the noun, or [see `Genitive-Attribute<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_
-      *	of material from which it was formed or contains.  [see `Genitive_Material<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_
+      * a basic quality to the noun, or [see `Genitive-Attribute <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_
+      *	of material from which it was formed or contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_
       
   2. The Genitive case may also express a relationship to the subject noun (or substantive) 
       
-      *	of kinship, [see `Genitive_Kinship<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_
-      * possession, [see `Genitive_Possession<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_
-      * apposition, or [see `Genitive_Apposition<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_
-      * separation (or source).[see `Genitive_Separation<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source.`_
+      *	of kinship, [see `Genitive_Kinship <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_
+      * possession, [see `Genitive_Possession <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_
+      * apposition, or [see `Genitive_Apposition <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_
+      * separation (or source).[see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source.`_
       
   3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object<https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-subject-object>`_
 
