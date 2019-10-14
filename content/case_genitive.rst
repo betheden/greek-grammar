@@ -5,7 +5,7 @@
 Case genitive
 =============
 
-Glossary  [DRAFT - IN PROCESS]
+Glossary 
 --------
 
 **Genitive** is a case which has many uses. It expresses a relationship with the substantive it modifies by indicating a
@@ -20,14 +20,14 @@ Glossary  [DRAFT - IN PROCESS]
   and,this,it is,the,testimony,**of the**,**John**
 
 
-*This is the testimony of John* ; or
+*This is the testimony of John*; or
 *This is* **John’s** *testimony*
 
-In this example, the relationship expressed is that of possession.
+In this example, the relationship expressed is that of possession and/or source.
 
 
 
-Article   [DRAFT - IN PROCESS]
+Article  
 -------
 
 The **Genitive case** is primarily the case of description.  
@@ -35,9 +35,9 @@ The **Genitive case** is primarily the case of description.
   1. The Genitive case may be used to attribute   
   
       * a basic quality to the noun, or [see `Genitive-Attribute <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_ ]
-      *	of material from which it was formed or contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
+      *	to show the material from which it was formed or material that it contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
       
-  2. The Genitive case may also express a relationship to the subject noun (or substantive) 
+  2. The Genitive case may also express a relationship to the subject noun (or substantive-a substantive is a noun or any word or group of words functioning like a noun) 
       
       *	of kinship, [see `Genitive_Kinship <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-kinship>`_]
       * possession, [see `Genitive_Possession <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-possession>`_]
@@ -52,7 +52,7 @@ There is often no clear single category and the final determination by the trans
 Form
 ~~~~
 The Genitive case is formed by adding the *Genitive case ending* to the stem of a word (often with a connecting vowel).  
-The word in the Genitive case usually follows the word that it is modifying.
+The word in the Genitive case usually follows the word that it is modifying. When the word in the Genitive case occurs before the word it is modifying, the word in the Genitive case is being given more attention by the author.
 
 .. raw:: html
   	
@@ -180,12 +180,12 @@ Genitive – of Kinship
 
 The Genitive Case may be used to describe a kinship relationship.  In most cases The Genitive of Kinship is used to describe 
 someone who is the physical descendent (son or daughter) of someone.  However, it can be used to refer to anyone who is a descendent 
-in a “spiritual sense” or  someone who is a descendent several generations removed.  Therefore in Luke 13:16  the woman is called a 
+in a “spiritual sense” or  someone who is a descendent several generations apart.  Therefore in Luke 13:16  the woman is called a 
 daughter of Abraham even though over a thousand years had passed.  The woman is still considered to be a daughter of Abraham.  
 The Genitive of Kinship may also be used to describe the parent of someone or a relationship by marriage to someone.
 
-*Note:* Some grammars make a distinction between when the noun that would describe the kinship relationship (“Son”) is present and 
-when it is omitted.  In this grammar we are not making that fine of a distinction.  When the noun that describes the kinship relationship
+*Note:* Some grammars make a distinction between when the noun describing the kinship relationship (“Son”) is present and 
+when it is absent.  In this grammar we are not making that fine of a distinction.  When the noun that describes the kinship relationship
 is absent, the “kinship relationship”  is implied by the Genitive of Kinship.  The definite article may (or may not) be present.
 This implied relationship is then included in the translation.   
 
@@ -215,14 +215,14 @@ Genitive – of Possession
 ########################
 
 
-The Genitive of Possession us used to indicate ownership or possession of an object that it is modifying.
+The Genitive of Possession is used to indicate ownership or possession of the object that it is modifying.
 The ownership may be an indication of a legal right to ownership or physical possession of an item.  
 
-It may also refer to an emotional attachment to the object.  In this instance the ownership is like that of a child to his father, 
+It may also refer to an emotional attachment to the object. When referring to an emotional attachment the ownership is like that of a child to his father, 
 a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  In each of these cases
 an emotional attachment is being expressed.
 
-The Genitive of Possession is often used with a possessive pronoun such as *μου, ἡμῶν, σοῦ, ὑμῶν.*
+The Genitive of Possession is often used with a personal pronoun such as *μου, ἡμῶν, σοῦ, ὑμῶν.*
 
 .. csv-table::
 
@@ -238,7 +238,7 @@ Genitive of Apposition
 ######################
 
 Apposition means *“next to”* or *“beside.”*  Sometimes a second noun is placed next to a noun to add additional information 
-(to further describe the head noun). The noun in apposition  may be in the nominative case (Nominative-Apposition) or may be 
+(to further describe the head noun). The noun in apposition  may be in the nominative case (Nominative of Apposition) or may be 
 in the Genitive case (Genitive of Apposition).  A word is probably standing in apposition to another noun if the translator could 
 use the phrase  “who is ..., or which is ... , or namely...” followed by the noun in apposition. In the example below, “his mother” 
 is in apposition to Mary.   The phrase could be translated “They saw the young child with Mary (who is his mother).  
