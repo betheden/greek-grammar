@@ -171,7 +171,7 @@ In this instance the *item (or thing) that is used to create the object* or *tha
 *They were all filled* **with** *the Holy* **Spirit**
 
 Note:   The preposition *with* is used because it better conveys the concept of the "content an object contains."
-If the translator interpreted this passage as a Genitive of separation- they would use the preposition "from" or  the Genitive of source,
+If the translator interpreted this passage as a Genitive of separation they would use the preposition "from" or if they interpreted it as a Genitive of source,
 they would use the preposition "by".   These determinations are being made based on context in order to accurately convey the concept
 intended by the text.
 
@@ -222,9 +222,9 @@ It may also refer to an emotional attachment to the object. When referring to an
 a child to his father, a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  
 In each of these cases an emotional attachment is being expressed.
 
-Possessive pronouns such as *ἐμός* (my), *σὀς* (your), *ἡμέτερος* (our), *ὑμέτερος* (yours), or *ἵδιος* (his) are sometimes used
+Possessive pronouns such as *ἐμός* (my), *σός* (your), *ἡμέτερος* (our), *ὑμέτερος* (your), or *ἵδιος* (his) are sometimes used
 instead of the Genitive-of-Possession.  When this occurs the possessive pronouns will decline like any other adjective and will agree with
-the noun they are modifying in case and gender.
+the noun they are modifying in case and gender. In Biblical Greek the most common way a speaker/writer shows possession is by using a personal pronoun in the genitive Case.
 
 .. csv-table::
 
@@ -242,7 +242,7 @@ Genitive of Apposition
 Apposition means *“next to”* or *“beside.”*  Sometimes a second noun is placed next to a noun to add additional information 
 (to further describe the head noun). The noun in apposition  may be in the nominative case (Nominative of Apposition) or may be 
 in the Genitive case (Genitive of Apposition).  A word is probably standing in apposition to another noun if the translator could 
-use the phrase  “who is ..., or which is ... , or namely...” followed by the noun in apposition. In the example below, “his mother” 
+use the phrase  “who is," or the phrase "which is," or the phrase "namely” followed by the noun in apposition. In the example below, “his mother” 
 is in apposition to Mary.   The phrase could be translated “They saw the young child with Mary (who is his mother).  
 
 .. csv-table::
