@@ -34,7 +34,7 @@ The **Genitive case** is primarily the case of description.
 
   1. The Genitive case may be used to attribute   
   
-      * a basic quality to the noun, or [see `Genitive-Attribute <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_ ]
+      * a basic quality to the noun, or [see `Genitive-Attribute <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-attributive`_ ]
       *	to show the material from which it was formed or material that it contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
       
   2. The Genitive case may also express a relationship to the subject noun (or substantive-a substantive is a noun or any word or group of words functioning like a noun) 
@@ -44,7 +44,7 @@ The **Genitive case** is primarily the case of description.
       * apposition, or [see `Genitive_Apposition <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-apposition>`_]
       * separation (or source). [see `Genitive_Separation <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-separation-or-source>`_]
       
-  3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-subject-object>`_]
+  3. A word in the genitive case may also serve as the subject or object of the head noun. [see `Genitive_Subject/Object <https://ugg.readthedocs.io/en/latest/case_genitive.html#id2>`_]
 
 The translator may observe that sometimes a specific word in the Genitive case may seem to fit into more than one of the above categories.
 There is often no clear single category and the final determination by the translator must be based upon context.
@@ -166,7 +166,7 @@ In this instance the *item (or thing) that is used to create the object* or *tha
   Acts 2:4
   καὶ,ἐπλήσθησαν,πάντες,**Πνεύματος**,Ἁγίου
   kai,eplēsthēsan,pantes,**Pneumatos**,Hagiou
-  and,they,were,filled,all,**with Spirit**,Holy
+  and,they were filled,all,**with Spirit**,Holy
 
 *They were all filled* **with** *the Holy* **Spirit**
 
@@ -180,7 +180,7 @@ Genitive – of Kinship
 
 The Genitive Case may be used to describe a kinship relationship.  In most cases The Genitive of Kinship is used to describe 
 someone who is the physical descendent (son or daughter) of someone.  However, it can be used to refer to anyone who is a descendent 
-in a “spiritual sense” or  someone who is a descendent several generations apart.  Therefore in Luke 13:16  the woman is called a 
+in a “spiritual sense” or  someone who is a descendent several generations later in time.  Therefore in Luke 13:16  the woman is called a 
 daughter of Abraham even though over a thousand years had passed.  The woman is still considered to be a daughter of Abraham.  
 The Genitive of Kinship may also be used to describe the parent of someone or a relationship by marriage to someone.
 
@@ -218,11 +218,13 @@ Genitive – of Possession
 The Genitive of Possession is used to indicate ownership or possession of the object that it is modifying.
 The ownership may be an indication of a legal right to ownership or physical possession of an item.  
 
-It may also refer to an emotional attachment to the object. When referring to an emotional attachment the ownership is like that of a child to his father, 
-a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  In each of these cases
-an emotional attachment is being expressed.
+It may also refer to an emotional attachment to the object. When referring to an emotional attachment the ownership is like that of 
+a child to his father, a dog to his master, or a person to his church.  This is my father. This is my master. This is my church.  
+In each of these cases an emotional attachment is being expressed.
 
-The Genitive of Possession is often used with a personal pronoun such as *μου, ἡμῶν, σοῦ, ὑμῶν.*
+Possessive pronouns such as *ἐμός* (my), *σὀς* (your), *ἡμέτερος* (our), *ὑμέτερος* (yours), or *ἵδιος* (his) are sometimes used
+instead of the Genitive-of-Possession.  When this occurs the possessive pronouns will decline like any other adjective and will agree with
+the noun they are modifying in case and gender.
 
 .. csv-table::
 
@@ -334,8 +336,9 @@ It is referring to the Son’s coming.  The writer could have said, “The son w
   kathōs,to,martyrion,**tou**,**Christou**,ebebaiōthē,en,hymin
   just as,the,testimony,**of**,**Christ**,has been confirmed,in,you
 
-*just as the testimony* **about Christ** *has been confirmed as true among you*
+*just as the testimony* **about Christ** *has been confirmed [as true] among you*
 
-Note:  In this case “Christ” is the recipient of the testimony.  Therefore the smooth translation uses the term “about Christ.”  
+Note:  In this case “Christ” is the recipient of the testimony.  Therefore the smooth translation uses the term “about Christ.”
+		We have placed the words "as true" in brackets because these words are not in the Greek text, but they are implied by ἐβεβαιώθη.
 
 
