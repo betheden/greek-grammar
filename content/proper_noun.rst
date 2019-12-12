@@ -8,7 +8,7 @@ Proper Noun
 Glossary
 --------
 
-A **proper noun** is a noun that names or references a specific object. In the New Testament, most of the *proper nouns* are 
+A **proper noun** is a noun that names or references a specific object. In the New Testament *proper nouns* are 
 nouns that name a specific person or place. 
 
 Article
@@ -20,9 +20,9 @@ The nouns *man* and *city* are both *common* nouns because they are both general
 
 .. csv-table:: Example: JHN 1:42 
 
-   σὺ, κληθήσῃ, **Κηφᾶς**, ὃ, ἑρμηνεύεται, Πέτρος
-   sy, klēthēsē, **Kēphas**, ho, hermēneuetai, Petros
-   you, will be called, **Cephas**, which, is translated, Peter
+   σὺ, κληθήσῃ, **Κηφᾶς**, ὃ, ἑρμηνεύεται, **Πέτρος**
+   sy, klēthēsē, **Kēphas**, ho, hermēneuetai, **Petros**
+   you, will be called, **Cephas**, which, is translated, **Peter**
 
 *you will be called* **Cephas,** *which is translated as* **Peter**
 
