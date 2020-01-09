@@ -44,7 +44,7 @@ Form
 ~~~~~~
 The Dative case is formed by adding the Dative case ending to the stem of a word (often with a connecting vowel).  
 
-..raw:: html
+.. raw:: html
 
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
