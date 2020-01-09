@@ -5,20 +5,295 @@
 Case dative
 ===========
 
-Glossary
+Glossary   [**Draft - In Process**]
 --------
+
+**Dative** is a case which has a wide range of uses. It can indicate the *recipient*
+or *reference* of a verbal action.  The dative case also is 
+used to indicate the  *location, instrument, relation, or manner* in which 
+something occurs.  Some verbs take their object in the dative case.
 
 **Dative** is a nominal case which has a very wide range of uses. It can
 indicate the *recipient*, *reference*, *location* or *instrument* of a
 verbal action, as well as the *manner* in which, or *interest* of which,
 something occurs.
 
-.. csv-table:: Example: LUK 24:42
+.. csv-table:: Example: Luke 24:42
 
-  οἱ δὲ ἐπέδωκαν αὐτῷ ἰχθύος ὀπτοῦ μέρος
-  hoi de epedōkan autō ichthyos optou meros
-  and they gave to him of a fish broiled part
-  they gave him a piece of a broiled fish
+  οἱ,δὲ,ἐπέδωκαν,**αὐτῷ**,ἰχθύος,ὀπτοῦ,μέρος
+  hoi,de,epedōkan,**autō**,ichthyos,optou,meros
+  They,and,they gave,**to him**,of a fish,broiled,part
+  
+  *They gave* **him** *a piece of a broiled fish*
 
-Article
+Article    [**Draft - In process**]
 -------
+
+The Dative case serves three primary functions. It may also indicate the direct object for some verbs
+1.	Indirect object and personal interest -  It serves as the case of personal interest by indicating the indirect object of the verb. It points to or for whom something was done. It can also be used to indicate someone or something that is being referred to by the verb, including possession.
+2.	location - It may indicate the location (in place, sphere, or time) of an event.
+3.	Instrumental - It may indicate the means, cause, manner, agent of an action.
+4.	Direct object-  Some verbs take their direct object in the dative case.
+
+
+Form
+~~~~~~
+The Dative case is formed by adding the Dative case ending to the stem of a word (often with a connecting vowel).  
+
+..raw:: html
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-f8tv{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-mqn7{font-weight:bold;font-family:serif !important;;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7g6k{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Dative Case Ending</span></th>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-f8tv" colspan="3">First and Second Declension</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-f8tv" colspan="2">Third Declencion</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Masculine</td>
+    <td class="tg-0pky">Feminine</td>
+    <td class="tg-0pky">Neuter</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Masculine/Feminine</td>
+    <td class="tg-0pky">Neuter</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
+    <td class="tg-3xi5" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Genitive</td>
+    <td class="tg-3xi5"><span style="font-weight:bold">ι</span></td>
+    <td class="tg-3xi5"><span style="font-weight:bold"> ι</span></td>
+    <td class="tg-mqn7">ι</td>
+    <td class="tg-fymr"></td>
+    <td class="tg-7btt">ι</td>
+    <td class="tg-7btt">ι</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-style:italic">Plural</span></td>
+    <td class="tg-7g6k"></td>
+    <td class="tg-7g6k"></td>
+    <td class="tg-7g6k"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-style:italic">Genitive</span></td>
+    <td class="tg-7g6k">ις</td>
+    <td class="tg-7g6k">ις</td>
+    <td class="tg-7g6k">ις</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow">σι (ν)</td>
+    <td class="tg-7btt">σι (ν)</td>
+  </tr>
+</table>
+
+
+[Note]
+•	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
+•	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  [See rules for movable Nu.]  [Note: I do not think we have a place for this. so may need to drop.]
+
+
+Dative – Indirect object /personal interest
+	The Dative- Indirect object will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object of the verb (or if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common use of the dative case when a preposition is not used.   Often, the translator will use the key words “to”  or “for”in the translation.  As an indirect object, the dative case is used to point out the person (or personification of something) “to” or “for which” something is done.  
+
+	John 6:29
+	ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς
+	ho Iēsous kai eipen autois
+	The Jesus and he said to them
+
+	and Jesus said to them,
+
+	
+2 Corinthians 12:7
+ἐδόθη μοι σκόλοψ τῇ σαρκί
+edothē moi skolops tē sarki
+it was given to me thorn in the  flesh
+
+a thorn in the flesh was given to me
+
+Note:  in this example the verb ( ἐδόθη) is in the passive voice. Therefore, the word in the dative case receives the subject of the clause (σκόλοψ) which is in the nominative case.
+	
+
+Indirect Object of Advantage (or Disadvantage) 
+	A sub-category of the Dative of Indirect Object is the Indirect Object of Advantage (or Disadvantage.  It may be to the advantage (or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the Indirect Object of Advantage.  If it is to their disadvantage (or harm), it is referred to as the Indirect object of Disadvantage.
+
+Example: Indirect Object of Advantage  
+
+John 4:5
+πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ τῷ Ἰωσὴφ
+plēsion tou chōriou ho edōken Iakōb tō Iōsēph
+near       the   land    that he gave Jacob to Joseph
+
+near the piece of land that Jacob had given to Joseph
+
+Example:  Indirect object of disadvantage
+1 Corinthians 11:29
+ὁ γὰρ ἐσθίων καὶ πίνων κρίμα ἑαυτῷ, ἐσθίει καὶ πίνει
+ho gar esthiōn kai pinōn krima heautō, esthiei kai pinei
+the for he who is eating and he who is drinking  judgment to himself he is eating and he is drinking
+
+For he who eats and drinks ..., eats and drinks judgment to himself.
+
+
+Dative of Reference
+   The Dative of Reference is a subcategory of the Indirect object of Personal Interest.   Sometimes the meaning is better conveyed with a key word; “concerning”, “about”, “in regard to”, “with reference to”, “or in respect to”.  The Dative of Reference is often used when describing the effect of the action on a thing or a personification of something.
+
+Romans 6:2
+οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ?
+hoitines apethanomen tē hamartia, pōs eti zēsomen en autē?
+We             we have died to sin           how still will we live in it
+
+We who died to sin, how can we still live in it?
+
+Note:  This verse could easily be translated  “With reference to sin, we have died.” or “in respect to sin”
+
+See also:
+
+Romans 6:11
+λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ Θεῷ
+logizesthe heautous einai nekrous men tē hamartia, zōntas de tō Theō
+You reckon  yourselves to be dead on the one hand to to sin, alive but to to God
+
+you also must consider yourselves to be dead to sin, but alive to God in Christ Jesus.
+
+Dative of Possession  
+
+	Possession is a form of personal interest.  Therefore, the dative case in some instances is used to indicate possession.  Possession is generally indicated by use of the genitive case, but in some instances the dative case is used.  
+
+Luke 1:7
+καὶ οὐκ ἦν αὐτοῖς τέκνον...
+kai ouk ēn autois teknon,
+and not it/there was to them a child
+
+But they had no child
+
+Note:  In this instance, our smooth translation  drops the indirect object of possession.  It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
+
+
+
+Dative -Locative (location)
+
+•	Locative of place - The dative case is may be used to indicate the location (or place) of an object in the physical world.  
+•	Locative of Sphere - When this place is more metaphorical or logical, it is referred to as the Locative of Sphere
+•	Locative of Time -  The dative case may also be used to indicate the location of an object in time.
+
+
+example for Locative of place (Note: the place is a physical location)
+
+John 21:8
+οἱ δὲ ἄλλοι μαθηταὶ τῷ πλοιαρίῳ ἦλθον
+hoi de alloi mathētai tō ploiariō ēlthon
+the but other disciples in a boat  they came
+
+The other disciples came in the boat
+
+Example for Locative of Sphere  (Note: the location is metaphorical or logical in nature)
+
+Matthew 5:3
+μακάριοι οἱ πτωχοὶ τῷ πνεύματι
+makarioi hoi ptōchoi tō pneumatic
+Blessed the poor      in   spirit
+
+Blessed are the poor in spirit
+
+Example for Locative of time
+
+John 2:1
+καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ
+kai tē hēmera tē tritē gamos egeneto en Kana
+and the day      the third a wedding there was in Cana
+
+Three days later, there was a wedding in Cana
+
+Note:  In this instance  “on the third day” is translated “Three days later...”
+
+
+Dative – Instrumental
+
+The Dative-Instrumental may be used to indicate the Means, Cause, manner, or agent by which an event occurs.  The Dative-Instrumental may also be used to indicate an association with the main subject of the action.  Making distinctions between means, cause, manner, agent, or association  can be very difficult and often the choice between one category and the other is subject to personal interpretation.  
+
+The instrumental of means is used to indicate the means or (the process or method) by which the action of the verb is accomplished.
+
+Matthew 8:16
+καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ
+kai exebalen ta pneumata logo
+and he cast out the spirit   with a word
+
+He drove out the spirits with a word
+
+The Instrumental of Cause is used to indicate the cause, the motivating event, or reason something occurred.  Therefore, the key word “because” may help in translation.
+
+Romans 11:20
+τῇ ἀπιστίᾳ ἐξεκλάσθησαν
+tē apistia exeklasthēsan
+because (of) unbelief  they were broken off
+
+Because of their unbelief they were broken off
+
+
+The Instrumental of manner – is used to indicate the method or manner used to accomplish something.  This is very closely related to the Instrumental of means. 
+
+1 Corinthians 11:5
+πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ
+pasa de gynē proseuchomenē ē prophēteuousa akatakalyptō tē kephalē
+every but woman  who prays  or who prophecies  with uncovered  the head
+
+But every woman who prays or prophesies with her head uncovered
+
+
+The Instrumental of agent is used with a verb in the middle or passive voice to express the agent or person by which an action is accomplished.  Agency may also be expressed by using the preposition ὑπὸ with the genitive case or δία with the accusative case. 
+
+Galatians 5:18
+εἰ δὲ Πνεύματι ἄγεσθε
+ei de Pneumati agesthe
+if but by Spirit    you are led
+
+But if you are led by the Spirit
+
+
+The Instrumental of Association  is used to indicate an association, relation or, affiliation of some kind with the subject carrying out the action of the verb.
+
+Mark 14:51
+καὶ νεανίσκος τις συνηκολούθει αὐτῷ
+kai neaniskos tis synēkolouthei auto
+and a young man certain he followed  with him.
+
+Now a certain young man was following him   [Note in the literal Bible “Jesus” was used for the pronoun “him” but the proper name was supplied on the basis of context and not the Greek text.]
+
+Dative-Direct object
+
+Certain verbs take their object in the dative case.  This is often with verbs that indicate some sort of personal relation to the action.
+
+The following is a list of 48 verbs that may take their object in the dative case:
+ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist), ἀντιπίπτω (to resist),ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve), ἀρέσκω (to please), βοηθέω (to help), διακατελέγχομαι (to refute), διακονέω (to serve), διαμαρτύρομαι (to warn), διαστέλλω (to order), διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve), ἐγκαλέω (to accuse), ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow), ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke),ἐπιτάσσω (to command), ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank), κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently), ὁμολογέω (to profess), ὀργιζω (to be angry at), παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble), παρενοχλέω (to trouble), πείθω (to obey), πιστεύω (to believe), προσκυνέω (to worship), προστάσσω (to command), προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise), συνακολουθέω (to follow), συνεργέω (to assist), συνευδοκέω (to approve), ὑπακούω (to obey), ὑπηρετέω (to serve), χαρίζομαι (to forgive), χράομαι (to make use of), ψάλλω (to sing praise to).
+
+Luke 16:28
+ὅπως διαμαρτύρηται αὐτοῖς
+hopōs diamartyrētai autois
+so that   he could warn them
+
+in order that he might warn them
+
+
+
+
