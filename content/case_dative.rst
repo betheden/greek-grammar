@@ -46,70 +46,70 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 
 ..raw:: html
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-f8tv{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-mqn7{font-weight:bold;font-family:serif !important;;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7g6k{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Dative Case Ending</span></th>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-f8tv" colspan="3">First and Second Declension</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-f8tv" colspan="2">Third Declencion</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Masculine</td>
-    <td class="tg-0pky">Feminine</td>
-    <td class="tg-0pky">Neuter</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Masculine/Feminine</td>
-    <td class="tg-0pky">Neuter</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
-    <td class="tg-3xi5" colspan="6"></td>
-  </tr>
-  <tr>
-    <td class="tg-f8tv">Genitive</td>
-    <td class="tg-3xi5"><span style="font-weight:bold">ι</span></td>
-    <td class="tg-3xi5"><span style="font-weight:bold"> ι</span></td>
-    <td class="tg-mqn7">ι</td>
-    <td class="tg-fymr"></td>
-    <td class="tg-7btt">ι</td>
-    <td class="tg-7btt">ι</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-style:italic">Plural</span></td>
-    <td class="tg-7g6k"></td>
-    <td class="tg-7g6k"></td>
-    <td class="tg-7g6k"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-style:italic">Genitive</span></td>
-    <td class="tg-7g6k">ις</td>
-    <td class="tg-7g6k">ις</td>
-    <td class="tg-7g6k">ις</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow">σι (ν)</td>
-    <td class="tg-7btt">σι (ν)</td>
-  </tr>
-</table>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-mqn7{font-weight:bold;font-family:serif !important;;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7g6k{font-weight:bold;background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+      <tr>
+        <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Dative Case Ending</span></th>
+      </tr>
+      <tr>
+        <td class="tg-c3ow"></td>
+        <td class="tg-f8tv" colspan="3">First and Second Declension</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-f8tv" colspan="2">Third Declencion</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">Masculine</td>
+        <td class="tg-0pky">Feminine</td>
+        <td class="tg-0pky">Neuter</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">Masculine/Feminine</td>
+        <td class="tg-0pky">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-3xi5" colspan="6"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-3xi5"><span style="font-weight:bold">ι</span></td>
+        <td class="tg-3xi5"><span style="font-weight:bold"> ι</span></td>
+        <td class="tg-mqn7">ι</td>
+        <td class="tg-fymr"></td>
+        <td class="tg-7btt">ι</td>
+        <td class="tg-7btt">ι</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Plural</span></td>
+        <td class="tg-7g6k"></td>
+        <td class="tg-7g6k"></td>
+        <td class="tg-7g6k"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Genitive</span></td>
+        <td class="tg-7g6k">ις</td>
+        <td class="tg-7g6k">ις</td>
+        <td class="tg-7g6k">ις</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">σι (ν)</td>
+        <td class="tg-7btt">σι (ν)</td>
+      </tr>
+    </table>
 
 
 [Note]
