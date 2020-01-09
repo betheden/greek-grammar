@@ -41,7 +41,7 @@ The Dative case serves three primary functions. It may also indicate the direct 
 
 
 Form
-~~~~~~
+~~~~
 The Dative case is formed by adding the Dative case ending to the stem of a word (often with a connecting vowel).  
 
 .. raw:: html
@@ -115,11 +115,12 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 [Note]
   *	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
   *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  [See rules for movable Nu.]  
-  		[**Note: I do not think we have a place for this. so may need to drop.**]
+  		
+   [**Note: I do not think we have a place for this. so may need to drop.**]
 
 
 Dative – Indirect object /personal interest
-###########################################
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object
     of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common
@@ -149,7 +150,7 @@ the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" i
 	
 
 Indirect Object of Advantage (or Disadvantage)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A sub-category of the Dative of Indirect Object is the Indirect Object of Advantage (or Disadvantage.  It may be to the advantage (or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the Indirect Object of Advantage.  If it is to their disadvantage (or harm), it is referred to as the Indirect object of Disadvantage.
 
@@ -172,7 +173,7 @@ For he who eats and drinks ..., eats and drinks judgment to himself.
 
 
 Dative of Reference
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
    The Dative of Reference is a subcategory of the Indirect object of Personal Interest.   Sometimes the meaning is better conveyed with a key word; “concerning”, “about”, “in regard to”, “with reference to”, “or in respect to”.  The Dative of Reference is often used when describing the effect of the action on a thing or a personification of something.
 
@@ -195,7 +196,7 @@ You reckon  yourselves to be dead on the one hand to to sin, alive but to to God
 you also must consider yourselves to be dead to sin, but alive to God in Christ Jesus.
 
 Dative of Possession  
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 	
     Possession is a form of personal interest.  Therefore, the dative case in some instances is used to indicate possession.  Possession is generally indicated by use of the genitive case, but in some instances the dative case is used.  
 
@@ -211,7 +212,7 @@ Note:  In this instance, our smooth translation  drops the indirect object of po
 
 
 Dative -Locative (location)
-###########################
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   *	Locative of place - The dative case is may be used to indicate the location (or place) of an object in the physical world.  
   *	Locative of Sphere - When this place is more metaphorical or logical, it is referred to as the Locative of Sphere
@@ -249,11 +250,16 @@ Note:  In this instance  “on the third day” is translated “Three days late
 
 
 Dative – Instrumental
-#####################
+~~~~~~~~~~~~~~~~~~~~~
 
-The Dative-Instrumental may be used to indicate the Means, Cause, manner, or agent by which an event occurs.  The Dative-Instrumental may also be used to indicate an association with the main subject of the action.  Making distinctions between means, cause, manner, agent, or association  can be very difficult and often the choice between one category and the other is subject to personal interpretation.  
+The Dative-Instrumental may be used to indicate the Means, Cause, manner, or agent by which an event occurs.  The Dative-Instrumental may
+also be used to indicate an association with the main subject of the action.  Making distinctions between means, cause, manner, agent,
+or association  can be very difficult and often the choice between one category and the other is subject to personal interpretation.  
 
-The instrumental of means is used to indicate the means or (the process or method) by which the action of the verb is accomplished.
+Instrumental of Means
+^^^^^^^^^^^^^^^^^^^^^
+
+The *Instrumental of Means* is used to indicate the means or (the process or method) by which the action of the verb is accomplished.
 
 Matthew 8:16
 καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ
@@ -262,7 +268,11 @@ and he cast out the spirit   with a word
 
 He drove out the spirits with a word
 
-The Instrumental of Cause is used to indicate the cause, the motivating event, or reason something occurred.  Therefore, the key word “because” may help in translation.
+Instrumental of Cause
+^^^^^^^^^^^^^^^^^^^^^
+
+The *Instrumental of Cause* is used to indicate the cause, the motivating event, or reason something occurred.  Therefore, the key word
+“because” may help in translation.
 
 Romans 11:20
 τῇ ἀπιστίᾳ ἐξεκλάσθησαν
@@ -272,10 +282,10 @@ because (of) unbelief  they were broken off
 Because of their unbelief they were broken off
 
 
-The Instrumental of manner 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Instrumental of Manner 
+^^^^^^^^^^^^^^^^^^^^^^
 
-The *Instrumental of manner* is used to indicate the method or manner used to accomplish something.  This is very closely related 
+The *Instrumental of Manner* is used to indicate the method or manner used to accomplish something.  This is very closely related 
 to the Instrumental of means. 
 
 1 Corinthians 11:5
@@ -286,10 +296,10 @@ every but woman  who prays  or who prophecies  with uncovered  the head
 But every woman who prays or prophesies with her head uncovered
 
 
-The Instrumental of agent
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Instrumental of Agent
+^^^^^^^^^^^^^^^^^^^^^
 
-The *Instrumental of agent* is used with a verb in the middle or passive voice to express the agent or person by which an action
+The *Instrumental of Agent* is used with a verb in the middle or passive voice to express the agent or person by which an action
 is accomplished.  Agency may also be expressed by using the preposition ὑπὸ with the genitive case or δία with the accusative case. 
 
 Galatians 5:18
@@ -300,8 +310,8 @@ if but by Spirit    you are led
 But if you are led by the Spirit
 
 
-The Instrumental of Association
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Instrumental of Association
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The *Instrumental of Association* is used to indicate an association, relation or, affiliation of some kind with the subject carrying 
 out the action of the verb.
@@ -314,7 +324,7 @@ and a young man certain he followed  with him.
 Now a certain young man was following him   [Note in the literal Bible “Jesus” was used for the pronoun “him” but the proper name was supplied on the basis of context and not the Greek text.]
 
 Dative-Direct object
-####################
+~~~~~~~~~~~~~~~~~~~~
 
 Certain verbs take their object in the dative case.  This is often with verbs that indicate some sort of personal relation to the action.
 
