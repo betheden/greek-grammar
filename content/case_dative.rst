@@ -115,30 +115,37 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 [Note]
   *	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
   *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  [See rules for movable Nu.]  
-  		**[Note: I do not think we have a place for this. so may need to drop.]**
+  		[**Note: I do not think we have a place for this. so may need to drop.**]
 
 
 Dative – Indirect object /personal interest
 ###########################################
 
-	The Dative- Indirect object will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object of the verb (or if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common use of the dative case when a preposition is not used.   Often, the translator will use the key words “to”  or “for”in the translation.  As an indirect object, the dative case is used to point out the person (or personification of something) “to” or “for which” something is done.  
+	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object
+    of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common
+    use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
+    translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to”* 
+    or *“for which”* something is done.  
 
-	John 6:29
-	ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς
-	ho Iēsous kai eipen autois
-	The Jesus and he said to them
 
-	and Jesus said to them,
+.. csv-table::  Example: John 6:29
+  
+  ὁ,Ἰησοῦς,καὶ,εἶπεν,**αὐτοῖς**
+  ho,Iēsous,kai,eipen,**autois**
+  The,Jesus,and,he said,**to them**
 
-	
-2 Corinthians 12:7
-ἐδόθη μοι σκόλοψ τῇ σαρκί
-edothē moi skolops tē sarki
-it was given to me thorn in the  flesh
+*and Jesus said* **to them**,
+
+.. csv-table::  Example: 2 Corinthians 12:7
+
+  ἐδόθη,**μοι**,**σκόλοψ**,τῇ,σαρκί
+  edothē,**moi**,**skolops**,tē,sarki
+  it was given,**to me**,**thorn**,in the,flesh
 
 a thorn in the flesh was given to me
 
-Note:  in this example the verb ( ἐδόθη) is in the passive voice. Therefore, the word in the dative case receives the subject of the clause (σκόλοψ) which is in the nominative case.
+Note:  in this example the verb ( ἐδόθη) is in the passive voice. Therefore, the word in the dative case receives the subject of
+the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" is an example of *Dative-Locative* which is described below.
 	
 
 Indirect Object of Advantage (or Disadvantage)
@@ -155,7 +162,7 @@ near       the   land    that he gave Jacob to Joseph
 
 near the piece of land that Jacob had given to Joseph
 
-Example:  Indirect object of disadvantage
+Example:  Indirect object of disadvantage"
 1 Corinthians 11:29
 ὁ γὰρ ἐσθίων καὶ πίνων κρίμα ἑαυτῷ, ἐσθίει καὶ πίνει
 ho gar esthiōn kai pinōn krima heautō, esthiei kai pinei
