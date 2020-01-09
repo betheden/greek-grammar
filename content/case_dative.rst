@@ -31,12 +31,13 @@ Article    [**Draft - In process**]
 
 The Dative case serves three primary functions. It may also indicate the direct object for some verbs
 
-  #.	**Indirect object** or **personal interest** -  It serves as the case of personal interest by indicating the indirect object
-  of the verb.  It points to or for whom something was done. It can also be used to indicate someone or something that is being
-  referred to by the verb, including possession.
-  #.	**location** - It may indicate the location (in place, sphere, or time) of an event.
-  #.	**Instrumental** - It may indicate the means, cause, manner, agent of an action.
-  #.	**Direct object**-  Some verbs take their direct object in the dative case.
+  1.  **Indirect object** or **personal interest** -  It serves as the case of personal interest by indicating the indirect object
+      of the verb.  It points to or for whom something was done. It can also be used to indicate someone or something that is being
+      referred to by the verb, including possession.
+      
+  2.  **location** - It may indicate the location (in place, sphere, or time) of an event.
+  3.  **Instrumental** - It may indicate the means, cause, manner, agent of an action.
+  4.  **Direct object**-  Some verbs take their direct object in the dative case.
 
 
 Form
