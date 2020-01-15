@@ -13,7 +13,7 @@ or *reference* of a verbal action.  The dative case also is
 used to indicate the  *location, instrument, relation, or manner* in which 
 something occurs.  Some verbs take their object in the dative case.
 
-**Dative** is a nominal case which has a very wide range of uses. It can
+**Dative** is a case which has a very wide range of uses. It can
 indicate the *recipient*, *reference*, *location* or *instrument* of a
 verbal action, as well as the *manner* in which, or *interest* of which,
 something occurs.
@@ -125,7 +125,7 @@ Dative – Indirect object /personal interest
 	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object
     of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common
     use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
-    translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to”* 
+    translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to whom”* 
     or *“for which”* something is done.  
 
 
@@ -152,7 +152,7 @@ the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" i
 Indirect Object of Advantage (or Disadvantage)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A sub-category of the Dative of Indirect Object is the Indirect Object of Advantage (or Disadvantage.  It may be to the advantage (or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the Indirect Object of Advantage.  If it is to their disadvantage (or harm), it is referred to as the Indirect object of Disadvantage.
+A sub-category of the Dative of Indirect Object is the Indirect Object of Advantage (or Disadvantage.  It may be to the advantage (or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the Indirect Object of Advantage.  If it is to their disadvantage (or harm), it is referred to as the Indirect Object of Disadvantage.
 
 Example: Indirect Object of Advantage  
 
@@ -175,7 +175,7 @@ For he who eats and drinks ..., eats and drinks judgment to himself.
 Dative of Reference
 ^^^^^^^^^^^^^^^^^^^
 
-   The Dative of Reference is a subcategory of the Indirect object of Personal Interest.   Sometimes the meaning is better conveyed with a key word; “concerning”, “about”, “in regard to”, “with reference to”, “or in respect to”.  The Dative of Reference is often used when describing the effect of the action on a thing or a personification of something.
+   The Dative of Reference is a subcategory of the Indirect Object of Personal Interest.   Sometimes the meaning is better conveyed with a key word; “concerning”, “about”, “in regard to”, “with reference to”, or "in respect to”.  The Dative of Reference is often used when describing the effect of the action on a thing or a personification of something.
 
 Romans 6:2
 οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ?
@@ -207,14 +207,14 @@ and not it/there was to them a child
 
 But they had no child
 
-Note:  In this instance, our smooth translation  drops the indirect object of possession.  It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
+Note:  In this instance, our smooth translation drops the indirect object of possession.  It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
 
 
 
 Dative -Locative (location)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  *	Locative of place - The dative case is may be used to indicate the location (or place) of an object in the physical world.  
+  *	Locative of place - The dative case may be used to indicate the location (or place) of an object in the physical world.  
   *	Locative of Sphere - When this place is more metaphorical or logical, it is referred to as the Locative of Sphere
   *	Locative of Time -  The dative case may also be used to indicate the location of an object in time.
 
@@ -252,19 +252,19 @@ Note:  In this instance  “on the third day” is translated “Three days late
 Dative – Instrumental
 ~~~~~~~~~~~~~~~~~~~~~
 
-The Dative-Instrumental may be used to indicate the Means, Cause, manner, or agent by which an event occurs.  The Dative-Instrumental may
-also be used to indicate an association with the main subject of the action.  Making distinctions between means, cause, manner, agent,
-or association  can be very difficult and often the choice between one category and the other is subject to personal interpretation.  
+The Dative-Instrumental may be used to indicate the Means, Cause, Manner, or Agent by which an event occurs.  The Dative-Instrumental may
+also be used to indicate an association with the main subject of the action.  Making distinctions between Means, Cause, Manner, Agent,
+or Association can be very difficult and often the choice between one category and another is a matter of personal interpretation.  
 
 Instrumental of Means
 ^^^^^^^^^^^^^^^^^^^^^
 
-The *Instrumental of Means* is used to indicate the means or (the process or method) by which the action of the verb is accomplished.
+The *Instrumental of Means* is used to indicate the means (or the process or method) by which the action of the verb is accomplished.
 
 Matthew 8:16
 καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ
 kai exebalen ta pneumata logo
-and he cast out the spirit   with a word
+and he cast out the spirit with a word
 
 He drove out the spirits with a word
 
@@ -286,7 +286,7 @@ Instrumental of Manner
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The *Instrumental of Manner* is used to indicate the method or manner used to accomplish something.  This is very closely related 
-to the Instrumental of means. 
+to the Instrumental of Means. 
 
 1 Corinthians 11:5
 πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ
@@ -313,7 +313,7 @@ But if you are led by the Spirit
 Instrumental of Association
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The *Instrumental of Association* is used to indicate an association, relation or, affiliation of some kind with the subject carrying 
+The *Instrumental of Association* is used to indicate an association, relation, or affiliation of some kind with the subject carrying 
 out the action of the verb.
 
 Mark 14:51
@@ -326,7 +326,7 @@ Now a certain young man was following him   [Note in the literal Bible “Jesus�
 Dative-Direct object
 ~~~~~~~~~~~~~~~~~~~~
 
-Certain verbs take their object in the dative case.  This is often with verbs that indicate some sort of personal relation to the action.
+Certain verbs take their object in the dative case.  This often happens with verbs that indicate some sort of personal relation to the action.
 
 The following is a list of 48 verbs that may take their object in the dative case:
 ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist), ἀντιπίπτω (to resist),ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve),
@@ -334,7 +334,7 @@ The following is a list of 48 verbs that may take their object in the dative cas
 διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve), ἐγκαλέω (to accuse), ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow),
 ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke),ἐπιτάσσω (to command), ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank),
 κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently), ὁμολογέω (to profess), ὀργιζω (to be angry at),
-παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble), παρενοχλέω (to trouble), πείθω (to obey),
+παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble), πείθω (to persuade),
 πιστεύω (to believe), προσκυνέω (to worship), προστάσσω (to command), προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise),
 συνακολουθέω (to follow), συνεργέω (to assist), συνευδοκέω (to approve), ὑπακούω (to obey), ὑπηρετέω (to serve), χαρίζομαι (to forgive),
 χράομαι (to make use of), ψάλλω (to sing praise to).
