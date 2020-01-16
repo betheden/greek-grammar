@@ -122,9 +122,9 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 Dative – Indirect object /personal interest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object
-    of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most common
-    use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
+	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object 
+    of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most
+    common use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
     translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to whom”* 
     or *“for which”* something is done.  
 
@@ -152,30 +152,37 @@ the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" i
 Indirect Object of Advantage (or Disadvantage)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A sub-category of the Dative of Indirect Object is the Indirect Object of Advantage (or Disadvantage.  It may be to the advantage (or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the Indirect Object of Advantage.  If it is to their disadvantage (or harm), it is referred to as the Indirect Object of Disadvantage.
+A sub-category of the Dative of Indirect Object is the *Indirect Object of Advantage* or (*Disadvantage*).  It may be to the advantage
+(or disadvantage) of the person who receives the object.  If it is to the persons advantage, it is referred to as the *Indirect Object of*
+*Advantage*.  If it is to their disadvantage (or harm), it is referred to as the *Indirect Object of Disadvantage.*
 
 Example: Indirect Object of Advantage  
 
-John 4:5
-πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ τῷ Ἰωσὴφ
-plēsion tou chōriou ho edōken Iakōb tō Iōsēph
-near       the   land    that he gave Jacob to Joseph
+.. csv-table::  Example John 4:5
 
-near the piece of land that Jacob had given to Joseph
+  πλησίον,τοῦ,χωρίου,ὃ,ἔδωκεν,Ἰακὼβ,**τῷ**,**Ἰωσὴφ**
+  plēsion,tou,chōriou,ho,edōken,Iakōb,**tō**,**Iōsēph**
+  near,the,land,that,he gave,Jacob,**to**,**Joseph**
 
-Example:  Indirect object of disadvantage"
-1 Corinthians 11:29
-ὁ γὰρ ἐσθίων καὶ πίνων κρίμα ἑαυτῷ, ἐσθίει καὶ πίνει
-ho gar esthiōn kai pinōn krima heautō, esthiei kai pinei
-the for he who is eating and he who is drinking  judgment to himself he is eating and he is drinking
+*near the piece of land that Jacob had given* **to Joseph**
 
-For he who eats and drinks ..., eats and drinks judgment to himself.
+Example:  Indirect object of Disadvantage
+
+.. csv-table::  Example:  1 Corinthians 11:29
+
+  ὁ,γὰρ,ἐσθίων,καὶ,πίνων,κρίμα,**ἑαυτῷ**,ἐσθίει,καὶ,πίνει
+  ho,gar,esthiōn,kai,pinōn,krima,**heautō**,esthiei,kai,pinei
+  the,for,he who is eating,and,he who is drinking,judgment,**to himself**,he is eating,and,he is drinking
+
+*For he who eats and drinks ..., eats and drinks judgment* **to himself.**
 
 
 Dative of Reference
 ^^^^^^^^^^^^^^^^^^^
 
-   The Dative of Reference is a subcategory of the Indirect Object of Personal Interest.   Sometimes the meaning is better conveyed with a key word; “concerning”, “about”, “in regard to”, “with reference to”, or "in respect to”.  The Dative of Reference is often used when describing the effect of the action on a thing or a personification of something.
+   The Dative of Reference is a subcategory of the Indirect Object of Personal Interest.   Sometimes the meaning is better conveyed
+   with a key word; “concerning”, “about”, “in regard to”, “with reference to”, or "in respect to”.  The Dative of Reference is often
+   used when describing the effect of the action on a thing or a personification of something.
 
 Romans 6:2
 οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ?
