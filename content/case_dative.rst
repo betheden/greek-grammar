@@ -5,7 +5,7 @@
 Case dative
 ===========
 
-Glossary   [**Draft - In Process**]
+Glossary  
 --------
 
 **Dative** is a case which has a wide range of uses. It can indicate the *recipient*
@@ -22,20 +22,20 @@ something occurs.  Some verbs take their object in the dative case.
   
 *They gave* **him** *a piece of a broiled fish*
 
-Article    [**Draft - In process**]
+Article   
 -------
 
 The Dative case serves three primary functions. It may also indicate the direct object for some verbs
 
   1.  **Indirect object** or **personal interest** -  It serves as the case of personal interest by indicating the indirect object
       of the verb.  It points to whom something was done or for whom something was done. It can also be used to indicate someone or something that is being
-      referred to by the verb, including possession.
+      referred to by the verb, including possession.  [See  `Dative_Indirect Object<https://ugg.readthedocs.io/en/latest/case_dative.html#dative-indirect-object-personal-interest>`_
       
-  2.  **location** - It may indicate the location (in place, sphere, or time) of an event.
-  3.  **Instrumental** - It may indicate the means, cause, manner, agent of an action.
-  4.  **Direct object**-  Some verbs take their direct object in the dative case.
+  2.  **location** - It may indicate the location (in place, sphere, or time) of an event. [See `Dative_location<https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ 
+  3.  **Instrumental** - It may indicate the means, cause, manner, agent of an action. [See `Dative_Instrumental<https://ugg.readthedocs.io/en/latest/case_dative.html#dative-instrumental>`_
+  4.  **Direct object**-  Some verbs take their direct object in the dative case.  [See `Dative_Direct_Object<https://ugg.readthedocs.io/en/latest/case_dative.html#dative-direct-object>`_
 
-*Note* An indirect object is the person(s) or thing(s) toward which the verbal action of a verb or verb form is directed
+*Note:* An indirect object is the person(s) or thing(s) toward which the verbal action of a verb or verb form is directed.
 
 Form
 ~~~~
@@ -80,10 +80,10 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
         <td class="tg-3xi5" colspan="6"></td>
       </tr>
       <tr>
-        <td class="tg-f8tv">Genitive</td>
+        <td class="tg-f8tv">Dative</td>
         <td class="tg-3xi5"><span style="font-weight:bold">ι</span></td>
         <td class="tg-3xi5"><span style="font-weight:bold"> ι</span></td>
-        <td class="tg-mqn7">ι</td>
+        <td class="tg-3xi5"><span style="font-weight:bold"> ι</span></td>
         <td class="tg-fymr"></td>
         <td class="tg-7btt">ι</td>
         <td class="tg-7btt">ι</td>
@@ -98,7 +98,7 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky"><span style="font-style:italic">Genitive</span></td>
+        <td class="tg-0pky"><span style="font-style:italic">Dative</span></td>
         <td class="tg-7g6k">ις</td>
         <td class="tg-7g6k">ις</td>
         <td class="tg-7g6k">ις</td>
@@ -111,14 +111,18 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 
 [Note]
   *	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
-  *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  
+  *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present. The movabble Nu may be present 
+  when it appears at the end of a sentence or when the following word begins with a vowel.  However, sometimes it appears  
+  when the following word begins with a consonant.  There is no fixed rule that determines when a moveable Nu will be present.  
+  The reader/translator must be aware that it may or may not be present.  [ For example there are early Greek manuscripts that
+  include or exclude the moveable Nu for Acts 20:34 "καὶ τοῖς **οὖσι** μετ' ἐμοῦ  or καὶ τοῖς **οὖσιν** μετ' ἐμοῦ."
 
 
 Dative – Indirect object /personal interest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object 
-of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most
+of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb.  This is the most
 common use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
 translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to whom”* 
 or *“for which”* something is done.  
@@ -141,7 +145,8 @@ or *“for which”* something is done.
 a thorn in the flesh was given to me
 
 Note:  in this example the verb ( ἐδόθη) is in the passive voice. Therefore, the word in the dative case receives the subject of
-the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" is an example of *Dative-Locative* which is described below.
+the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" is an example 
+of `Dative_Locative<https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ which is described below.
 	
 
 Indirect Object of Advantage (or Disadvantage)
@@ -213,8 +218,8 @@ Dative of Possession
 
 *But they had no child*
 
-Note:  In this instance, our smooth translation drops the indirect object of possession.  
-It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
+  **Note:**  In this instance, our smooth translation drops the indirect object of possession.  
+  It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
 
 
 
@@ -222,11 +227,11 @@ Dative -Locative (location)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   *	Locative of place - The dative case may be used to indicate the location (or place) of an object in the physical world.  
-  *	Locative of Sphere - When this place is more metaphorical or logical, it is referred to as the Locative of Sphere
+  *	Locative of Sphere - When the place is more metaphorical or logical, it is referred to as the Locative of Sphere
   *	Locative of Time -  The dative case may also be used to indicate the location of an object in time.
 
 
-example for Locative of place (Note: the place is a physical location)
+Example for Locative of place (Note: the place is a physical location - "in a boat")
 
 .. csv-table::   Example:  John 21:8
 
@@ -263,8 +268,8 @@ Note:  In this instance  “**on the third day**” is translated “Three days 
 Dative – Instrumental
 ~~~~~~~~~~~~~~~~~~~~~
 
-The *Dative-Instrumental* may be used to indicate the Means, Cause, Manner, or Agent by which an event occurs.  The *Dative-Instrumental* may
-also be used to indicate an association with the main subject of the action.  Making distinctions between Means, Cause, Manner, Agent,
+The *Dative-Instrumental* may be used to indicate the **Means, Cause, Manner, or Agent** by which an event occurs.  The *Dative-Instrumental* 
+may also be used to indicate an association with the main subject of the action.  Making distinctions between Means, Cause, Manner, Agent,
 or Association can be very difficult and often the choice between one category and another is a matter of personal interpretation.  
 
 Instrumental of Means
@@ -337,7 +342,7 @@ out the action of the verb.
 
   πολλοὶ,τελῶναι,καὶ,ἁμαρτωλοὶ,συνανέκειντο,**τῷ**,**Ἰησοῦ**,καὶ,**τοῖς**,**μαθηταῖς**,αὐτοῦ
   polloi,telōnai,kai,hamartōloi,synanekeinto,**tō**,**Iēsou**,kai,**tois**,**mathētais**,autou
-  many,tax collectors,and,sinners,they were reclining at table,**with**,**Jesus**,and,**with disciples**,of him
+  many,tax collectors,and,sinners,they were reclining at table,**with**,**Jesus**,and,**with**,**disciples**,of him
   
 *many tax collectors and sinners were dining* **with Jesus** and **his disciples**  
 
@@ -351,18 +356,22 @@ The following is a list of 48 verbs that may take their object in the dative cas
 
 .. csv-table::  Verbs that use Dative case for Direct Object
 
-  ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist),ἀντιπίπτω (to resist)
-  ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve),ἀρέσκω (to please), βοηθέω (to help)
-  διακατελέγχομαι (to refute),διακονέω (to serve), διαμαρτύρομαι (to warn), διαστέλλω (to order)
-  διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve),ἐγκαλέω (to accuse)
-  ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow),ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke)
-  ἐπιτάσσω (to command), ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank)
-  κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently), ὁμολογέω (to profess)
-  ὀργιζω (to be angry at),παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble)
-  πείθω (to obey),πιστεύω (to believe),προσκυνέω (to worship),προστάσσω (to command)
-  προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise),συνακολουθέω (to follow)
-  συνεργέω (to assist), συνευδοκέω (to approve), ὑπακούω (to obey), ὑπηρετέω (to serve)
-  χαρίζομαι (to forgive),χράομαι (to make use of), ψάλλω (to sing praise to).
+  ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist)
+  ἀντιπίπτω (to resist), ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve)
+  ἀρέσκω (to please), βοηθέω (to help), διακατελέγχομαι (to refute)
+  διακονέω (to serve), διαμαρτύρομαι (to warn), διαστέλλω (to order)
+  διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve)
+  ἐγκαλέω (to accuse), ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow)
+  ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke),ἐπιτάσσω (to command)
+  ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank)
+  κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently)
+  ὁμολογέω (to profess), ὀργιζω (to be angry at),παραγγέλλω (to command)
+  παρακολολουθέω (to follow), παρενοχλέω (to trouble),πείθω (to obey)
+  πιστεύω (to believe),προσκυνέω (to worship),προστάσσω (to command)
+  προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise)
+  συνακολουθέω (to follow),συνεργέω (to assist), συνευδοκέω (to approve)
+  ὑπακούω (to obey), ὑπηρετέω (to serve),χαρίζομαι (to forgive)
+  χράομαι (to make use of), ψάλλω (to sing praise to)
 
 
 .. csv-table::  Example: Luke 16:28
