@@ -13,10 +13,6 @@ or *reference* of a verbal action.  The dative case also is
 used to indicate the  *location, instrument, relation, or manner* in which 
 something occurs.  Some verbs take their object in the dative case.
 
-**Dative** is a case which has a very wide range of uses. It can
-indicate the *recipient*, *reference*, *location* or *instrument* of a
-verbal action, as well as the *manner* in which, or *interest* of which,
-something occurs.
 
 .. csv-table:: Example: Luke 24:42
 
@@ -114,19 +110,17 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 
 [Note]
   *	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
-  *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  [See rules for movable Nu.]  
-  		
-   [**Note: I do not think we have a place for this. so may need to drop.**]
+  *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.  
 
 
 Dative – Indirect object /personal interest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-	The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object 
-    of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most
-    common use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
-    translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to whom”* 
-    or *“for which”* something is done.  
+The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object 
+of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb).  This is the most
+common use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
+translation. As an indirect object, the dative case is used to point out the person (or personification of something) *“to whom”* 
+or *“for which”* something is done.  
 
 
 .. csv-table::  Example: John 6:29
@@ -184,37 +178,42 @@ Dative of Reference
    with a key word; “concerning”, “about”, “in regard to”, “with reference to”, or "in respect to”.  The Dative of Reference is often
    used when describing the effect of the action on a thing or a personification of something.
 
-Romans 6:2
-οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ?
-hoitines apethanomen tē hamartia, pōs eti zēsomen en autē?
-We             we have died to sin           how still will we live in it
+.. csv-table::  Example:  Romans 6:2
 
-We who died to sin, how can we still live in it?
+  οἵτινες,ἀπεθάνομεν,**τῇ**,**ἁμαρτίᾳ**,πῶς,ἔτι,ζήσομεν,ἐν,αὐτῇ?
+  hoitines,apethanomen,**tē**,**hamartia**,pōs,eti,zēsomen,en,autē?
+  We,we have died,**to**,**sin**,how,still,will we live,in,it
+
+*We who died* **to sin**, *how can we still live in it?*
 
 Note:  This verse could easily be translated  “With reference to sin, we have died.” or “in respect to sin”
 
 See also:
 
-Romans 6:11
-λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ Θεῷ
-logizesthe heautous einai nekrous men tē hamartia, zōntas de tō Theō
-You reckon  yourselves to be dead on the one hand to to sin, alive but to to God
+.. csv-table::  Romans 6:11
 
-you also must consider yourselves to be dead to sin, but alive to God in Christ Jesus.
+  λογίζεσθε,ἑαυτοὺς,εἶναι,νεκροὺς,μὲν,**τῇ**,**ἁμαρτίᾳ**,ζῶντας,δὲ,**τῷ**,**Θεῷ**
+  logizesthe,heautous,einai,nekrous,men,**tē**,**hamartia**,zōntas,de,**tō**,**Theō**
+  You reckon,yourselves,to be,dead,on the one hand,**to**,**to sin**,alive,but,**to**,**to God**
+
+*you also must consider yourselves to be dead* **to sin**, *but alive* **to God**.
 
 Dative of Possession  
 ^^^^^^^^^^^^^^^^^^^^
 	
-    Possession is a form of personal interest.  Therefore, the dative case in some instances is used to indicate possession.  Possession is generally indicated by use of the genitive case, but in some instances the dative case is used.  
+    Possession is a form of personal interest.  Therefore, the dative case, in some instances, is used to indicate possession.  
+    Possession is generally indicated by use of the genitive case, but in some instances the dative case is used.  
 
-Luke 1:7
-καὶ οὐκ ἦν αὐτοῖς τέκνον...
-kai ouk ēn autois teknon,
-and not it/there was to them a child
+.. csv-table::   Example:  Luke 1:7
 
-But they had no child
+  καὶ,οὐκ,ἦν,**αὐτοῖς**,τέκνον...
+  kai,ouk,ēn,**autois**,teknon
+  and,not,it/there was,**to them**,a child
 
-Note:  In this instance, our smooth translation drops the indirect object of possession.  It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
+*But they had no child*
+
+Note:  In this instance, our smooth translation drops the indirect object of possession.  
+It is awkward to say “And there was not to them a child.”  The sentence is entirely rephrased to result in a smooth translation.
 
 
 
@@ -228,38 +227,42 @@ Dative -Locative (location)
 
 example for Locative of place (Note: the place is a physical location)
 
-John 21:8
-οἱ δὲ ἄλλοι μαθηταὶ τῷ πλοιαρίῳ ἦλθον
-hoi de alloi mathētai tō ploiariō ēlthon
-the but other disciples in a boat  they came
+.. csv-table::   Example:  John 21:8
 
-The other disciples came in the boat
+  οἱ,δὲ,ἄλλοι,μαθηταὶ,**τῷ**,**πλοιαρίῳ**,ἦλθον
+  hoi,de,alloi,mathētai,**tō**,**ploiariō**,ēlthon
+  the,but,other,disciples,**in**,**a boat**,they came
+
+*The other disciples came* **in the boat**
 
 Example for Locative of Sphere  (Note: the location is metaphorical or logical in nature)
 
-Matthew 5:3
-μακάριοι οἱ πτωχοὶ τῷ πνεύματι
-makarioi hoi ptōchoi tō pneumatic
-Blessed the poor      in   spirit
+.. csv-table::  Example:  Matthew 5:3
 
-Blessed are the poor in spirit
+  μακάριοι,οἱ,πτωχοὶ,**τῷ**,**πνεύματι**
+  makarioi,hoi,ptōchoi,**tō**,**pneumatic**
+  Blessed,the,poor,**in**,**spirit**
+
+*Blessed are the poor* **in spirit.**
+
 
 Example for Locative of time
 
-John 2:1
-καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ
-kai tē hēmera tē tritē gamos egeneto en Kana
-and the day      the third a wedding there was in Cana
+.. csv-table::  John 2:1
 
-Three days later, there was a wedding in Cana
+  καὶ,**τῇ**,**ἡμέρᾳ**,**τῇ**,**τρίτῃ**,γάμος,ἐγένετο,ἐν,Κανὰ
+  kai,**tē**,**hēmera**,**tē**,**tritē**,gamos,egeneto,en,Kana
+  and,**the**,**day**,**the**,**third**,a wedding,there was,in,Cana
 
-Note:  In this instance  “on the third day” is translated “Three days later...”
+*Three days later, there was a wedding in Cana*
+
+Note:  In this instance  “**on the third day**” is translated “Three days later...”
 
 
 Dative – Instrumental
 ~~~~~~~~~~~~~~~~~~~~~
 
-The Dative-Instrumental may be used to indicate the Means, Cause, Manner, or Agent by which an event occurs.  The Dative-Instrumental may
+The *Dative-Instrumental* may be used to indicate the Means, Cause, Manner, or Agent by which an event occurs.  The *Dative-Instrumental* may
 also be used to indicate an association with the main subject of the action.  Making distinctions between Means, Cause, Manner, Agent,
 or Association can be very difficult and often the choice between one category and another is a matter of personal interpretation.  
 
@@ -268,12 +271,13 @@ Instrumental of Means
 
 The *Instrumental of Means* is used to indicate the means (or the process or method) by which the action of the verb is accomplished.
 
-Matthew 8:16
-καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ
-kai exebalen ta pneumata logo
-and he cast out the spirit with a word
+.. csv-table::  Example:  Matthew 8:16
 
-He drove out the spirits with a word
+  καὶ,ἐξέβαλεν,τὰ,πνεύματα,**λόγῳ**
+  kai,exebalen,ta,pneumata,**logo**
+  and,he cast out,the,spirit,**with a word**
+
+*He drove out the spirits* **with a word**
 
 Instrumental of Cause
 ^^^^^^^^^^^^^^^^^^^^^
@@ -281,26 +285,29 @@ Instrumental of Cause
 The *Instrumental of Cause* is used to indicate the cause, the motivating event, or reason something occurred.  Therefore, the key word
 “because” may help in translation.
 
-Romans 11:20
-τῇ ἀπιστίᾳ ἐξεκλάσθησαν
-tē apistia exeklasthēsan
-because (of) unbelief  they were broken off
+.. csv-table::  Example:  Romans 11:20
 
-Because of their unbelief they were broken off
+  **τῇ**,**ἀπιστίᾳ**,ἐξεκλάσθησαν
+  **tē**,**apistia**,exeklasthēsan
+  **because (of)**,**unbelief**,they were broken off
+
+**Because of their unbelief** *they were broken off*
 
 
 Instrumental of Manner 
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The *Instrumental of Manner* is used to indicate the method or manner used to accomplish something.  This is very closely related 
-to the Instrumental of Means. 
+to the *Instrumental of Means*. 
 
-1 Corinthians 11:5
-πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ
-pasa de gynē proseuchomenē ē prophēteuousa akatakalyptō tē kephalē
-every but woman  who prays  or who prophecies  with uncovered  the head
 
-But every woman who prays or prophesies with her head uncovered
+.. csv-table::  Example:  1 Corinthians 11:5
+
+  πᾶσα,δὲ,γυνὴ,προσευχομένη,ἢ,προφητεύουσα,**ἀκατακαλύπτῳ**,**τῇ**,**κεφαλῇ**
+  pasa,de,gynē,proseuchomenē,ē,prophēteuousa,**akatakalyptō**,**tē**,**kephalē**
+  every,but,woman,who prays,or,who prophecies,**with uncovered**,**the**,**head**
+
+*But every woman who prays or prophesies* **with her head uncovered**
 
 
 Instrumental of Agent
@@ -309,12 +316,14 @@ Instrumental of Agent
 The *Instrumental of Agent* is used with a verb in the middle or passive voice to express the agent or person by which an action
 is accomplished.  Agency may also be expressed by using the preposition ὑπὸ with the genitive case or δία with the accusative case. 
 
-Galatians 5:18
-εἰ δὲ Πνεύματι ἄγεσθε
-ei de Pneumati agesthe
-if but by Spirit    you are led
 
-But if you are led by the Spirit
+.. csv-table::  Example:  Galatians 5:18
+
+  εἰ,δὲ,**Πνεύματι**,ἄγεσθε
+  ei,de,**Pneumati**,agesthe
+  if,but,**by Spirit**,you are led
+
+*But if you are led* **by the Spirit**
 
 
 Instrumental of Association
@@ -323,12 +332,14 @@ Instrumental of Association
 The *Instrumental of Association* is used to indicate an association, relation, or affiliation of some kind with the subject carrying 
 out the action of the verb.
 
-Mark 14:51
-καὶ νεανίσκος τις συνηκολούθει αὐτῷ
-kai neaniskos tis synēkolouthei auto
-and a young man certain he followed  with him.
+.. csv-table::  Example:  Mark 2:15
 
-Now a certain young man was following him   [Note in the literal Bible “Jesus” was used for the pronoun “him” but the proper name was supplied on the basis of context and not the Greek text.]
+  πολλοὶ,τελῶναι,καὶ,ἁμαρτωλοὶ,συνανέκειντο,**τῷ**,**Ἰησοῦ**,καὶ,**τοῖς**,**μαθηταῖς**,αὐτοῦ
+  polloi,telōnai,kai,hamartōloi,synanekeinto,**tō**,**Iēsou**,kai,**tois**,**mathētais**,autou
+  many,tax collectors,and,sinners,they were reclining at table,**with**,**Jesus**,and,**with disciples**,of him
+  
+*many tax collectors and sinners were dining* **with Jesus** and **his disciples**  
+
 
 Dative-Direct object
 ~~~~~~~~~~~~~~~~~~~~
@@ -336,22 +347,30 @@ Dative-Direct object
 Certain verbs take their object in the dative case.  This often happens with verbs that indicate some sort of personal relation to the action.
 
 The following is a list of 48 verbs that may take their object in the dative case:
-ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist), ἀντιπίπτω (to resist),ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve),
-ἀρέσκω (to please), βοηθέω (to help), διακατελέγχομαι (to refute), διακονέω (to serve), διαμαρτύρομαι (to warn), διαστέλλω (to order),
-διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve), ἐγκαλέω (to accuse), ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow),
-ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke),ἐπιτάσσω (to command), ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank),
-κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently), ὁμολογέω (to profess), ὀργιζω (to be angry at),
-παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble), πείθω (to persuade),
-πιστεύω (to believe), προσκυνέω (to worship), προστάσσω (to command), προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise),
-συνακολουθέω (to follow), συνεργέω (to assist), συνευδοκέω (to approve), ὑπακούω (to obey), ὑπηρετέω (to serve), χαρίζομαι (to forgive),
-χράομαι (to make use of), ψάλλω (to sing praise to).
 
-Luke 16:28
-ὅπως διαμαρτύρηται αὐτοῖς
-hopōs diamartyrētai autois
-so that   he could warn them
+.. csv-table::  Verbs that use Dative case for Direct Object
 
-in order that he might warn them
+  ἀκολοθέω (to follow), ἀνθομολογέομαι (to praise), ἀνίστημι (to resist),ἀντιπίπτω (to resist)
+  ἀντιτάσσω (to resist), ἀπιστέω (to disbelieve),ἀρέσκω (to please), βοηθέω (to help)
+  διακατελέγχομαι (to refute),διακονέω (to serve), διαμαρτύρομαι (to warn), διαστέλλω (to order)
+  διατάσσω (to instruct), διδάσκω (to teach), δουλεύω (to serve),ἐγκαλέω (to accuse)
+  ἐμβριμάομαι (to rebuke), ἐξακολουθέω (to follow),ἐξομολογέω (to praise), ἐπιπλἠσσω (to rebuke)
+  ἐπιτάσσω (to command), ἐπιτιμάω (to warn), ἐπισκιάζω (to cover), εὐχαριστέω (to thank)
+  κοινωνέω (to share), λατρεύω (to serve), μετριοπαθέω (to deal gently), ὁμολογέω (to profess)
+  ὀργιζω (to be angry at),παραγγέλλω (to command), παρακολολουθέω (to follow), παρενοχλέω (to trouble)
+  πείθω (to obey),πιστεύω (to believe),προσκυνέω (to worship),προστάσσω (to command)
+  προσψαύω (to touch), συλλαμβάννω (to help), συμβουλεύω (to advise),συνακολουθέω (to follow)
+  συνεργέω (to assist), συνευδοκέω (to approve), ὑπακούω (to obey), ὑπηρετέω (to serve)
+  χαρίζομαι (to forgive),χράομαι (to make use of), ψάλλω (to sing praise to).
+
+
+.. csv-table::  Example: Luke 16:28
+
+  ὅπως,διαμαρτύρηται,**αὐτοῖς**
+  hopōs,diamartyrētai,**autois**
+  so that,he could warn,**them**
+
+*in order that he might warn* **them**
 
 
 
