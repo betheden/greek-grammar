@@ -156,9 +156,10 @@ dative case is used to point out the thing *“to which”* or *“for which”*
 
 a thorn in the flesh was given to me
 
-Note:  in this example the verb ( ἐδόθη) is in the passive voice. *Σκὀλοψ* is in the nominative case and the subject of the sentence.  *Μοι* is in the dative
-case.  The word in the dative case *μοι* receives the subject of the clause (σκόλοψ) which is in the nominative case. “τῃ σαρκί” is 
-an example of `Dative_Locative <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ which is described below.  In 2 Corinthians 12:7, Paul receives the “thorn” in his body
+**Note:**  In this example the verb ( ἐδόθη) is in the passive voice. **Σκὀλοψ** is in the nominative case and the subject of the sentence.
+**μοι** is in the dative case.  The word in the dative case *μοι* receives the subject of the clause (*σκόλοψ*) which is in the nominative
+case. “τῃ σαρκί” is an example of `Dative_Locative <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ which
+is described below.  In 2 Corinthians 12:7, Paul receives the “thorn” in his body
 
 	
 
