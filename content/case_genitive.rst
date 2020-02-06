@@ -34,7 +34,7 @@ The **Genitive case** is primarily the case of description.
 
   1. The Genitive case may be used to attribute   
   
-      * a basic quality to the noun, or [see `Genitive-Attribute <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-attributive`_ ]
+      * a basic quality to the noun, or [see `Genitive-Attributive <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-attributive>`_ ]
       *	to show the material from which it was formed or material that it contains.  [see `Genitive_Material <https://ugg.readthedocs.io/en/latest/case_genitive.html#genitive-of-material>`_]
       
   2. The Genitive case may also express a relationship to the subject noun (or substantive-a substantive is a noun or any word or group of words functioning like a noun) 
