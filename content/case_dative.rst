@@ -116,6 +116,9 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
   when the following word begins with a consonant.  There is no fixed rule that determines when a moveable Nu will be present.  
   The reader/translator must be aware that it may or may not be present.  [ For example there are early Greek manuscripts that
   include or exclude the moveable Nu for Acts 20:34 "καὶ τοῖς **οὖσι** μετ' ἐμοῦ  or καὶ τοῖς **οὖσιν** μετ' ἐμοῦ."
+  * See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
+   `AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
+
 
 
 Dative – Indirect object /personal interest
