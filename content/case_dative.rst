@@ -366,7 +366,7 @@ Dative-Direct object
 
 Certain verbs take their object in the dative case.  This often happens with verbs that indicate some sort of personal relation to the action.
 
-The following is a list of 48 verbs that may take their object in the dative case:
+The following is a list of 47 verbs that may take their object in the dative case:
 
 .. csv-table::  Verbs that use Dative case for Direct Object
 
