@@ -115,7 +115,7 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
  
  
 See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and 
- `AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
+`AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 
 
 
