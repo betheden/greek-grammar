@@ -112,7 +112,7 @@ The Dative case is formed by adding the Dative case ending to the stem of a word
 [Note]
   *	The iota (ι) in the first and second singular declension will often subscript because it is a short vowel.
   *	The Nu (ν) in the third declension plural is a movable Nu and may or may not be present.
-  The movabble Nu may be present when (1) it appears at the end of a sentence or (2) when the following word begins with a vowel.
+  The movable Nu may be present when (1) it appears at the end of a sentence or (2) when the following word begins with a vowel.
   However, sometimes it appears when the following word begins with a consonant.  **There is no fixed rule that determines**
   **when a moveable Nu will be present.  The reader/translator must be aware that it may or may not be present.**
   [ For example there are early Greek manuscripts that include or exclude the moveable Nu for Acts 20:34 "καὶ τοῖς **οὖσι** μετ' ἐμοῦ
