@@ -128,11 +128,16 @@ Dative – Indirect object /personal interest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The *Dative- Indirect object* will only occur with a transitive verb.   The noun or pronoun in the dative case receives the object 
-of the verb. However, if the verb is passive, the word in the dative case will receive the subject of the verb.  This is the most
-common use of the dative case when a preposition is not used.   Often, the translator will use the key words *“to”*  or *“for”* in the
-translation. As an indirect object, the dative case is used to point out the person *“to whom”*  or *“for whom”* something is done.
-If the dative case is treating an object as if it were a person, then the dative case is used to point out the thing *“to which”* or
-*“for which”* something is done.
+of the verb. Example:  *He hit the ball to Tom.*  In this example, “ball” is the object of the verb.   “Tom” would be in the dative case 
+and receives the object of the verb.
+ 
+However, if the verb is passive, the word in the dative case will receive the subject of the verb).  [See the second example below for
+further explaination.]
+ 
+The *Dative-Indirect Object/personal Interest* is is the most common use of the dative case when a preposition is not used.   Often, 
+the translator will use the key words *“to”* or *“for”* in the translation. As an indirect object, the dative case is used to point out
+the person *“to whom”*  or *“for whom”* something is done.  If the dative case is treating an object as if it were a person, then the
+dative case is used to point out the thing *“to which”* or *“for which”* something is done.
 
 
 .. csv-table::  Example: John 6:29
@@ -151,9 +156,10 @@ If the dative case is treating an object as if it were a person, then the dative
 
 a thorn in the flesh was given to me
 
-Note:  in this example the verb ( ἐδόθη) is in the passive voice. Therefore, the word in the dative case receives the subject of
-the clause (σκόλοψ) which is in the nominative case.  "τῃ σαρκί" is an example 
-of `Dative_Locative <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ which is described below.
+Note:  in this example the verb ( ἐδόθη) is in the passive voice. *Σκὀλοψ* is in the nominative case and the subject of the sentence.  *Μοι* is in the dative
+case.  The word in the dative case *μοι* receives the subject of the clause (σκόλοψ) which is in the nominative case. “τῃ σαρκί” is 
+an example of `Dative_Locative <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_ which is described below.  In 2 Corinthians 12:7, Paul receives the “thorn” in his body
+
 	
 
 Indirect Object of Advantage (or Disadvantage)
