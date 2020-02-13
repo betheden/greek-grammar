@@ -32,8 +32,8 @@ The Dative case serves three primary functions. It may also indicate the direct 
       referred to by the verb, including possession.  [See  `Dative_Indirect Object <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-indirect-object-personal-interest>`_]
       
   2.  **Location** - It may indicate the location (in place, sphere, or time) of an event. [See `Dative_location <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-locative-location>`_] 
-  3.  **Instrumental** - It may indicate the means, cause, manner, agent of an action. [See `Dative_Instrumental <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-instrumental>`_]
-  4.  **Direct object**-  Some verbs take their direct object in the dative case.  [See `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#dative-direct-object>`_]
+  3.  **Instrumental** - It may indicate the means, cause, manner, agent of an action. [See `Dative_Instrumental <https://ugg.readthedocs.io/en/latest/case_dative.html#id2>`_]
+  4.  **Direct object**-  Some verbs take their direct object in the dative case.  [See `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_]
 
 *Note:* An indirect object is the person(s) or thing(s) toward which the verbal action of a verb or verb form is directed.
 
