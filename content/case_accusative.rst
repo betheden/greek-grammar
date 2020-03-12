@@ -5,10 +5,22 @@
 Case accusative
 ===============
 
-Glossary
+Glossary              [**DRAFT IN PROCESS**]
 --------
 
-**Accusative** is the nominal case used to indicate the object of a verb
+**Accusative** is the case used to indicate the object of a verb and of some prepositions.  
+It also is used to indicate the subject of infinitives.
+
+.. csv-table::  Example Mark 1:3 
+
+  ἑτοιμάσατε,τὴν,**ὁδὸν**,κυρίου 
+  hetoimasate,tēn,**hodon**,kyriou
+  prepare,the,**way**,of the,Lord
+
+*make ready the* **way** *of the Lord*
+
+
+**Accusative** is the nominal case used to indicate the object of a verb   **[DELETE THIS OLD DEFINITION]**
 and of some prepositions.
 
 .. csv-table:: Example: MRK 1:3
@@ -18,5 +30,255 @@ and of some prepositions.
   prepare the way of the Lord
   make ready the way of the Lord
 
-Article
+Article                 [**DRAFT IN PROCESS**]              
 -------
+
+The accusative case is sometimes referred to as the case of “limitation.”  
+It limits the verb as to extent, direction, or end of an action.  
+The principle use of the accusative case is to:
+
+  #.	Indicate the direct object of a verb
+  #.	indicate the object of certain prepositions
+  #.	indicate the subject of an infinitive 
+  #.	Adverbial accusative
+
+
+
+Form
+~~~~
+
+The Accusative case is formed by adding the accusative case ending to the stem of a word (often with a connecting vowel).
+
+.. raw:: html 
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-6t3r{font-weight:bold;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+      <tr>
+        <th class="tg-7btt" colspan="7">Accusative Case Endings</th>
+      </tr>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-6t3r" colspan="3">First and Second declensions</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-1wig" colspan="2">Third declension</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-8zwo">Masculine</td>
+        <td class="tg-8zwo">Feminine</td>
+        <td class="tg-8zwo">Neuter</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-8zwo">Masculine/Feminine</td>
+        <td class="tg-8zwo">Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-1wig"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-baqh"></td>
+        <td class="tg-amwm"></td>
+        <td class="tg-amwm"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm"></td>
+        <td class="tg-amwm"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">Accusative</td>
+        <td class="tg-amwm">ν</td>
+        <td class="tg-amwm">ν</td>
+        <td class="tg-baqh"><span style="font-weight:bold">ν</span></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm">α/ν</td>
+        <td class="tg-amwm">-</td>
+      </tr>
+      <tr>
+        <td class="tg-6t3r">Plural</td>
+        <td class="tg-amwm"></td>
+        <td class="tg-amwm"></td>
+        <td class="tg-amwm"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">Accusative</td>
+        <td class="tg-amwm">υς</td>
+        <td class="tg-amwm">ς</td>
+        <td class="tg-amwm">α</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-amwm">ας</td>
+        <td class="tg-amwm">α</td>
+      </tr>
+    </table>
+
+
+Note:  The hyphen indicates that there is no case ending for the third declension accusative singular neuter nouns and adjectives.
+
+See NounParadigm for a complete listing of the noun paradigms and AdjectiveParadigm for the adjective paradigms.
+
+
+Accusative_Direct Object
+########################
+
+The accusative case is used to indicate the direct object of the transitive verb.  
+The Direct object receives the action of transitive verbs.  Because most verbs are transitive almost every sentence will have the object of the verb in the accusative case. However, there are a few verbs that can take their object in the Genitive Case [ see https://ugg.readthedocs.io/en/latest/case_genitive.html#id3] or Dative case. [See ‘Dative_Direct_Object https://ugg.readthedocs.io/en/latest/case_dative.html#id3  .]  
+
+
+John 3:16
+οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον
+houtōs   gar ēgapēsen ho Theos ton kosmon
+thus/so  for  he loved    the God  the world
+
+For God so loved the world
+
+
+Mark 2:1
+ἀποστέλλω τὸν ἄγγελόν μου
+apostellō ton angelon mou
+I am sending the messenger my
+
+I am sending my messenger
+
+
+Double Accusative
+
+Some verbs may require two or more objects to complete the meaning because the verb requires two objects to complete the thought using a person and a thing.   In this case, the translator may wish to use an implied preposition in the translation to make for a smoother translation.
+
+
+ 
+Matthew 1:21
+καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν
+kai kaleseis to onoma autou Iēsoun
+and you will call the name of him Jesus
+
+and you will call his name Jesus
+  [In this instance the two objects are ὄνομα and  Ἰησοῦν   
+
+
+
+John 14:26
+ἐκεῖνος ὑμᾶς διδάξει πάντα
+ekeinos hymas didaxei panta
+That one  you    he will teach   all things
+
+he will teach you everything  [This could be translated with the implied preposition ; “ He will teach everything to you.”  
+
+
+Another example of a double accusative is the accusative that is used with an oath. The preposition “by” may be used to assist in the translation.
+
+Mark 5:7
+ὁρκίζω σε τὸν Θεόν, μή με βασανίσῃς
+horkizō se ton Theon, mē me basanisēs
+I implore/beg you by God  not me  torment
+
+I beg you by God, do not torment me   
+Note:  In this example, με is an Accusative Direct Object.
+
+ [NOTE TO GRANT – I deleted “ himself”  “I beg you by God himself do not torment me.”   “Himself” was added for additional emphasis, but is not in the text, nor variant texts, nor NASB, NIV, NKJV,ESV, or CSB]
+
+[ Note to Grant – I have not included the “Cognate Accusative.”  The Cognate Accusative is just a form of the direct object, but with the added twist that the word used for the direct object is the noun form of the verb.   “I gave the gift”.  I fought the fight.  He sinned a sin.
+
+Object of Certain Prepositions.
+
+Certain prepositions take their object in the accusative case such as είς, δία, πρός, and ὑπό. 
+Caution:  Use the lexicon to determine the meaning of a preposition followed by a word in a particular case.    Often the meaning for the preposition is specific to the preposition.   [See -Prepositions.]
+
+Subject of Infinitives
+
+The subject of an infinitive may also be the subject of the sentence. If this is the case, the subject of the sentence (and of the infinitive) will be in the nominative case. If the subject of the infinitive is not the subject of the sentence, it will almost always be in the accusative case.   Therefore, the accusative case is considered to be the case for the subject of an infinitive.
+
+Infinitives can have both a subject and an object.  If this is the case both will be in the accusative case.   In this instance, usually word order and context will clarify which word is the subject and which is the object of the infinitive.  
+
+If there are two words in the accusative case, and context by itself does make clear which word is the subject of the infinitive and which word is the object of the infinitive, then the reader may use the following rule as a helpful guideline.  If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.  This same basic principle may also be used to help identify the subject from the predicate nominative.  [see Nominative-Predicate].  
+
+Example: John 1:12
+
+ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα Θεοῦ γενέσθαι
+edōken autois exousian tekna Theou genesthai
+He gave to them   authority children of God to be
+
+he gave them the right to become children of God.
+[Note:  The subject of the preposition γενέσθαι is τέκνα.]
+
+In the following example a single word serves as the object of a participle and at the same time as the subject of the infinitive.   με serves as the object of the participle clause  ὁ πέμψας με , and at the same time serves as the subject of the infinitive βαπτίζειν.
+
+Example: John 1:33
+ὁ πέμψας με βαπτίζειν ἐν ὕδατι
+ho pempsas me baptizein en hydati
+he who sent me to baptize in water
+
+he who sent me to baptize in water
+
+Example: Luke 9:2 
+
+καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν Βασιλείαν τοῦ Θεοῦ
+kai apesteilen autous kēryssein tēn Basileian tou Theou
+and he sent      them   to preach  the kingdom of God
+
+he sent them out to proclaim the kingdom of God
+[αὐτοὺς is the subject of the infinitive. τὴν Βασιλείαν is the object of the preposition.]
+
+
+Example: John 5:18
+
+μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι
+mallon ezētoun auton hoi Ioudaioi apokteinai
+even more  they were seeking him the Jews to kill
+
+the Jews sought even more to kill him
+[Note: οἱ Ἰουδαῖοι is the subject of the sentence and serves at the subject of the infinitive. It is  in the nominative case because it is the subject of the sentence.]
+
+Adverbial Accusative
+
+An Adverbial Accusative occurs when an adjective or number in the accusative case is used to quantify (or limit) the action of a verb.  Some words such as μᾶλλον and σχεδόν have become adverbs because of their exclusive use in the manner.  An adverbial accusative may be used to express a limitation by indicating:
+
+•	the measure or distance of an action (How long? or How far?)
+•	the time of an action 
+•	the manner of an action 
+•	to indicate a reference point for the action.
+
+
+Example: Mark 12:34  Adverbial Accusative of Measure
+
+εἶπεν αὐτῷ, οὐ μακρὰν εἶ ἀπὸ τῆς Βασιλείας τοῦ Θεοῦ
+eipen autō, ou makran ei apo tēs Basileias tou Theou
+he said to him not far you are from the Kingdom of God
+
+he said to him, “You are not far from the kingdom of God.”
+
+Example: Matthew 20:6  Adverbial Accusative of time
+
+τί ὧδε ἑστήκατε ὅλην τὴν ἡμέραν ἀργοί?
+ti hōde hestēkate holēn tēn hēmeran argoi?
+Why here are you standing whole the day idle?
+
+‘Why do you stand here idle all the day long?’
+
+Example: Matt 10:8  Adverbial Accusative of Manner   [ albeit could use Jn 15:25]
+
+δωρεὰν ἐλάβετε, δωρεὰν δότε
+dōrean elabete, dōrean dote
+freely   you received freely you give
+Freely you have received, freely give.
+
+Example:    Romans 10:5        Adverbial Accusative of Reference
+
+Μωϋσῆς γὰρ γράφει τὴν δικαιοσύνην τὴν ἐκ νόμου
+Mōusēs gar graphei tēn dikaiosynēn tēn ek nomou
+Moses  for    he writes the with reference to righteousness the from law
+
+For Moses writes about the righteousness that comes from the law:
+
+
+
+
+
