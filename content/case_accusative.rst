@@ -132,8 +132,8 @@ Accusative_Direct Object
 The accusative case is used to indicate the direct object of the transitive verb.  
 The Direct object receives the action of transitive verbs.  Because most verbs are transitive almost every 
 sentence will have the object of the verb in the accusative case. 
-However, there are a few verbs that can take their object in the Genitive Case [see https://ugg.readthedocs.io/en/latest/case_genitive.html#id3] 
-or Dative case. [See ‘Dative_Direct_Object https://ugg.readthedocs.io/en/latest/case_dative.html#id3  .]  
+However, there are a few verbs that can take their object in the Genitive Case [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` ] 
+or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` .]  
 
 
 .. csv-table::   Example: John 3:16
@@ -167,7 +167,7 @@ In this case, the translator may wish to use an implied preposition in the trans
   kai,kaleseis,to,**onoma**,autou,**Iēsoun**
   and,you will call,the,**name**,of him,**Jesus**
 
-*and you will call his* **name Jesus**
+*and you will call his*  **name Jesus**
   [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
@@ -177,20 +177,21 @@ In this case, the translator may wish to use an implied preposition in the trans
   ekeinos,**hymas**,didaxei,**panta**
   That one,**you**,he will teach,**all things**
 
-*he will teach* **you everything**  [This could be translated with the implied preposition ; “ He will teach **to you** everything.”  
+*he will teach* **you everything**  
+[This could be translated with the implied preposition; “ He will teach **to you** everything.”  
 
 
 Another example of a double accusative is the accusative that is used with an oath.
 The preposition “by” may be used to assist in the translation.
 
-.. csv-table:  Example: Mark 5:7
+.. csv-table::  Example: Mark 5:7
 
   ὁρκίζω,σε,τὸν,**Θεόν**,μή,με,βασανίσῃς
   horkizō,se,ton,**Theon**,mē,me,basanisēs
   I implore/beg,you,by,**God**,not,me,torment
 
 *I beg you* **by God**, *do not torment me*
-Note:  In this example, σε and με are Accusative Direct Objects.
+Note:  In this example, **σε** and **με** are Accusative Direct Objects.
 
  [NOTE TO GRANT – I deleted “ himself”  “I beg you by God himself do not torment me.”   “Himself” was added for additional emphasis,
  but is not in the text, nor variant texts, nor NASB, NIV, NKJV,ESV, or CSB]
@@ -205,7 +206,7 @@ Object of Certain Prepositions
 
 Certain prepositions take their object in the accusative case such as **είς, δία, πρός**, and **ὑπό**. 
 **Caution:**  Use the lexicon to determine the meaning of a preposition followed by a word in a particular case.   
-Often the meaning for the preposition is specific to the preposition.   [See - :ref:`Prepositions<preposition>`_.]
+Often the meaning for the preposition is specific to the preposition.   [See - :ref:`Preposition<preposition>` _.]
 
 Subject of Infinitives
 ######################
