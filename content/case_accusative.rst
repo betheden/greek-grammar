@@ -15,7 +15,7 @@ It also is used to indicate the subject of infinitives.
 
   ἑτοιμάσατε,τὴν,**ὁδὸν**,κυρίου 
   hetoimasate,tēn,**hodon**,kyriou
-  prepare,the,**way**,of the,Lord
+  prepare,the,**way**,of the Lord
 
 *make ready the* **way** *of the Lord*
 
@@ -130,153 +130,189 @@ Accusative_Direct Object
 ########################
 
 The accusative case is used to indicate the direct object of the transitive verb.  
-The Direct object receives the action of transitive verbs.  Because most verbs are transitive almost every sentence will have the object of the verb in the accusative case. However, there are a few verbs that can take their object in the Genitive Case [ see https://ugg.readthedocs.io/en/latest/case_genitive.html#id3] or Dative case. [See ‘Dative_Direct_Object https://ugg.readthedocs.io/en/latest/case_dative.html#id3  .]  
+The Direct object receives the action of transitive verbs.  Because most verbs are transitive almost every 
+sentence will have the object of the verb in the accusative case. 
+However, there are a few verbs that can take their object in the Genitive Case [see https://ugg.readthedocs.io/en/latest/case_genitive.html#id3] 
+or Dative case. [See ‘Dative_Direct_Object https://ugg.readthedocs.io/en/latest/case_dative.html#id3  .]  
 
 
-John 3:16
-οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον
-houtōs   gar ēgapēsen ho Theos ton kosmon
-thus/so  for  he loved    the God  the world
+.. csv-table::   Example: John 3:16
 
-For God so loved the world
+  οὕτως,γὰρ,ἠγάπησεν,ὁ,Θεὸς,τὸν,**κόσμον**
+  houtōs,gar,ēgapēsen,ho,Theos,ton,**kosmon**
+  thus/so,for,he loved,the,God,the,**world**
 
+*For God so loved the* **world**
 
-Mark 2:1
-ἀποστέλλω τὸν ἄγγελόν μου
-apostellō ton angelon mou
-I am sending the messenger my
+.. csv-table:: Example:  Mark 2:1
 
-I am sending my messenger
+  ἀποστέλλω,τὸν,**ἄγγελόν**,μου
+  apostellō,ton,**angelon**,mou
+  I am sending,the,**messenger**,my
+
+*I am sending my* **messenger**
 
 
 Double Accusative
+#################
 
-Some verbs may require two or more objects to complete the meaning because the verb requires two objects to complete the thought using a person and a thing.   In this case, the translator may wish to use an implied preposition in the translation to make for a smoother translation.
-
-
- 
-Matthew 1:21
-καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν
-kai kaleseis to onoma autou Iēsoun
-and you will call the name of him Jesus
-
-and you will call his name Jesus
-  [In this instance the two objects are ὄνομα and  Ἰησοῦν   
+Some verbs may require two or more objects to complete the meaning 
+because the verb requires two objects to complete the thought using a person and a thing.   
+In this case, the translator may wish to use an implied preposition in the translation to make for a smoother translation.
 
 
+.. csv-table::  Matthew 1:21
 
-John 14:26
-ἐκεῖνος ὑμᾶς διδάξει πάντα
-ekeinos hymas didaxei panta
-That one  you    he will teach   all things
+  καὶ,καλέσεις,τὸ,**ὄνομα**,αὐτοῦ,**Ἰησοῦν**
+  kai,kaleseis,to,**onoma**,autou,**Iēsoun**
+  and,you will call,the,**name**,of him,**Jesus**
 
-he will teach you everything  [This could be translated with the implied preposition ; “ He will teach everything to you.”  
+*and you will call his* **name Jesus**
+  [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
-Another example of a double accusative is the accusative that is used with an oath. The preposition “by” may be used to assist in the translation.
+.. csv-table::  Example: John 14:26
 
-Mark 5:7
-ὁρκίζω σε τὸν Θεόν, μή με βασανίσῃς
-horkizō se ton Theon, mē me basanisēs
-I implore/beg you by God  not me  torment
+  ἐκεῖνος,**ὑμᾶς**,διδάξει,**πάντα**
+  ekeinos,**hymas**,didaxei,**panta**
+  That one,**you**,he will teach,**all things**
 
-I beg you by God, do not torment me   
-Note:  In this example, με is an Accusative Direct Object.
+*he will teach* **you everything**  [This could be translated with the implied preposition ; “ He will teach **to you** everything.”  
 
- [NOTE TO GRANT – I deleted “ himself”  “I beg you by God himself do not torment me.”   “Himself” was added for additional emphasis, but is not in the text, nor variant texts, nor NASB, NIV, NKJV,ESV, or CSB]
 
-[ Note to Grant – I have not included the “Cognate Accusative.”  The Cognate Accusative is just a form of the direct object, but with the added twist that the word used for the direct object is the noun form of the verb.   “I gave the gift”.  I fought the fight.  He sinned a sin.
+Another example of a double accusative is the accusative that is used with an oath.
+The preposition “by” may be used to assist in the translation.
 
-Object of Certain Prepositions.
+.. csv-table:  Example: Mark 5:7
 
-Certain prepositions take their object in the accusative case such as είς, δία, πρός, and ὑπό. 
-Caution:  Use the lexicon to determine the meaning of a preposition followed by a word in a particular case.    Often the meaning for the preposition is specific to the preposition.   [See -Prepositions.]
+  ὁρκίζω,σε,τὸν,**Θεόν**,μή,με,βασανίσῃς
+  horkizō,se,ton,**Theon**,mē,me,basanisēs
+  I implore/beg,you,by,**God**,not,me,torment
+
+*I beg you* **by God**, *do not torment me*
+Note:  In this example, σε and με are Accusative Direct Objects.
+
+ [NOTE TO GRANT – I deleted “ himself”  “I beg you by God himself do not torment me.”   “Himself” was added for additional emphasis,
+ but is not in the text, nor variant texts, nor NASB, NIV, NKJV,ESV, or CSB]
+
+[ Note to Grant – I have not included the “Cognate Accusative.”  The Cognate Accusative is just a form of the direct object,
+but with the added twist that the word used for the direct object is the noun form of the verb.   “I gave the gift”.  
+I fought the fight.  He sinned a sin.
+
+
+Object of Certain Prepositions
+##############################
+
+Certain prepositions take their object in the accusative case such as **είς, δία, πρός**, and **ὑπό**. 
+**Caution:**  Use the lexicon to determine the meaning of a preposition followed by a word in a particular case.   
+Often the meaning for the preposition is specific to the preposition.   [See - :ref:`Prepositions<preposition>`_.]
 
 Subject of Infinitives
+######################
 
-The subject of an infinitive may also be the subject of the sentence. If this is the case, the subject of the sentence (and of the infinitive) will be in the nominative case. If the subject of the infinitive is not the subject of the sentence, it will almost always be in the accusative case.   Therefore, the accusative case is considered to be the case for the subject of an infinitive.
+The subject of an infinitive may also be the subject of the sentence. If this is the case, the subject of the sentence
+(and of the infinitive) will be in the nominative case. If the subject of the infinitive is not the subject of the sentence,
+it will almost always be in the accusative case.   Therefore, the accusative case is considered to be the case for the subject
+of an infinitive.
 
-Infinitives can have both a subject and an object.  If this is the case both will be in the accusative case.   In this instance, usually word order and context will clarify which word is the subject and which is the object of the infinitive.  
+Infinitives can have both a subject and an object.  If this is the case both will be in the accusative case.   
+In this instance, usually word order and context will clarify which word is the subject and which is the object of the infinitive.  
 
-If there are two words in the accusative case, and context by itself does make clear which word is the subject of the infinitive and which word is the object of the infinitive, then the reader may use the following rule as a helpful guideline.  If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.  This same basic principle may also be used to help identify the subject from the predicate nominative.  [see Nominative-Predicate].  
+If there are two words in the accusative case, and context by itself does make clear 
+  1) which word is the subject of the infinitive, and
+  2) which word is the object of the infinitive, 
+then the reader may use the following rule as a helpful guideline.  
 
-Example: John 1:12
+If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.
+This same basic principle may also be used to help identify the subject from the predicate nominative.  [see `Nominative-Predicate <https://ugg.readthedocs.io/en/latest/case_nominative.html#nominative-predicate>` ].  
 
-ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα Θεοῦ γενέσθαι
-edōken autois exousian tekna Theou genesthai
-He gave to them   authority children of God to be
 
-he gave them the right to become children of God.
+.. csv-table:: Example: John 1:12
+
+  ἔδωκεν,αὐτοῖς,ἐξουσίαν,**τέκνα**,Θεοῦ,γενέσθαι
+  edōken,autois,exousian,**tekna**,Theou,genesthai
+  He gave,to them,authority,**children**,of God,to be
+
+*he gave them the right to become* **children** *of God.*
 [Note:  The subject of the preposition γενέσθαι is τέκνα.]
 
-In the following example a single word serves as the object of a participle and at the same time as the subject of the infinitive.   με serves as the object of the participle clause  ὁ πέμψας με , and at the same time serves as the subject of the infinitive βαπτίζειν.
+In the following example a single word serves as the object of a participle and at the same time as the subject of the infinitive.
+με serves as the object of the participle clause  ὁ πέμψας με , and at the same time serves as the subject of the infinitive βαπτίζειν.
 
-Example: John 1:33
-ὁ πέμψας με βαπτίζειν ἐν ὕδατι
-ho pempsas me baptizein en hydati
-he who sent me to baptize in water
+.. csv-table:: Example: John 1:33
 
-he who sent me to baptize in water
+  ὁ,πέμψας,**με**,βαπτίζειν,ἐν,ὕδατι
+  ho,pempsas,**me**,baptizein,en,hydati
+  he,who sent,**me**,to baptize,in,water
 
-Example: Luke 9:2 
+*he who sent* **me** *to baptize in water*
 
-καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν Βασιλείαν τοῦ Θεοῦ
-kai apesteilen autous kēryssein tēn Basileian tou Theou
-and he sent      them   to preach  the kingdom of God
+..csv-table:: Example: Luke 9:2 
 
-he sent them out to proclaim the kingdom of God
-[αὐτοὺς is the subject of the infinitive. τὴν Βασιλείαν is the object of the preposition.]
+  καὶ,ἀπέστειλεν,**αὐτοὺς**,κηρύσσειν,τὴν,Βασιλείαν,τοῦ,Θεοῦ
+  kai,apesteilen,**autous,kēryssein,tēn,Basileian,tou,Theou
+  and,he sent,**them**,to preach,the,kingdom,of,God
+
+*he sent* **them** *out to proclaim the kingdom of God*
+[Note: αὐτοὺς is the subject of the infinitive (*κηρύσσειν*) and the accusative-direct object for the verb *ἀπέστειλεν*. 
+τὴν Βασιλείαν is the object of the infinitive (*κηρύσσειν*).]
 
 
-Example: John 5:18
+.. csv-table:: Example: John 5:18
 
-μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι
-mallon ezētoun auton hoi Ioudaioi apokteinai
-even more  they were seeking him the Jews to kill
+  μᾶλλον,ἐζήτουν,αὐτὸν,οἱ**Ἰουδαῖοι**,ἀποκτεῖναι
+  mallon,ezētoun,auton,hoi,**Ioudaioi**,apokteinai
+  even more,they were seeking,him,the,**Jews**,to kill
 
-the Jews sought even more to kill him
-[Note: οἱ Ἰουδαῖοι is the subject of the sentence and serves at the subject of the infinitive. It is  in the nominative case because it is the subject of the sentence.]
+  *the* **Jews** *sought even more to kill him*
+[Note: οἱ Ἰουδαῖοι is the subject of the sentence and serves at the subject of the infinitive. 
+It is  in the nominative case because it is the subject of the sentence.]
+
 
 Adverbial Accusative
+####################
 
-An Adverbial Accusative occurs when an adjective or number in the accusative case is used to quantify (or limit) the action of a verb.  Some words such as μᾶλλον and σχεδόν have become adverbs because of their exclusive use in the manner.  An adverbial accusative may be used to express a limitation by indicating:
+An Adverbial Accusative occurs when an adjective or number in the accusative case is used to quantify (or limit) the action of a verb. 
+Some words such as **μᾶλλον** and **σχεδόν** have become adverbs because of their exclusive use in this manner.
+An adverbial accusative may be used to express a limitation by indicating:
 
-•	the measure or distance of an action (How long? or How far?)
-•	the time of an action 
-•	the manner of an action 
-•	to indicate a reference point for the action.
+  *	the measure or distance of an action (How long? or How far?)
+  *	the time of an action 
+  *	the manner of an action 
+  *	to indicate a reference point for the action.
 
 
-Example: Mark 12:34  Adverbial Accusative of Measure
+.. csv-table:: Example: Mark 12:34  **Adverbial Accusative of Measure**
 
-εἶπεν αὐτῷ, οὐ μακρὰν εἶ ἀπὸ τῆς Βασιλείας τοῦ Θεοῦ
-eipen autō, ou makran ei apo tēs Basileias tou Theou
-he said to him not far you are from the Kingdom of God
+  εἶπεν,αὐτῷ,οὐ,**μακρὰν**,εἶ,ἀπὸ,τῆς,Βασιλείας,τοῦ,Θεοῦ
+  eipen,autō,ou,**makran**,ei,apo,tēs,Basileias,tou,Theou
+  he said,to him,not,**far**,you are,from,the,Kingdom,of,God
 
-he said to him, “You are not far from the kingdom of God.”
+*he said to him, “You are not* **far** *from the kingdom of God.”*
 
-Example: Matthew 20:6  Adverbial Accusative of time
+.. csv-table:: Example: Matthew 20:6  **Adverbial Accusative of time**
 
-τί ὧδε ἑστήκατε ὅλην τὴν ἡμέραν ἀργοί?
-ti hōde hestēkate holēn tēn hēmeran argoi?
-Why here are you standing whole the day idle?
+  τί,ὧδε,ἑστήκατε,**ὅλην**,τὴν,ἡμέραν,ἀργοί?
+  ti,hōde,hestēkate,**holēn**,tēn,hēmeran,argoi?
+  Why,here,are you standing,**whole**,the,day,idle?
 
-‘Why do you stand here idle all the day long?’
+*‘Why do you stand here idle* **all** *the day long?’*
 
-Example: Matt 10:8  Adverbial Accusative of Manner   [ albeit could use Jn 15:25]
+.. csv-table:: Example: Matt 10:8  **Adverbial Accusative of Manner**   [NOTE:  albeit could use Jn 15:25]
 
-δωρεὰν ἐλάβετε, δωρεὰν δότε
-dōrean elabete, dōrean dote
-freely   you received freely you give
-Freely you have received, freely give.
+  δωρεὰν,ἐλάβετε,**δωρεὰν**,δότε
+  dōrean,elabete,**dōrean**,dote
+  freely,you received,**freely**,you give
 
-Example:    Romans 10:5        Adverbial Accusative of Reference
+*Freely you have received,* **freely** *give.*
 
-Μωϋσῆς γὰρ γράφει τὴν δικαιοσύνην τὴν ἐκ νόμου
-Mōusēs gar graphei tēn dikaiosynēn tēn ek nomou
-Moses  for    he writes the with reference to righteousness the from law
+.. csv-table:: Example:  Romans 10:5   **Adverbial Accusative of Reference**
 
-For Moses writes about the righteousness that comes from the law:
+  Μωϋσῆς,γὰρ,γράφει,τὴν,**δικαιοσύνην**,τὴν,ἐκ,νόμου
+  Mōusēs,gar,graphei,tēn,**dikaiosynēn**,tēn,ek,nomou
+  Moses,for,he writes,the,**with reference to righteousness**,the,from,law
+
+*For Moses writes* **about the righteousness** *that comes from the law:*
 
 
 
