@@ -28,10 +28,10 @@ The accusative case is sometimes referred to as the case of “limitation.”
 It limits the verb as to extent, direction, or end (the goal) of an action.  
 The principle uses of the accusative case are to:
 
-  #.	Indicate the direct object of a verb  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#accusative-direct-object>` ] 
-  #.	Indicate the object of certain prepositions[See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>` ] 
-  #.	Indicate the subject of an infinitive [See Subjet_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>` ] 
-  #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#adverbial-accusative>` ]
+  #.	Indicate the direct object of a verb  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#accusative-direct-object>`_ ] 
+  #.	Indicate the object of certain prepositions[See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>`_ ] 
+  #.	Indicate the subject of an infinitive [See Subjet_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>`_] 
+  #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#adverbial-accusative>`_]
 
 
 
