@@ -13,33 +13,24 @@ It also is used to indicate the subject of infinitives.
 
 .. csv-table::  Example Mark 1:3 
 
-  ἑτοιμάσατε,τὴν,**ὁδὸν**,κυρίου 
-  hetoimasate,tēn,**hodon**,kyriou
+  ἑτοιμάσατε,τὴν,**ὁδὸν**,Κυρίου 
+  hetoimasate,tēn,**hodon**,Kyriou
   prepare,the,**way**,of the Lord
 
 *make ready the* **way** *of the Lord*
 
 
-**Accusative** is the nominal case used to indicate the object of a verb   **[DELETE THIS OLD DEFINITION]**
-and of some prepositions.
-
-.. csv-table:: Example: MRK 1:3
-
-  ἑτοιμάσατε τὴν ὁδὸν κυρίου
-  hetoimasate tēn hodon kyriou
-  prepare the way of the Lord
-  make ready the way of the Lord
 
 Article                 [**DRAFT IN PROCESS**]              
 -------
 
 The accusative case is sometimes referred to as the case of “limitation.”  
-It limits the verb as to extent, direction, or end of an action.  
-The principle use of the accusative case is to:
+It limits the verb as to extent, direction, or end (the goal) of an action.  
+The principle uses of the accusative case are to:
 
   #.	Indicate the direct object of a verb
-  #.	indicate the object of certain prepositions
-  #.	indicate the subject of an infinitive 
+  #.	Indicate the object of certain prepositions
+  #.	Indicate the subject of an infinitive 
   #.	Adverbial accusative
 
 
@@ -121,7 +112,7 @@ The Accusative case is formed by adding the accusative case ending to the stem o
     </table>
 
 
-Note:  The hyphen indicates that there is no case ending for the third declension accusative singular neuter nouns and adjectives.
+Note:  The hyphen (-) indicates that there is no case ending for the third declension accusative singular neuter nouns and adjectives.
 
 See NounParadigm for a complete listing of the noun paradigms and AdjectiveParadigm for the adjective paradigms.
 
@@ -130,7 +121,7 @@ Accusative_Direct Object
 ########################
 
 The accusative case is used to indicate the direct object of the transitive verb.  
-The Direct object receives the action of transitive verbs.  Because most verbs are transitive almost every 
+A direct object is the person(s) or thing(s) which receive the action of transitive verbs.  Because most verbs are transitive almost every 
 sentence will have the object of the verb in the accusative case. 
 However, there are a few verbs that can take their object in the Genitive Case [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` ] 
 or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` .]  
@@ -144,7 +135,7 @@ or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#
 
 *For God so loved the* **world**
 
-.. csv-table:: Example:  Mark 2:1
+.. csv-table:: Example:  Matthew 11:10
 
   ἀποστέλλω,τὸν,**ἄγγελόν**,μου
   apostellō,ton,**angelon**,mou
@@ -167,7 +158,7 @@ In this case, the translator may wish to use an implied preposition in the trans
   kai,kaleseis,to,**onoma**,autou,**Iēsoun**
   and,you will call,the,**name**,of him,**Jesus**
 
-*and you will call his*  **name Jesus**
+*and you will call his*  **name** **Jesus**
   [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
@@ -191,22 +182,17 @@ The preposition “by” may be used to assist in the translation.
   I implore/beg,you,by,**God**,not,me,torment
 
 *I beg you* **by God**, *do not torment me*
+
 Note:  In this example, **σε** and **με** are Accusative Direct Objects.
 
- [NOTE TO GRANT – I deleted “ himself”  “I beg you by God himself do not torment me.”   “Himself” was added for additional emphasis,
- but is not in the text, nor variant texts, nor NASB, NIV, NKJV,ESV, or CSB]
-
-[ Note to Grant – I have not included the “Cognate Accusative.”  The Cognate Accusative is just a form of the direct object,
-but with the added twist that the word used for the direct object is the noun form of the verb.   “I gave the gift”.  
-I fought the fight.  He sinned a sin.
 
 
 Object of Certain Prepositions
 ##############################
 
 Certain prepositions take their object in the accusative case such as **είς, δία, πρός**, and **ὑπό**. 
-**Caution:**  Use the lexicon to determine the meaning of a preposition followed by a word in a particular case.   
-Often the meaning for the preposition is specific to the preposition.   [See - :ref:`Preposition<preposition>` _.]
+**Caution:**  Use the lexicon to determine the meaning of a preposition when it is followed by a word in a particular case. Most prepositions in the New Testament are used with nouns of only one case but a few prepositions can be used with nouns in two different cases (the genitive or accusative case) and three prepositions (ἐπί, παρά,πρός) can be used with nouns in either the genitive case, dative case, or accusative case.   
+Often the meaning of the preposition is specific to the case of the noun it is used with.   [See - :ref:`Preposition<preposition>` _.]
 
 Subject of Infinitives
 ######################
@@ -235,7 +221,7 @@ This same basic principle may also be used to help identify the subject from the
   He gave,to them,authority,**children**,of God,to be
 
 *he gave them the right to become* **children** *of God.*
-[Note:  The subject of the preposition γενέσθαι is τέκνα.]
+[Note:  The subject of the verb γενέσθαι is τέκνα.]
 
 In the following example a single word serves as the object of a participle and at the same time as the subject of the infinitive.
 με serves as the object of the participle clause  ὁ πέμψας με , and at the same time serves as the subject of the infinitive βαπτίζειν.
@@ -255,7 +241,7 @@ In the following example a single word serves as the object of a participle and 
   and,he sent,**them**,to preach,the,kingdom,of,God
 
 *he sent* **them** *out to proclaim the kingdom of God*
-[Note: αὐτοὺς is the subject of the infinitive (*κηρύσσειν*) and the accusative-direct object for the verb *ἀπέστειλεν*. 
+[Note: αὐτοὺς is the subject of the infinitive (*κηρύσσειν*) and the accusative-direct object for the verb *ἀπέστειλεν*. Note also that
 τὴν Βασιλείαν is the object of the infinitive (*κηρύσσειν*).]
 
 
