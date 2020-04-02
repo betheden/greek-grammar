@@ -114,7 +114,8 @@ The Accusative case is formed by adding the accusative case ending to the stem o
 
 Note:  The hyphen (-) indicates that there is no case ending for the third declension accusative singular neuter nouns and adjectives.
 
-See NounParadigm for a complete listing of the noun paradigms and AdjectiveParadigm for the adjective paradigms.
+See `NounParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#nouns>`_  for a complete listing of the noun paradigms and
+`AdjectiveParadigm <https://ugg.readthedocs.io/en/latest/paradigms.html#adjectives>`_ for the adjective paradigms.
 
 
 Accusative_Direct Object
