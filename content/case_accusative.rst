@@ -252,7 +252,8 @@ In the following example a single word serves as the object of a participle and 
   mallon,ezētoun,auton,hoi,**Ioudaioi**,apokteinai
   even more,they were seeking,him,the,**Jews**,to kill
 
-  *the* **Jews** *sought even more to kill him*
+
+*the* **Jews** *sought even more to kill him*
 [Note: οἱ Ἰουδαῖοι is the subject of the sentence and serves at the subject of the infinitive. 
 It is  in the nominative case because it is the subject of the sentence.]
 
