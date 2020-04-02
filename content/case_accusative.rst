@@ -124,8 +124,8 @@ Accusative_Direct Object
 The accusative case is used to indicate the direct object of the transitive verb.  
 A direct object is the person(s) or thing(s) which receive the action of transitive verbs.  Because most verbs are transitive almost every 
 sentence will have the object of the verb in the accusative case. 
-However, there are a few verbs that can take their object in the Genitive Case [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>` ] 
-or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>` .]  
+However, there are a few verbs that can take their object in the Genitive Case [see `Genitive Case <https://ugg.readthedocs.io/en/latest/case_genitive.html#id3>`_ ] 
+or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#id3>`_ .]  
 
 
 .. csv-table::   Example: John 3:16
