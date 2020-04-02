@@ -207,12 +207,12 @@ Infinitives can have both a subject and an object.  If this is the case both wil
 In this instance, usually word order and context will clarify which word is the subject and which is the object of the infinitive.  
 
 If there are two words in the accusative case, and context by itself does make clear 
-  1) which word is the subject of the infinitive, and
-  2) which word is the object of the infinitive, 
+(1) which word is the subject of the infinitive, and (2) which word is the object of the infinitive, 
 then the reader may use the following rule as a helpful guideline.  
 
-If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.
-This same basic principle may also be used to help identify the subject from the predicate nominative.  [see `Nominative-Predicate <https://ugg.readthedocs.io/en/latest/case_nominative.html#nominative-predicate>` ].  
+  If one of the two words is a pronoun, proper name, or has the definite article, then it will probably be the subject.
+
+This same basic principle may also be used to help identify the subject from the predicate nominative.  [see `Nominative-Predicate <https://ugg.readthedocs.io/en/latest/case_nominative.html#nominative-predicate>`_ ].  
 
 
 .. csv-table:: Example: John 1:12
@@ -235,7 +235,7 @@ In the following example a single word serves as the object of a participle and 
 
 *he who sent* **me** *to baptize in water*
 
-..csv-table:: Example: Luke 9:2 
+.. csv-table:: Example: Luke 9:2 
 
   καὶ,ἀπέστειλεν,**αὐτοὺς**,κηρύσσειν,τὴν,Βασιλείαν,τοῦ,Θεοῦ
   kai,apesteilen,**autous,kēryssein,tēn,Basileian,tou,Theou
