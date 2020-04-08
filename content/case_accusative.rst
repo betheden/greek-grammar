@@ -5,7 +5,7 @@
 Case accusative
 ===============
 
-Glossary              [**DRAFT IN PROCESS**]
+Glossary              
 --------
 
 **Accusative** is the case used to indicate the object of a verb and of some prepositions.  
@@ -21,7 +21,7 @@ It also is used to indicate the subject of infinitives.
 
 
 
-Article                 [**DRAFT IN PROCESS**]              
+Article               
 -------
 
 The accusative case is sometimes referred to as the case of “limitation.”  
@@ -31,7 +31,7 @@ The principle uses of the accusative case are to:
   #.	Indicate the direct object of a verb  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#id2>`_ ] 
   #.	Indicate the object of certain prepositions [See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>`_ ] 
   #.	Indicate the subject of an infinitive [See `Subject_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>`_ ] 
-  #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id3>`_ ]
+  #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id5>`_ ]
 
 
 
