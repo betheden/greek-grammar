@@ -149,8 +149,9 @@ Double Accusative
 #################
 
 Some verbs may require two or more objects to complete the meaning 
-because the verb requires two objects to complete the thought using a person and a thing.   
-In this case, the translator may wish to use an implied preposition in the translation to make for a smoother translation.
+because the verb requires two objects to complete the thought using a person (or persons)
+and/or a thing (or things).  In this case, the translator may wish to use an implied preposition
+in the translation to make for a smoother translation.
 
 
 .. csv-table::  Matthew 1:21
@@ -191,9 +192,20 @@ Note:  In this example, **σε** and **με** are Accusative Direct Objects.
 Object of Certain Prepositions
 ##############################
 
-Certain prepositions take their object in the accusative case such as **είς, δία, πρός**, and **ὑπό**. 
-**Caution:**  Use the lexicon to determine the meaning of a preposition when it is followed by a word in a particular case. Most prepositions in the New Testament are used with nouns of only one case but a few prepositions can be used with nouns in two different cases (the genitive or accusative case) and three prepositions (ἐπί, παρά,πρός) can be used with nouns in either the genitive case, dative case, or accusative case.   
-Often the meaning of the preposition is specific to the case of the noun it is used with.   [See - :ref:`Preposition<preposition>` _.]
+Certain prepositions take their object in the accusative case such as **είς**, **δία**, **πρός**, and **ὑπό**.
+**Caution:** Use the lexicon to determine the meaning of a preposition when it is followed 
+by a word in a particular case. 
+
+Often the meaning of the preposition is specific first to the preposition itself
+and then to the case of the noun it is used with. Therefore, the basic meaning of 
+the case cannot be trusted to arrive at a proper understanding of the meaning of the preposistion and a 
+lexicon must be consulted.  In some cases the meaning of the preposition will conform 
+to the basic meaning of the case such as ἀπό with the Genitive case (from, out from) 
+but in other cases such as when ὑπό is used with the accusative case it has the basic 
+meaning of “below” or “under” and when used with the genitive case AND AN ACTIVE VERB
+ὑπό has the basic meaning of “with” or “by” .  
+
+Therefore, a lexicon must be consulted to arrive at the meaning of the preposition.  [See - :ref:`Preposition<preposition>` _.]
 
 Subject of Infinitives
 ######################
