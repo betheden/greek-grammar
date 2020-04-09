@@ -151,7 +151,8 @@ or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#
   Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
   
 *Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
-[Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
+
+Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
 
 Double Accusative
 #################
