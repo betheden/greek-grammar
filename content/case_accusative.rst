@@ -8,7 +8,7 @@ Case accusative
 Glossary              
 --------
 
-**Accusative** is the case used to indicate the object of a verb and of some prepositions.  
+**Accusative** is the case used to indicate the object of a verb (including participles) and of some prepositions.  
 It also is used to indicate the subject of infinitives.
 
 .. csv-table::  Example Mark 1:3 
@@ -28,7 +28,7 @@ The accusative case is sometimes referred to as the case of “limitation.”
 It limits the verb as to extent, direction, or end (the goal) of an action.  
 The principle uses of the accusative case are to:
 
-  #.	Indicate the direct object of a verb  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#id2>`_ ] 
+  #.	Indicate the direct object of a verb (or participle)  [see `Accusative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_accusative.html#id2>`_ ] 
   #.	Indicate the object of certain prepositions [See `Object_of_Prepositions <https://ugg.readthedocs.io/en/latest/case_accusative.html#object-of-certain-prepositions>`_ ] 
   #.	Indicate the subject of an infinitive [See `Subject_of_Infinitive <https://ugg.readthedocs.io/en/latest/case_accusative.html#subject-of-infinitives>`_ ] 
   #.	Adverbial accusative [See `Adverbial_Accusative <https://ugg.readthedocs.io/en/latest/case_accusative.html#id5>`_ ]
@@ -144,6 +144,14 @@ or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#
 
 *I am sending my* **messenger**
 
+.. csv-table::  Example John 1:29
+
+  ἴδε,ὁ,Ἀμνὸς,τοῦ,Θεοῦ,ὁ,αἴρων,τὴν,**ἁμαρτίαν**,τοῦ,κόσμου
+  ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian,tou,kosmou
+  Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
+  
+*Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
+[Note:  In this example, *ἁμαρτίαν * is the dirct object of the participle *αἴρων*. 
 
 Double Accusative
 #################
@@ -160,7 +168,7 @@ in their translation in order to make a smoother translation.
   kai,kaleseis,to,**onoma**,autou,**Iēsoun**
   and,you will call,the,**name**,of him,**Jesus**
 
-*and you will call his*  **name Jesus**
+*and you will call his* **name Jesus**. 
   [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
@@ -171,6 +179,7 @@ in their translation in order to make a smoother translation.
   That one,**you**,he will teach,**all things**
 
 *he will teach* **you everything**  
+
 [This could be translated with the implied preposition; “ He will teach **to you** everything.”  
 
 
@@ -234,7 +243,8 @@ This same basic principle may also be used to help identify the subject from the
   He gave,to them,authority,**children**,of God,to be
 
 *he gave them the right to become* **children** *of God.*
-[Note:  The subject of the verb γενέσθαι is τέκνα.]
+
+[Note:  The subject of the infinitive γενέσθαι is τέκνα.]
 
 In the following example a single word serves as the object of a participle and at the same time as the subject of the infinitive.
 με serves as the object of the participle clause  ὁ πέμψας με , and at the same time serves as the subject of the infinitive βαπτίζειν.
@@ -254,6 +264,7 @@ In the following example a single word serves as the object of a participle and 
   and,he sent,**them**,to preach,the,kingdom,of,God
 
 *he sent* **them** *out to proclaim the kingdom of God*
+
 [Note: αὐτοὺς is the subject of the infinitive (*κηρύσσειν*) and the accusative-direct object for the verb *ἀπέστειλεν*. Note also that
 τὴν Βασιλείαν is the object of the infinitive (*κηρύσσειν*).]
 
