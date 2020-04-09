@@ -147,7 +147,7 @@ or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#
 .. csv-table::  Example John 1:29
 
   ἴδε,ὁ,Ἀμνὸς,τοῦ,Θεοῦ,ὁ,αἴρων,τὴν,**ἁμαρτίαν**,τοῦ,κόσμου
-  ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian,tou,kosmou
+  ide,ho,Amnos,tou,Theou,ho,airōn,tēn,**hamartian**,tou,kosmou
   Behold,the,Lamb,of,God,who,is taking away,the,**sin**,of the,world
   
 *Look, there is the Lamb of God, who takes away the* **sin** *of the world!*
