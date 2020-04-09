@@ -168,7 +168,7 @@ in their translation in order to make a smoother translation.
   kai,kaleseis,to,**onoma**,autou,**Iēsoun**
   and,you will call,the,**name**,of him,**Jesus**
 
-*and you will call his* **name Jesus**. 
+*and you will call his* name Jesus 
   [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
