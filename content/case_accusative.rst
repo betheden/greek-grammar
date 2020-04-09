@@ -148,10 +148,10 @@ or `Dative_Direct_Object <https://ugg.readthedocs.io/en/latest/case_dative.html#
 Double Accusative
 #################
 
-Some verbs may require two or more objects to complete the meaning 
-because the verb requires two objects to complete the thought using a person (or persons)
-and/or a thing (or things).  In this case, the translator may wish to use an implied preposition
-in the translation to make for a smoother translation.
+Some verbs may require two or more objects to complete their meaning. 
+These verbs will require two or more objects, a person (or persons)
+and/or a thing (or things)in the accusative case to complete their thought.  In this case, the translator may wish to use an implied preposition
+in their translation in order to make a smoother translation.
 
 
 .. csv-table::  Matthew 1:21
@@ -160,7 +160,7 @@ in the translation to make for a smoother translation.
   kai,kaleseis,to,**onoma**,autou,**Iēsoun**
   and,you will call,the,**name**,of him,**Jesus**
 
-*and you will call his*  **name** **Jesus**
+*and you will call his*  **name Jesus**
   [In this instance the two objects are *ὄνομα* and  *Ἰησοῦν*]   
 
 
@@ -250,7 +250,7 @@ In the following example a single word serves as the object of a participle and 
 .. csv-table:: Example: Luke 9:2 
 
   καὶ,ἀπέστειλεν,**αὐτοὺς**,κηρύσσειν,τὴν,Βασιλείαν,τοῦ,Θεοῦ
-  kai,apesteilen,**autous,kēryssein,tēn,Basileian,tou,Theou
+  kai,apesteilen,**autous**,kēryssein,tēn,Basileian,tou,Theou
   and,he sent,**them**,to preach,the,kingdom,of,God
 
 *he sent* **them** *out to proclaim the kingdom of God*
@@ -260,12 +260,13 @@ In the following example a single word serves as the object of a participle and 
 
 .. csv-table:: Example: John 5:18
 
-  μᾶλλον,ἐζήτουν,αὐτὸν,οἱ**Ἰουδαῖοι**,ἀποκτεῖναι
+  μᾶλλον,ἐζήτουν,αὐτὸν,οἱ,**Ἰουδαῖοι**,ἀποκτεῖναι
   mallon,ezētoun,auton,hoi,**Ioudaioi**,apokteinai
   even more,they were seeking,him,the,**Jews**,to kill
 
 
 *the* **Jews** *sought even more to kill him*
+
 [Note: οἱ Ἰουδαῖοι is the subject of the sentence and serves at the subject of the infinitive. 
 It is  in the nominative case because it is the subject of the sentence.]
 
@@ -299,7 +300,7 @@ An adverbial accusative may be used to express a limitation by indicating:
 
 *‘Why do you stand here idle* **all** *the day long?’*
 
-.. csv-table:: Example: Matt 10:8  **Adverbial Accusative of Manner**   [NOTE:  albeit could use Jn 15:25]
+.. csv-table:: Example: Matt 10:8  **Adverbial Accusative of Manner**   
 
   δωρεὰν,ἐλάβετε,**δωρεὰν**,δότε
   dōrean,elabete,**dōrean**,dote
