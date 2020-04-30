@@ -18,9 +18,9 @@ Article    **[D R A F T]**  *In process*
 As stated in the Glossary, A verb is a word used to describe an action, event, or state of affairs.
 
 The action of the verb may require an object to complete the action of the verb.  Verbs that require an object to complete the action
-are **Transitive verbs.** [See :ref:`verb_transitive>` ]  Verbs that do not require an object to complete the action are
-**Intransative verbs**. [See :ref:`verb_intransitive>` ]  A few verbs can be used as both a transitive verb and an intransitive verb.
-A Linking verb [:ref:`verb_linking>` ] does not express an action but connects the subject of the verb to additional information
+are **Transitive verbs.** [See :ref:`Transative<verb_transitive>` ]  Verbs that do not require an object to complete the action are
+**Intransative verbs**. [See :ref:`Intransative<verb_intransitive>` ]  A few verbs can be used as both a transitive verb and an intransitive verb.
+A :ref:`Linking_Verb<verb_linking>`  does not express an action but connects the subject of the verb to additional information
 in the predicate.
 
 Verbs are made up of six basic components:
