@@ -53,4 +53,4 @@ Verbs are made up of :
   
   
 Note: In this example, επι is a prefix that serves to intesify the meaning of the verb γινώσκω (to know). 
-It therefore change the meaning from "to know" to "to really know", "to know completely".
+It therefore change the meaning from "to know" to "to really know", or "to know completely".
