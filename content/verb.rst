@@ -44,7 +44,7 @@ Verbs are made up of :
   2.	The stem is the form of the root in a particular verbal tense. For some verbs, the present tense stem is identical to the root, but this is not always the case.  
   3.	Prefix -  A prefix may be added to the stem of a verb to change its tense or the meaning of the root.
   4.	Suffixes and connecting vowels (and sometimes with a prefix) are added to the end of the stem to change the person, number, tense, mood, or voice of a verb.
- 5.	Connecting vowels are often added before the suffix to aid in pro::nunciation, but may also be used to change the mood of the verb.
+ 5.	Connecting vowels are often added before the suffix to aid in pronunciation, but may also be used to change the mood of the verb.
 
 .. csv-table:: **Example:** ἐπιγνώσομαι
 
