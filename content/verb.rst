@@ -28,13 +28,13 @@ in the predicate.
 Verbs are made up of six basic components:
 
   *	The **root** which carries the basic meaning of the verb. 
-  *	The **tense** which indicates the speaker’s perspective or viewpoint *of the time of action* and the *kind of action* of the verb. The kind of action may be *continuous*, *completed*, or *completed with an ongoing effect.*
+  *	The :ref:`Tense<tense>` which indicates the speaker’s perspective or viewpoint *of the time of action* and the *kind of action* of the verb. The kind of action may be *continuous*, *completed*, or *completed with an ongoing effect.*
   
-  *	The **voice**  which indicates whether the subject performs the action (active voice), whether the action is performed on the subject (passive voice), or that the subject does the action of the verb but somehow is also affected by the action of the verb or participating in the action of the verb (middle voice).  Many verbs are said to be deponent.  A deponent verb is a verb whose stem is middle or passive in form, but active in meaning.   The definitions of many verbs that are classified as deponent have a meaning that implies the participation of the person doing the action.
+  *	The :ref:`Voice<voice>` which indicates whether the subject performs the action (active voice), whether the action is performed on the subject (passive voice), or that the subject does the action of the verb but somehow is also affected by the action of the verb or participating in the action of the verb (middle voice).  Many verbs are said to be deponent.  A deponent verb is a verb whose stem is middle or passive in form, but active in meaning.   The definitions of many verbs that are classified as deponent have a meaning that implies the participation of the person doing the action.
 
-  *	The **mood** which indicates the speaker’s viewpoint of the verbal action in relation to reality. Greek has four moods: indicative, imperative, subjunctive, and optative.
-  *	**Number** which signifies whether one (singular) or more (plural) participants are indicated by a word.
-  *	**Gender** which indicates if the subject of the verb is masculine, feminine, or neuter.
+  *	The :ref:`Mood<mood>` which indicates the speaker’s viewpoint of the verbal action in relation to reality. Greek has four moods: indicative, imperative, subjunctive, and optative.
+  *	:ref:`Number<number>` which signifies whether one (singular) or more (plural) participants are indicated by a word.
+  *	:ref:`Gender<Gender>` which indicates if the subject of the verb is masculine, feminine, or neuter.
 
 Verbs must agree with the subject of the verb in both number and gender.  Therefore, the pronoun (he, she, or it) is included in the verb itself and is not necessary to be restated as a separate word. 
 Parts (or components)
