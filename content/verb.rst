@@ -51,5 +51,6 @@ Verbs are made up of :
   prefix,stem,tense formative,connecting vowel,personal ending
   επι,γνς,σ,ο,μαι
   
- Note: In this example, επι is a prefix that serves to intesify the meaning of the verb γινώσκω (to know). 
- It therefore change the meaning from "to know" to "to really know", "to know completely".
+  
+Note: In this example, επι is a prefix that serves to intesify the meaning of the verb γινώσκω (to know). 
+It therefore change the meaning from "to know" to "to really know", "to know completely".
