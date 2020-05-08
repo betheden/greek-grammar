@@ -48,7 +48,7 @@ Verbs are made up of :
 .. csv-table:: **Example:** ἐπιγνώσομαι
 
   prefix,stem,tense formative,connecting vowel,personal ending
-  επι,γνς,σ,ο,μαι
+  επι,γνω,σ,ο,μαι
   
   
 Note: In this example, επι is a prefix that serves to intensify the meaning of the verb γινώσκω (to know). 
