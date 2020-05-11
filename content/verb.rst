@@ -36,7 +36,7 @@ Verbs are made up of six basic components:
   *	:ref:`Gender<Gender>` which indicates if the subject of the verb is masculine, feminine, or neuter.
 
 Verbs must agree with the subject of the verb in both number and person.  Therefore, the pronoun (I, you, he, she, or it) is included in 
-the verb itself and is not necessary to be restated as a separate word. 
+the verb itself and it is not necessary for it to be restated as a separate word. 
 
 **Parts**
 
