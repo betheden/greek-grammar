@@ -14,11 +14,11 @@ predicate of a sentence.
 Article    
 -------
 
-As stated in the Glossary, A verb is a word used to describe an action, event, or state of being.
+As stated in the Glossary, a verb is a word used to describe an action, event, or state of being.
 
 The action of the verb may require an object to complete the action of the verb.  Verbs that require a direct object to complete the action
 are :ref:`Transitive_Verbs<verb_transitive>` .  Verbs that do not require a direct object to complete the action are
-:ref:`Intransitive_Verbs<verb_intransitive>` .  A few verbs can be used as both a transitive verb and
+:ref:`Intransitive_Verbs<verb_intransitive>` .  A few verbs can be used both as a transitive verb and as
 an intransitive verb.
 
 A :ref:`Linking_Verb<verb_linking>`  does not express an action but connects the subject of the verb to additional information
