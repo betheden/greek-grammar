@@ -35,15 +35,17 @@ Verbs are made up of six basic components:
   *	:ref:`Number<number>` which signifies whether one (singular) or more (plural) participants are indicated by a word.
   *	:ref:`Gender<Gender>` which indicates if the subject of the verb is masculine, feminine, or neuter.
 
-Verbs must agree with the subject of the verb in both number and person.  Therefore, the pronoun (he, she, or it) is included in the verb itself and is not necessary to be restated as a separate word. 
-Parts (or components)
+Verbs must agree with the subject of the verb in both number and person.  Therefore, the pronoun (I, you, he, she, or it) is included in 
+the verb itself and is not necessary to be restated as a separate word. 
+
+**Parts**
 
 Verbs are made up of :
-  1.	The root is the most basic part of a word.  The root conveys the basic meaning of the word.  The root may be modified to make the word a noun, an adjective, a verb, or to indicate the tense of the verb.   
-  2.	The stem is the form of the root in a particular verbal tense. For some verbs, the present tense stem is identical to the root, but this is not always the case.  
-  3.	Prefix -  A prefix may be added to the stem of a verb to change its tense or the meaning of the root.
-  4.	Suffixes and connecting vowels (and sometimes with a prefix) are added to the end of the stem to change the person, number, tense, mood, or voice of a verb.
- 5.	Connecting vowels are often added before the suffix to aid in pronunciation, but may also be used to change the mood of the verb.
+  1.	The *root* is the most basic part of a word.  The root conveys the basic meaning of the word.  The root may be modified to make the word a noun, an adjective, a verb, or to indicate the tense of the verb.   
+  2.	The *stem* is the form of the root in a particular verbal tense. For some verbs, the present tense stem is identical to the root, but this is not always the case.  
+  3.	*Prefix* -  A prefix may be added to the stem of a verb to change its tense or the meaning of the root.
+  4.	*Suffixes* and connecting vowels (and sometimes with a prefix) are added to the end of the stem to change the person, number, tense, mood, or voice of a verb.
+  5.	*Connecting vowels* are often added before the suffix to aid in pronunciation, but may also be used to change the mood of the verb.
 
 .. csv-table:: **Example:** ἐπιγνώσομαι
 
