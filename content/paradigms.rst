@@ -191,28 +191,28 @@ Adjectives
 
 .. include:: includes/paradigm_adjective.txt
 
-Indicative Thematic
--------------------
+Verbs Indicative Thematic
+-------------------------
 
 .. include:: includes/paradigm_indicative_thematic.txt
 
-Indicative Athematic
---------------------
+Verbs Indicative Athematic
+--------------------------
 
 .. include:: includes/paradigm_indicative_athematic.txt
 
-Subjunctive
------------
+Verbs Subjunctive
+-----------------
 
 .. include:: includes/paradigm_subjunctive.txt
 
-Imperative
-----------
+Verbs Imperative
+----------------
 
 .. include:: includes/paradigm_imperative.txt
 
-Infinitive
-----------
+Verbs Infinitive
+----------------
 
 .. include:: includes/paradigm_infinitive.txt
 
