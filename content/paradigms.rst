@@ -173,8 +173,83 @@ Note: The columns shaded in grey and the unshaded columns are the same.
       </tr>
     </table>
 
+Verbs
+^^^^^
 
+**Examples of Verb Tenses in English and Greek**
 
+  * **Active voice** – The subject does the action of the Verb
+  * **Middle Voice** – The subject does the action of the verb but also is somehow affected by the action of the verb or is participating in the action of the verb (middle voice).  Deponent verbs are verbs whose stem is middle or passive in form, but active in meaning. The definitions of many verbs that are classified as deponent have a meaning that implies the participation of the person doing the action.
+  * **Passive Voice** – The subject receives the action of the verb.
+  
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-5frq{font-style:italic;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-1wig"></th>
+        <th class="tg-1wig">Past</th>
+        <th class="tg-amwm">Past<br>Continuous</th>
+        <th class="tg-1wig">Perfect</th>
+        <th class="tg-1wig">Present</th>
+        <th class="tg-1wig">Future</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-baqh"><span style="font-style:italic">Corresponds</span><br><span style="font-style:italic">with</span></td>
+        <td class="tg-5frq">Aorist<br>Tense</td>
+        <td class="tg-5frq">Imperfect<br>Tense</td>
+        <td class="tg-5frq">Perfect<br>Tense</td>
+        <td class="tg-5frq">Present<br>Tense</td>
+        <td class="tg-5frq">Future<br>Tense</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm">Active<br>Voice</td>
+        <td class="tg-baqh">I<br>walked</td>
+        <td class="tg-baqh">I was<br>walking</td>
+        <td class="tg-baqh">I had<br>walked</td>
+        <td class="tg-baqh">I am walking<br>(or I walk)</td>
+        <td class="tg-baqh">I will<br>walk</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm">Middle<br>Voice</td>
+        <td class="tg-baqh">I walked<br>for myself</td>
+        <td class="tg-baqh">I was walking<br>for myself</td>
+        <td class="tg-baqh">I had walked<br>for myself</td>
+        <td class="tg-baqh">I am walking<br>for myself<br>(or I walk myself)</td>
+        <td class="tg-baqh">I will <br>walk myself</td>
+      </tr>
+      <tr>
+        <td class="tg-amwm" rowspan="2"><br>Passive<br>Voice</td>
+        <td class="tg-baqh">I was <br>walked</td>
+        <td class="tg-baqh">I was<br>being walked</td>
+        <td class="tg-baqh">I had<br>been walked</td>
+        <td class="tg-baqh">i am <br>being walked</td>
+        <td class="tg-baqh">I will<br>be walked</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">I was<br>fed</td>
+        <td class="tg-baqh">I was<br>being fed</td>
+        <td class="tg-baqh">I had<br>been fed</td>
+        <td class="tg-baqh">I am<br>being fed</td>
+        <td class="tg-baqh">I will<br>be fed</td>
+      </tr>
+    </tbody>
+    </table>
+
+<tr>
 
 Nouns
 -----
