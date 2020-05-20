@@ -173,6 +173,7 @@ Note: The columns shaded in grey and the unshaded columns are the same.
       </tr>
     </table>
 
+
 Verbs
 ^^^^^
 
@@ -249,7 +250,7 @@ Verbs
     </tbody>
     </table>
 
-<tr>
+
 
 Nouns
 -----
