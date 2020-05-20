@@ -254,10 +254,10 @@ Verbs
         <td class="tg-baqh">I will<br>be fed</td>
       </tr>
     </tbody>
-    </table>
+    </table><br/>
 
   
-  
+
 
 Nouns
 -----
