@@ -171,8 +171,7 @@ Note: The columns shaded in grey and the unshaded columns are the same.
         <td class="tg-zlqz">α</td>
         <td class="tg-7btt">α</td>
       </tr>
-    </table>
-    <tr>
+    </table><br/>
   
 
 
