@@ -172,12 +172,19 @@ Note: The columns shaded in grey and the unshaded columns are the same.
         <td class="tg-7btt">α</td>
       </tr>
     </table>
+    <tr>
+  
 
 
 Verbs
 ^^^^^
 
-**Examples of Verb Tenses in English and Greek**
+  * **Table 3**  Examples of Verb Tenses in English and Greek
+  * **Table 4**  Primary and Secondary Endings
+  * **Table 5**  Master Verb Tense Chart
+
+**Table 3** - Examples of Verb Tenses in English and Greek
+
 
   * **Active voice** – The subject does the action of the Verb
   * **Middle Voice** – The subject does the action of the verb but also is somehow affected by the action of the verb or is participating in the action of the verb (middle voice).  Deponent verbs are verbs whose stem is middle or passive in form, but active in meaning. The definitions of many verbs that are classified as deponent have a meaning that implies the participation of the person doing the action.
@@ -250,7 +257,8 @@ Verbs
     </tbody>
     </table>
 
-
+  
+  
 
 Nouns
 -----
