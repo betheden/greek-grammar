@@ -180,7 +180,7 @@ Verbs
 
   * **Table 3**  Examples of Verb Tenses in English and Greek
   * **Table 4**  Primary and Secondary Endings
-  * **Table 5**  Master Verb Tense Chart
+  * **Table 5**  Master Verb Tense Chart (Present, Imperfect, and Future)
 
 **Table 3** - Examples of Verb Tenses in English and Greek
 
@@ -256,7 +256,141 @@ Verbs
     </tbody>
     </table><br/>
 
-  
+**Table 5** - Master Verb Tense Chart - Present, Imperfect, and Future
+
+.. raw:: html
+
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Present, Imperfect, and Future</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-f8tv"></td>
+        <td class="tg-fymr">Augment</td>
+        <td class="tg-fymr">Stem<br>Tense</td>
+        <td class="tg-fymr">Tense<br>Formative</td>
+        <td class="tg-fymr">Connecting<br>Vowel</td>
+        <td class="tg-fymr">Personal<br>Ending</td>
+        <td class="tg-fymr">first<br>Singular</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Present Active<br></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>active</td>
+        <td class="tg-0pky">λύω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Present<br>Middle/Passive<br></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">λύομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Imperfect<br>Active</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">secondary<br>Active</td>
+        <td class="tg-0pky">ἔλυον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Imperfect<br>Middle/Passive</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">secondary<br>middle/<br>passive</td>
+        <td class="tg-0pky">ἐλυόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Future Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>active</td>
+        <td class="tg-0pky">λύσω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Future Middle</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">λύσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Liquid Future<br>Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>active</td>
+        <td class="tg-0pky">κρινῶ</td>
+      </tr>
+       <tr>
+        <td class="tg-f8tv">Liquid Future<br>Middle</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">κρινοῦμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">First Future<br>Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">θησ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive<br></td>
+        <td class="tg-0pky">λυθήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Second Future<br>Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">χαρήσομαιυ6θ</td>
+      </tr>
+    </tbody>
+    </table><br/>
+
 
 
 Nouns
