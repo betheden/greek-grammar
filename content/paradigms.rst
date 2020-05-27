@@ -337,7 +337,7 @@ Verbs
       <tr>
         <td class="tg-f8tv">Future Active</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">present</td>
         <td class="tg-c3ow">σ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>active</td>
@@ -346,7 +346,7 @@ Verbs
       <tr>
         <td class="tg-f8tv">Future Middle</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">present</td>
         <td class="tg-c3ow">σ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>middle/<br>passive</td>
@@ -355,7 +355,7 @@ Verbs
       <tr>
         <td class="tg-f8tv">Liquid Future<br>Active</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">present</td>
         <td class="tg-c3ow">εσ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>active</td>
@@ -364,7 +364,7 @@ Verbs
        <tr>
         <td class="tg-f8tv">Liquid Future<br>Middle</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">present</td>
         <td class="tg-c3ow">εσ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>middle/<br>passive</td>
@@ -373,7 +373,7 @@ Verbs
       <tr>
         <td class="tg-f8tv">First Future<br>Passive</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">aorist passive</td>
         <td class="tg-c3ow">θησ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>middle/<br>passive<br></td>
@@ -382,7 +382,7 @@ Verbs
       <tr>
         <td class="tg-f8tv">Second Future<br>Passive</td>
         <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
+        <td class="tg-0pky">aorist passive</td>
         <td class="tg-c3ow">ησ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>middle/<br>passive</td>
