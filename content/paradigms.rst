@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 05282020  11.18)
+Master  (rev. 05282020  11.30)
 ------
 
 Case Endings
@@ -416,6 +416,15 @@ Verbs
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td class="tg-f8tv"></td>
+        <td class="tg-fymr">Augment</td>
+        <td class="tg-fymr">Stem<br>Tense</td>
+        <td class="tg-fymr">Tense<br>Formative</td>
+        <td class="tg-fymr">Connecting<br>Vowel</td>
+        <td class="tg-fymr">Personal<br>Ending</td>
+        <td class="tg-fymr">first<br>Singular</td>
+      </tr>
       <tr>
         <td class="tg-f8tv">Future Active</td>
         <td class="tg-c3ow"></td>
