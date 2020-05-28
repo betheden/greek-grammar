@@ -392,7 +392,7 @@ Verbs
     </table><br/>
  
  
- **Table 6** - Master Verb Tense Chart - Future
+**Table 6** - Master Verb Tense Chart - Future
 
 .. raw:: html
 
@@ -412,7 +412,7 @@ Verbs
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Present, Imperfect, and Future</th>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Future</th>
       </tr>
     </thead>
     <tbody>
@@ -472,7 +472,9 @@ Verbs
       </tr>
     </tbody>
     </table><br/>
- 
+
+
+
 
 **Table 7**  Master Verb Tense Chart - The Aorist Tenses
 
