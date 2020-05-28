@@ -390,6 +390,188 @@ Verbs
       </tr>
     </tbody>
     </table><br/>
+ 
+ 
+ **Table 6** - Master Verb Tense Chart - Future
+
+.. raw:: html
+
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Present, Imperfect, and Future</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-f8tv">Future Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>active</td>
+        <td class="tg-0pky">λύσω</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Future Middle</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow">σ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">λύσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Liquid Future<br>Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>active</td>
+        <td class="tg-0pky">κρινῶ</td>
+      </tr>
+       <tr>
+        <td class="tg-f8tv">Liquid Future<br>Middle</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">present</td>
+        <td class="tg-c3ow">εσ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">κρινοῦμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">First Future<br>Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">aorist passive</td>
+        <td class="tg-c3ow">θησ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive<br></td>
+        <td class="tg-0pky">λυθήσομαι</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Second Future<br>Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">aorist passive</td>
+        <td class="tg-c3ow">ησ</td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">primary<br>middle/<br>passive</td>
+        <td class="tg-0pky">χαρήσομαιυ6θ</td>
+      </tr>
+    </tbody>
+    </table><br/>
+ 
+
+**Table 7**  Master Verb Tense Chart - The Aorist Tenses
+
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart 7<br>Aorist tenses</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-f8tv"></td>
+        <td class="tg-fymr">Augment</td>
+        <td class="tg-fymr">Stem<br>Tense</td>
+        <td class="tg-fymr">Tense<br>Formative</td>
+        <td class="tg-fymr">Connecting<br>Vowel</td>
+        <td class="tg-fymr">Personal<br>Ending</td>
+        <td class="tg-fymr">first<br>Singular</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1st Aorist<br>Active</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Active</td>
+        <td class="tg-c3ow">σα</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Secondary<br>Active</td>
+        <td class="tg-0pky">ἔλυσα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Liquid Aorist<br>Active</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Active</td>
+        <td class="tg-c3ow">α</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Secondary<br>Active</td>
+        <td class="tg-0pky">ἔκρεινα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd Aorist<br>Active</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">Secondary<br>Active</td>
+        <td class="tg-0pky">ἔλαβον</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1st Aorist<br>Middle</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Active</td>
+        <td class="tg-c3ow">σα</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Secondary<br>middle/<br>passive</td>
+        <td class="tg-0pky">ἐλυσάμην</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd Aorist<br>Middle</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Active</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">ο / ε</td>
+        <td class="tg-0pky">Secondary<br>middle/<br>passive</td>
+        <td class="tg-0pky">ἐγενόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1st Aorist<br>Passive</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Passive</td>
+        <td class="tg-c3ow">θη</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Secondary<br>Active</td>
+        <td class="tg-0pky">ἐλύθην</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd Aorist <br>Passive</td>
+        <td class="tg-c3ow">ε</td>
+        <td class="tg-0pky">Aorist<br>Passive</td>
+        <td class="tg-c3ow">η</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Secondary<br>Active</td>
+        <td class="tg-0pky">ἐχάρην</td>
+      </tr>
+    </tbody>
+    </table></br>
 
 
 
