@@ -526,6 +526,71 @@ Verbs
     </table></br>
 
 
+**Table 8** - The Perfect Tenses
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart 8<br>Perfect Tenses</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-f8tv"></td>
+        <td class="tg-fymr">Reduplication</td>
+        <td class="tg-fymr">Stem<br>Tense</td>
+        <td class="tg-fymr">Tense<br>Formative</td>
+        <td class="tg-fymr">Connecting<br>Vowel</td>
+        <td class="tg-fymr">Personal<br>Ending</td>
+        <td class="tg-fymr">first<br>Singular</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">1st Perfect<br>Active</td>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-0pky">Perfect<br>Active</td>
+        <td class="tg-c3ow">κα</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Primary<br>Active</td>
+        <td class="tg-0pky">λέλυκα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">2nd Perfect<br>Active</td>
+        <td class="tg-c3ow">γε</td>
+        <td class="tg-0pky">Perfect<br>Active</td>
+        <td class="tg-c3ow">α</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Primary<br>Active</td>
+        <td class="tg-0pky">γέγραφα</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Perfect<br>Middle/<br>Passive</td>
+        <td class="tg-c3ow">λε</td>
+        <td class="tg-0pky">Perfect<br>Passive</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-0pky">Primary<br>Middle/<br>passive</td>
+        <td class="tg-0pky">λέλυμαι</td>
+      </tr>
+    </tbody>
+    </table><br/>
+
+
+
+
 
 Nouns
 -----
