@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 05282020  11.45)
+Master  (rev. 05282020  1.30)
 ------
 
 Case Endings
@@ -588,6 +588,8 @@ Verbs
     </tbody>
     </table><br/>
 
+**[Note]:**  Perfect tenses do not have an augment, but do experience reduplication of the initial consonant at the beginning of the word.
+The initial consonant is then followed by an episolon.  
 
 
 
