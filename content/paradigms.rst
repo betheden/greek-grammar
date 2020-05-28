@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master
+Master  (rev. 05282020  11.18)
 ------
 
 Case Endings
