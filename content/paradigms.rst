@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 05282020  11.30)
+Master  (rev. 05282020  11.45)
 ------
 
 Case Endings
@@ -180,7 +180,10 @@ Verbs
 
   * **Table 3**  Examples of Verb Tenses in English and Greek
   * **Table 4**  Primary and Secondary Endings
-  * **Table 5**  Master Verb Tense Chart (Present, Imperfect, and Future)
+  * **Table 5**  Master Verb Tense Chart - Present and Imperfect Tenses
+  * **Table 6**  Master Verb Tense Chart - The Future Tenses
+  * **Table 7**  Master Verb Tense Chart - The Aorist Tenses
+  * **Table 8**  Master Verb Tense Chart - The Perfect Tenses
 
 **Table 3** - Examples of Verb Tenses in English and Greek
 
@@ -256,7 +259,7 @@ Verbs
     </tbody>
     </table><br/>
 
-**Table 5** - Master Verb Tense Chart - Present, Imperfect, and Future
+**Table 5** - Master Verb Tense Chart - Present and Imperfect Tenses
 
 .. raw:: html
 
@@ -276,7 +279,7 @@ Verbs
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Present, Imperfect, and Future</th>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart 5<br>Present and Imperfect Tenses</th>
       </tr>
     </thead>
     <tbody>
@@ -325,74 +328,12 @@ Verbs
         <td class="tg-0pky">secondary<br>middle/<br>passive</td>
         <td class="tg-0pky">ἐλυόμην</td>
       </tr>
-      <tr>
-        <td class="tg-f8tv"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky"></td>
-        <td class="tg-0pky"></td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">Future Active</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">present</td>
-        <td class="tg-c3ow">σ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>active</td>
-        <td class="tg-0pky">λύσω</td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">Future Middle</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">present</td>
-        <td class="tg-c3ow">σ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>middle/<br>passive</td>
-        <td class="tg-0pky">λύσομαι</td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">Liquid Future<br>Active</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">present</td>
-        <td class="tg-c3ow">εσ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>active</td>
-        <td class="tg-0pky">κρινῶ</td>
-      </tr>
-       <tr>
-        <td class="tg-f8tv">Liquid Future<br>Middle</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">present</td>
-        <td class="tg-c3ow">εσ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>middle/<br>passive</td>
-        <td class="tg-0pky">κρινοῦμαι</td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">First Future<br>Passive</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">aorist passive</td>
-        <td class="tg-c3ow">θησ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>middle/<br>passive<br></td>
-        <td class="tg-0pky">λυθήσομαι</td>
-      </tr>
-      <tr>
-        <td class="tg-f8tv">Second Future<br>Passive</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-0pky">aorist passive</td>
-        <td class="tg-c3ow">ησ</td>
-        <td class="tg-c3ow">ο / ε</td>
-        <td class="tg-0pky">primary<br>middle/<br>passive</td>
-        <td class="tg-0pky">χαρήσομαιυ6θ</td>
       </tr>
     </tbody>
     </table><br/>
  
  
-**Table 6** - Master Verb Tense Chart - Future
+**Table 6** - Master Verb Tense Chart - Future Tenses
 
 .. raw:: html
 
@@ -412,7 +353,7 @@ Verbs
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-7btt" colspan="7">Master Verb Tense Chart<br>Future</th>
+        <th class="tg-7btt" colspan="7">Master Verb Tense Chart 6<br>Future Tenses</th>
       </tr>
     </thead>
     <tbody>
