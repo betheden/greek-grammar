@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 05282020  1.30)
+Master  (rev. 0603)
 ------
 
 Case Endings
@@ -418,7 +418,7 @@ Verbs
         <td class="tg-c3ow">ησ</td>
         <td class="tg-c3ow">ο / ε</td>
         <td class="tg-0pky">primary<br>middle/<br>passive</td>
-        <td class="tg-0pky">χαρήσομαιυ6θ</td>
+        <td class="tg-0pky">χαρήσομαι</td>
       </tr>
     </tbody>
     </table><br/>
@@ -475,7 +475,7 @@ Verbs
         <td class="tg-c3ow">α</td>
         <td class="tg-c3ow"></td>
         <td class="tg-0pky">Secondary<br>Active</td>
-        <td class="tg-0pky">ἔκρεινα</td>
+        <td class="tg-0pky">ἔκρινα</td>
       </tr>
       <tr>
         <td class="tg-f8tv">2nd Aorist<br>Active</td>
