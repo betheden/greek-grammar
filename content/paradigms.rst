@@ -246,7 +246,7 @@ Verbs
         <td class="tg-baqh">I was <br>walked</td>
         <td class="tg-baqh">I was<br>being walked</td>
         <td class="tg-baqh">I had<br>been walked</td>
-        <td class="tg-baqh">i am <br>being walked</td>
+        <td class="tg-baqh">I am <br>being walked</td>
         <td class="tg-baqh">I will<br>be walked</td>
       </tr>
       <tr>
@@ -589,7 +589,7 @@ Verbs
     </table><br/>
 
 **[Note]:**  Perfect tenses do not have an augment, but do experience reduplication of the initial consonant at the beginning of the word.
-The initial consonant is then followed by an episolon.  
+The initial consonant is then followed by an epsilon.  
 
 
 
