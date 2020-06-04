@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 0604.1109)
+Master  
 ------
 
 Case Endings
@@ -883,7 +883,7 @@ Contractions
         <td class="tg-0lax">α</td>
         <td class="tg-0lax">αι</td>
         <td class="tg-0lax">αυ</td>
-        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ω</td>
         <td class="tg-0lax">ω</td>
       </tr>
       <tr>
