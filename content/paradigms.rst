@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 0603)
+Master  (rev. 0604)
 ------
 
 Case Endings
@@ -179,7 +179,7 @@ Verbs
 ^^^^^
 
   * **Table 3**  Examples of Verb Tenses in English and Greek
-  * **Table 4**  Primary and Secondary Endings
+  * **Table 4**  Primary and Secondary Endings of Verbs
   * **Table 5**  Master Verb Tense Chart - Present and Imperfect Tenses
   * **Table 6**  Master Verb Tense Chart - The Future Tenses
   * **Table 7**  Master Verb Tense Chart - The Aorist Tenses
@@ -260,7 +260,7 @@ Verbs
     </table><br/>
 
 
-**Table 4**  Primary and Secondary Endings
+**Table 4**  Primary and Secondary Endings of Verbs
 
 .. raw:: html
 
@@ -287,7 +287,7 @@ Verbs
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-7btt" colspan="10">Primary and Secondary Endings&nbsp;&nbsp;<br>Table 4</th>
+        <th class="tg-7btt" colspan="10">Primary and Secondary Endings of Verbs&nbsp;&nbsp;<br>Table 4</th>
       </tr>
     </thead>
     <tbody>
@@ -499,7 +499,11 @@ Verbs
     </tbody>
     </table></br>
 
-
+[Note]
+  * The "-"  indicates there is no personal ending. 
+  * The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel "ο" which lenthens to an "ω".
+  * Third person plural ending - the "ν" drops out because followed by a sigma and the connecting vowel will lenthen to compensate for 
+  	the missing "ν".   Therefore,  λυ + ο + νσι  ->  λυ + ου + σι =  λύουσι.
 
 
 
