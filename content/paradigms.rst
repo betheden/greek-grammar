@@ -839,6 +839,96 @@ Verbs
 **[Note]:**  Perfect tenses do not have an augment, but do experience reduplication of the initial consonant at the beginning of the word.
 The initial consonant is then followed by an epsilon.  
 
+Contractions
+^^^^^^^^^^^^
+
+  * Table 9 - Contractions of Single Vowels
+  * Table 10 - Contractions of Vowels with Dipthongs
+  
+**Table 9** - Contractions of Single Vowels
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-7ivu{background-color:#fffc9e;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-baqh" colspan="8">Contractions of Single Vowels<br>Table 9</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-7ivu"></td>
+        <td class="tg-7ivu">α</td>
+        <td class="tg-7ivu">ε</td>
+        <td class="tg-7ivu">η</td>
+        <td class="tg-7ivu">ι</td>
+        <td class="tg-7ivu">υ</td>
+        <td class="tg-7ivu">ο</td>
+        <td class="tg-7ivu">ω</td>
+      </tr>
+      <tr>
+        <td class="tg-7ivu">α</td>
+        <td class="tg-0lax">α</td>
+        <td class="tg-0lax">α</td>
+        <td class="tg-0lax">α</td>
+        <td class="tg-0lax">αι</td>
+        <td class="tg-0lax">αυ</td>
+        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ω</td>
+      </tr>
+      <tr>
+        <td class="tg-7ivu">ε</td>
+        <td class="tg-0lax">η</td>
+        <td class="tg-0lax">ει</td>
+        <td class="tg-0lax">η</td>
+        <td class="tg-0lax">ει</td>
+        <td class="tg-0lax">ευ</td>
+        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ω</td>
+      </tr>
+      <tr>
+        <td class="tg-7ivu">η</td>
+        <td class="tg-0lax">η</td>
+        <td class="tg-0lax">η</td>
+        <td class="tg-0lax">η</td>
+        <td class="tg-0lax">ῃ</td>
+        <td class="tg-0lax">ηυ</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ω</td>
+      </tr>
+      <tr>
+        <td class="tg-7ivu">ο</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">οι</td>
+        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ου</td>
+        <td class="tg-0lax">ω</td>
+      </tr>
+      <tr>
+        <td class="tg-7ivu">ω</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ῳ</td>
+        <td class="tg-0lax">ωυ</td>
+        <td class="tg-0lax">ω</td>
+        <td class="tg-0lax">ω</td>
+      </tr>
+    </tbody>
+    </table><br/>
+
 
 
 
