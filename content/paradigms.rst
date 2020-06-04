@@ -5,7 +5,7 @@
 Paradigms
 =========
 
-Master  (rev. 0604.1058)
+Master  (rev. 0604.1109)
 ------
 
 Case Endings
@@ -392,7 +392,7 @@ Verbs
         <td class="tg-f8tv">3 plural</td>
         <td class="tg-c3ow">λύουσι (ν)</td>
         <td class="tg-0pky">ο</td>
-        <td class="tg-c3ow">νςι (ν)</td>
+        <td class="tg-c3ow">νσι (ν)</td>
         <td class="tg-c3ow">ασι (ν)</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">ἒλυον</td>
@@ -503,7 +503,7 @@ Verbs
   * The "-"  indicates there is no personal ending. 
   * The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel "ο" which lenthens to an "ω".
   * Third person plural ending - the "ν" drops out because it is followed by a sigma and the connecting vowel "o" lenthens to compensate
-    for the missing "v".  Therefore, λυ + ο + νσι     λυ + **ου** + **σι** ->     λύουσι
+    for the missing "v".  Therefore, λυ + ο + νσι  becomes   λυ + **ου** + **σι**    -> λύουσι
 
 
 
