@@ -98,13 +98,7 @@ Case Endings
       </tr>
       <tr>
         <td class="tg-f8tv">Plural</td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
-        <td class="tg-kt43"></td>
+        <td class="tg-kt43" colspan="7"></td>
       </tr>
       <tr>
         <td class="tg-xfvv">Nominative</td>
