@@ -21,7 +21,7 @@ Case Endings
         -The cells with a hyphen (-) indicate that there is no case ending.  
          The word ends with the theme vowel (or in some cases the theme vowel is lengthened). 
          
- .. image:: images/MC1_2.jpg  
+ 
  
  .. raw:: html
  
