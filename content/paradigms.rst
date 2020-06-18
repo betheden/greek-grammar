@@ -21,7 +21,134 @@ Case Endings
         -The cells with a hyphen (-) indicate that there is no case ending.  
          The word ends with the theme vowel (or in some cases the theme vowel is lengthened). 
          
- .. image:: images/MC1_2.jpg         
+ .. image:: images/MC1_2.jpg  
+ 
+ .. raw:: html
+ 
+     <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-mhv2{background-color:#fffc9e;border-color:inherit;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+    .tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-xfvv{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-4yb7{background-color:#ffffff;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+    .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    .tg .tg-kt43{background-color:#fffc9e;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-7btt" colspan="8">Master Case Endings<br>Table 1</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-mhv2" colspan="8">First and Second Declensions</td>
+      </tr>
+      <tr>
+        <td class="tg-4yb7">Singular</td>
+        <td class="tg-8bgf" colspan="2">2nd Declension<br>Masculine</td>
+        <td class="tg-8bgf" colspan="3">1st Declension<br>Feminine</td>
+        <td class="tg-8bgf" colspan="2">2nd Declension<br>Neuter</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Nominative</td>
+        <td class="tg-zlqz">ος</td>
+        <td class="tg-7btt">ς</td>
+        <td class="tg-zlqz">α</td>
+        <td class="tg-zlqz">η</td>
+        <td class="tg-7btt">-</td>
+        <td class="tg-zlqz">ον</td>
+        <td class="tg-7btt">ν</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Genitive</td>
+        <td class="tg-zlqz">ου</td>
+        <td class="tg-7btt">υ</td>
+        <td class="tg-zlqz">ας</td>
+        <td class="tg-zlqz">ης</td>
+        <td class="tg-7btt">ς</td>
+        <td class="tg-zlqz">ου</td>
+        <td class="tg-7btt">υ</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Dative</td>
+        <td class="tg-zlqz">ῳ</td>
+        <td class="tg-7btt">ι</td>
+        <td class="tg-zlqz">ᾳ</td>
+        <td class="tg-zlqz">ῃ</td>
+        <td class="tg-7btt">ι</td>
+        <td class="tg-zlqz">ῳ</td>
+        <td class="tg-7btt">ι</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Accusative</td>
+        <td class="tg-zlqz">ον</td>
+        <td class="tg-7btt">ν</td>
+        <td class="tg-zlqz">αν</td>
+        <td class="tg-zlqz">ην</td>
+        <td class="tg-7btt">ν</td>
+        <td class="tg-zlqz">ον</td>
+        <td class="tg-7btt">ν</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+        <td class="tg-kt43"></td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Nominative</td>
+        <td class="tg-zlqz">οι</td>
+        <td class="tg-7btt">ι</td>
+        <td class="tg-zlqz">αι</td>
+        <td class="tg-zlqz">αι</td>
+        <td class="tg-7btt">ι</td>
+        <td class="tg-zlqz">α</td>
+        <td class="tg-7btt">α</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Genitive</td>
+        <td class="tg-zlqz">ων</td>
+        <td class="tg-7btt">ων</td>
+        <td class="tg-zlqz">ων</td>
+        <td class="tg-zlqz">ων</td>
+        <td class="tg-7btt">ων</td>
+        <td class="tg-zlqz">ων</td>
+        <td class="tg-7btt">ων</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Dative</td>
+        <td class="tg-zlqz">οις</td>
+        <td class="tg-7btt">ις</td>
+        <td class="tg-zlqz">αις</td>
+        <td class="tg-zlqz">αις</td>
+        <td class="tg-7btt">ις</td>
+        <td class="tg-zlqz">οις</td>
+        <td class="tg-7btt">ις</td>
+      </tr>
+      <tr>
+        <td class="tg-xfvv">Accusative</td>
+        <td class="tg-zlqz">ους</td>
+        <td class="tg-7btt">υς</td>
+        <td class="tg-zlqz">ας</td>
+        <td class="tg-zlqz">ας</td>
+        <td class="tg-7btt">ς</td>
+        <td class="tg-zlqz">α</td>
+        <td class="tg-7btt">α</td>
+      </tr>
+    </tbody>
+    </table><br/>
+
 
 **Table 2**  Third Declension
 
