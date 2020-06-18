@@ -1127,9 +1127,9 @@ Contractions
 [Note: the shaded rows are for diphthongs that were formed by a contraction]
 The rules for combining a vowel with a dipthong are as follows:
 
-		1) a vowel disappears by absorbtion before a diphthong that begins with the same vowel.
-        2) When a vowel comes before a diphthong that does not begin with the same vowel, it is contracted with the dipthong's first vowel.  The dipthong's second vowel disappears, unless it is an iota (ι) in which case it becomes a subscript.
-        3) ο +ει and  ο + ῃ  make  οι
+  1) a vowel disappears by absorbtion before a diphthong that begins with the same vowel.
+  2) When a vowel comes before a diphthong that does not begin with the same vowel, it is contracted with the dipthong's first vowel.  The dipthong's second vowel disappears, unless it is an iota (ι) in which case it becomes a subscript.
+  3) ο +ει and  ο + ῃ  make  οι
 
 
 Nouns
