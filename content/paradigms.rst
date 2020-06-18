@@ -1050,7 +1050,86 @@ Contractions
     </tbody>
     </table><br/>
 
+**Table 10** - Contractions of Vowels with Diphthongs
 
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-w8l0{background-color:#fffc9e;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-u1yq{background-color:#c0c0c0;font-weight:bold;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-amwm" colspan="8">Contractions of Vowels and Diphthongs<br>Table 10</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-w8l0"></td>
+        <td class="tg-w8l0">α/αι</td>
+        <td class="tg-w8l0">ει</td>
+        <td class="tg-w8l0">ει</td>
+        <td class="tg-w8l0">ῃ</td>
+        <td class="tg-w8l0">οι</td>
+        <td class="tg-w8l0">ου</td>
+        <td class="tg-w8l0">ῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-w8l0">α</td>
+        <td class="tg-amwm">ᾳ</td>
+        <td class="tg-amwm">ᾳ</td>
+        <td class="tg-u1yq">ει</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-amwm">ῳ</td>
+        <td class="tg-u1yq">ω</td>
+        <td class="tg-amwm">ῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-w8l0">ε</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-amwm">ει</td>
+        <td class="tg-u1yq">ει</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-amwm">οι</td>
+        <td class="tg-u1yq">ου</td>
+        <td class="tg-amwm">ῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-w8l0">η</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-u1yq">ῃ</td>
+        <td class="tg-amwm">ῃ</td>
+        <td class="tg-amwm">ῳ</td>
+        <td class="tg-u1yq"></td>
+        <td class="tg-amwm">ῳ</td>
+      </tr>
+      <tr>
+        <td class="tg-w8l0">ο</td>
+        <td class="tg-amwm">ῳ</td>
+        <td class="tg-amwm">οι</td>
+        <td class="tg-u1yq">ου</td>
+        <td class="tg-amwm">οι</td>
+        <td class="tg-amwm">οι</td>
+        <td class="tg-u1yq">ου</td>
+        <td class="tg-amwm">ῳ</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
+[Note: the shaded rows are for diphthongs that were formed by a contraction]
+The rules for combining a vowel with a dipthong are as follows:
+
+		1) a vowel disappears by absorbtion before a diphthong that begins with the same vowel.
+        2) When a vowel comes before a diphthong that does not begin with the same vowel, it is contracted with the dipthong's first vowel.  The dipthong's second vowel disappears, unless it is an iota (ι) in which case it becomes a subscript.
+        3) ο +ει and  ο + ῃ  make  οι
 
 
 Nouns
