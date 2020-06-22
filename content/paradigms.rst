@@ -622,8 +622,8 @@ Verbs
 
 [Note]
   * The "-"  indicates there is no personal ending. 
-  * The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel "ο" which lenthens to an "ω".
-  * Third person plural ending - the "ν" drops out because it is followed by a sigma and the connecting vowel "o" lenthens to compensate
+  * The omega (ω) at the end of the first person singular verb is the lengthened connecting vowel "ο" which lengthens to an "ω".
+  * Third person plural ending - the "ν" drops out because it is followed by a sigma and the connecting vowel "o" lengthens to compensate
     for the missing "v".  Therefore, λυ + ο + νσι  becomes   λυ + **ου** + **σι**    -> λύουσι
 
 
