@@ -1138,7 +1138,7 @@ The rules for combining a vowel with a dipthong are as follows:
 **Table 11**  Square of Stops
 
 The following table shows common contractions that occur when the stem of a word ends in a **"stop"**.  A stop is a consonant whose sound
-is formed by stopping or slowing down the flow of air through the mouth.  Stops are classified as Labiel (formed by the lips), Velar (formed by
+is formed by stopping or slowing down the flow of air through the mouth.  Stops are classified as Labial (formed by the lips), Velar (formed by
 pushing the tongue against the roof of the mouth), of Dental (formed by the tongue against the teeth).
 
 The following chart shows what will happen when the stop is followed by either a sigma (σ) or a theta (θ).
@@ -1185,7 +1185,7 @@ The following chart shows what will happen when the stop is followed by either a
         <td class="tg-amwm">κ</td>
         <td class="tg-amwm">γ</td>
         <td class="tg-amwm">χ</td>
-        <td class="tg-4qgn">ζ</td>
+        <td class="tg-4qgn">ξ</td>
         <td class="tg-4qgn">χ</td>
      </tr>
      <tr>
