@@ -960,11 +960,12 @@ Verbs
 **[Note]:**  Perfect tenses do not have an augment, but do experience reduplication of the initial consonant at the beginning of the word.
 The initial consonant is then followed by an epsilon.  
 
-Contractions
-^^^^^^^^^^^^
+Contractions and Stops
+^^^^^^^^^^^^^^^^^^^^^^
 
   * Table 9 - Contractions of Single Vowels
   * Table 10 - Contractions of Vowels with Dipthongs
+  * Table 11 - Square of Stops
   
 **Table 9** - Contractions of Single Vowels
 
