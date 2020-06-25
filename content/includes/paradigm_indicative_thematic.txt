@@ -1,1 +1,93 @@
 paradigm_indicative_thematic
+
+
+**Table V-1**  Indicative (Present and Imperfect)
+
+[Note] - The middle and passive voices are presented together because they are identical in form. The reader (or translator) will have to make
+their decision as to the intended voice based on context.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+      <th class="tg-baqh" colspan="5">The Regular Verb (Present and Imperfect)<br><span style="font-weight:bold">λὐω</span><br>Table V-1</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax">Present<br>Active</td>
+        <td class="tg-0lax">Imperfect<br>Active</td>
+        <td class="tg-0lax">Present<br>middle/<br>passive</td>
+        <td class="tg-0lax">Imperfect<br>middle/<br>passive</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1 person</td>
+        <td class="tg-0lax">λὐω</td>
+        <td class="tg-0lax">ἔλυον</td>
+        <td class="tg-0lax">λύομαι</td>
+        <td class="tg-0lax">ἐλυόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 person</td>
+        <td class="tg-0lax">λὐεις</td>
+        <td class="tg-0lax">ἔλυες</td>
+        <td class="tg-0lax">λύῃ</td>
+        <td class="tg-0lax">ἐλύου</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 person</td>
+        <td class="tg-0lax">λὐει</td>
+        <td class="tg-0lax">ἔλυε(ν)</td>
+        <td class="tg-0lax">λύεται</td>
+        <td class="tg-0lax">ἐλύετο</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Plural</td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">1 person</td>
+        <td class="tg-0lax">λὐομεν</td>
+        <td class="tg-0lax">ἐλύομεν</td>
+        <td class="tg-0lax">λυόμεθα</td>
+        <td class="tg-0lax">ἐλυόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">2 person</td>
+        <td class="tg-0lax">λὐετε</td>
+        <td class="tg-0lax">ἐλύετε</td>
+        <td class="tg-0lax">λύεσθα</td>
+        <td class="tg-0lax">ἐλύεσθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">3 person</td>
+        <td class="tg-0lax">λὐουσι(ν)</td>
+        <td class="tg-0lax">ἔλυον</td>
+        <td class="tg-0lax">λύονται</td>
+        <td class="tg-0lax">ἐλύοντο</td>
+      </tr>
+    </tbody>
+    </table></br>
