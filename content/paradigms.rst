@@ -1134,6 +1134,72 @@ The rules for combining a vowel with a dipthong are as follows:
   5) ο +ει  and  ε + ου  (if they are formed from a contraction) make ου
 
 
+**Table 11**  Square of Stops
+
+The following table shows common contractions that occur when the stem of a word ends in a **"stop"**.  A stop is a consonant whose sound
+is formed by stopping or slowing down the flow of air through the mouth.  Stops are classified as Labiel (formed by the lips), Velar (formed by
+pushing the tongue against the roof of the mouth), of Dental (formed by the tongue against the teeth).
+
+The following chart shows what will happen when the stop is followed by either a sigma (σ) or a theta (θ).
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-4qgn{background-color:#fffe65;font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-glna{background-color:#fffe65;text-align:left;vertical-align:top}
+    .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-amwm" colspan="6">Square of Stops<br>Table 11</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax"></td>
+        <td class="tg-8zwo">Voiceless</td>
+        <td class="tg-8zwo">Voiced</td>
+        <td class="tg-8zwo">Aspirated</td>
+        <td class="tg-glna">+ σ</td>
+        <td class="tg-glna">+ θ</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Labial</td>
+        <td class="tg-amwm">π</td>
+        <td class="tg-amwm">β</td>
+        <td class="tg-amwm">φ</td>
+        <td class="tg-4qgn">ψ</td>
+        <td class="tg-4qgn">φ</td>
+      </tr>
+      <tr>
+        <td class="tg-8zwo">Velar</td>
+        <td class="tg-amwm">κ</td>
+        <td class="tg-amwm">γ</td>
+        <td class="tg-amwm">χ</td>
+        <td class="tg-4qgn">ζ</td>
+        <td class="tg-4qgn">χ</td>
+     </tr>
+     <tr>
+        <td class="tg-8zwo">Dental</td>
+        <td class="tg-amwm">τ</td>
+        <td class="tg-amwm">δ</td>
+        <td class="tg-amwm">θ</td>
+        <td class="tg-4qgn">σ</td>
+        <td class="tg-4qgn">σ</td>
+      </tr>
+    </tbody>
+    </table></br>
+
+
+
 Nouns
 -----
 
