@@ -1,7 +1,7 @@
 paradigm_indicative_thematic
 
 
-**Table V-1**  Indicative (Present and Imperfect)
+**Table V-IT-1**  Indicative Thematic Verbs built on the Present Tense Stem 
 
 [Note] - The middle and passive voices are presented together because they are identical in form. The reader (or translator) will have to make
 their decision as to the intended voice based on context.
@@ -91,3 +91,94 @@ their decision as to the intended voice based on context.
       </tr>
     </tbody>
     </table></br>
+
+**Table V-IT-2**  Indicative Thematic Verbs built on Future tense Stem
+[Note]  The passive voice is omitted in this table because it is based upon the Aorist Passive Stem.
+
+.. raw:: html
+
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="5">The Regular Verb (Future)<br>(Based on Future Tense Stem)<br>Table V-2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">Future<br>Active</td>
+        <td class="tg-0pky">Liquid<br>Future <br>Active</td>
+        <td class="tg-0pky">Future<br>middle<br></td>
+        <td class="tg-0pky">Liquid Future<br>Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">λὐσω</td>
+        <td class="tg-0pky">κρινῶ</td>
+        <td class="tg-0pky">λύσομαι</td>
+        <td class="tg-0pky">κρινοῦμαι</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">λὐσεις</td>
+        <td class="tg-0pky">κρινεῖς</td>
+        <td class="tg-0pky">λύσῃ</td>
+        <td class="tg-0pky">κρινῇ</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">λὐσει</td>
+        <td class="tg-0pky">κρινεῖ</td>
+        <td class="tg-0pky">λύσεται</td>
+        <td class="tg-0pky">κρινεῖται</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">λὐσομεν</td>
+        <td class="tg-0pky">κρινοῦμεν</td>
+        <td class="tg-0pky">λυσόμεθα</td>
+        <td class="tg-0pky">κρινούμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">λὐσετε</td>
+        <td class="tg-0pky">κρινεῖτε</td>
+        <td class="tg-0pky">λύσεσθα</td>
+        <td class="tg-0pky">κρινεῖσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">λὐσουσι(ν)</td>
+        <td class="tg-0pky">κρίνουσι(ν)</td>
+        <td class="tg-0pky">λύσονται</td>
+        <td class="tg-0pky">κρινοῦνται</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
+    
