@@ -182,3 +182,104 @@ their decision as to the intended voice based on context.
     </table></br>
     
     
+    **Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
+    
+    [Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
+    
+    .. raw:: html
+    
+        <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-hafo" colspan="6">The Regular Verb (Aorist)<br>(Based on AoristTense Stem)<br>Table V-IT-3 </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky">1st Aorist<br>Active</td>
+        <td class="tg-0pky">Liquid<br>Aorist <br>Active</td>
+        <td class="tg-0pky">2nd Aorist<br>Active</td>
+        <td class="tg-0pky">1st Aorist<br>Middle</td>
+        <td class="tg-0lax">2nd Aorist<br>Middle</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky"><span style="font-style:italic">Singular</span></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">ἔλυσα</td>
+        <td class="tg-0pky">ἔκρινα</td>
+        <td class="tg-0pky">ἔλαβον</td>
+        <td class="tg-0pky">ἐλυσάμην</td>
+        <td class="tg-0lax">ἐγενόμην</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἔλυσας</td>
+        <td class="tg-0pky">ἔκρινας</td>
+        <td class="tg-0pky">ἔλαβες</td>
+        <td class="tg-0pky">ἐλύσω</td>
+        <td class="tg-0lax">ἐγένου</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἔλυσε(ν)</td>
+        <td class="tg-0pky">ἔκρινε(ν)</td>
+        <td class="tg-0pky">ἔλαβε(ν)</td>
+        <td class="tg-0pky">ἐλύσατο</td>
+        <td class="tg-0lax">ἐγένετο</td>
+      </tr>
+      <tr>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-y6fn"></td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">1 person</td>
+        <td class="tg-0pky">ἐλύσαμεν</td>
+        <td class="tg-0pky">ἐκρίναμεν</td>
+        <td class="tg-0pky">ἐλάβομεν</td>
+        <td class="tg-0pky">ἐλυσάμεθα</td>
+        <td class="tg-0lax">ἐγενόμεθα</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">2 person</td>
+        <td class="tg-0pky">ἐλύσατε</td>
+        <td class="tg-0pky">ἐκρίνατε</td>
+        <td class="tg-0pky">ἐλάβετε</td>
+        <td class="tg-0pky">ἐλύσασθε</td>
+        <td class="tg-0lax">ἐγένεσθε</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">3 person</td>
+        <td class="tg-0pky">ἔλυσαν</td>
+        <td class="tg-0pky">ἔκριναν</td>
+        <td class="tg-0pky">ἔλαβον</td>
+        <td class="tg-0pky">ἐλύσαντο</td>
+        <td class="tg-0lax">ἐγένοντο</td>
+      </tr>
+    </tbody>
+    </table></br>
+    
