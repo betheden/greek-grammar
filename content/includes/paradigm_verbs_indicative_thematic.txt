@@ -182,11 +182,11 @@ their decision as to the intended voice based on context.
     </table></br>
     
     
-    **Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
+**Table V-IT-3** Indicative Verbs built on the Aorist Active Stem
     
-    [Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
+[Note]  The passive voice is omitted from this table because it is built on the Aorist Passive Stem.
     
-    .. raw:: html
+.. raw:: html
     
         <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
