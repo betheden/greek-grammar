@@ -24,6 +24,9 @@ an intransitive verb.
 A :ref:`Linking_Verb<verb_linking>`  does not express an action but connects the subject of the verb to additional information
 in the predicate.
 
+**Components of Verbs**
+~~~~~~~~~~~~~~~~~~~
+
 Verbs are made up of six basic components:
 
   *	The **root** which carries the basic meaning of the verb. 
@@ -39,6 +42,7 @@ Verbs must agree with the subject of the verb in both number and person.  Theref
 the verb itself and it is not necessary for it to be restated as a separate word. 
 
 **Parts**
+~~~~~~~~~
 
 Verbs are made up of :
   1.	The *root* is the most basic part of a word.  The root conveys the basic meaning of the word.  The root may be modified to make the word a noun, an adjective, a verb, or to indicate the tense of the verb.   
