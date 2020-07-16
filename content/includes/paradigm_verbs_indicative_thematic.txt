@@ -186,7 +186,7 @@ paradigm_verbs_indicative_thematic
         <td class="tg-c3ow">-οω</td>
       </tr>
       <tr>
-        <td class="tg-f8tv">1 person</td>
+        <td class="tg-f8tv">1_person</td>
         <td class="tg-0pky">ἔλυον</td>
         <td class="tg-0pky">ἐγέννων</td>
         <td class="tg-0pky">ἐποίουν</td>
