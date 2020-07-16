@@ -149,11 +149,11 @@ paradigm_verbs_indicative_thematic
       overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
       font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-llyw{background-color:#c0c0c0;border-color:inherit;text-align:left;vertical-align:top}
     .tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-0lax{text-align:left;vertical-align:top}
-    .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
-    .tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
     </style>
     <table class="tg">
     <thead>
@@ -163,104 +163,104 @@ paradigm_verbs_indicative_thematic
     </thead>
     <tbody>
       <tr>
-        <td class="tg-0lax"></td>
-        <td class="tg-baqh" colspan="4">Imperfect Active</td>
-        <td class="tg-baqh" colspan="4">Imperfect Middle/Passive</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="4">Imperfect Active</td>
+        <td class="tg-c3ow" colspan="4">Imperfect Middle/Passive</td>
       </tr>
       <tr>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax"></td>
-        <td class="tg-baqh" colspan="3">Contract</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-baqh" colspan="3">Contract</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="3">Contract</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow" colspan="3">Contract</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">Singular</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-baqh">-αω</td>
-        <td class="tg-baqh">-εω</td>
-        <td class="tg-baqh">-οω</td>
-        <td class="tg-baqh"></td>
-        <td class="tg-baqh">-αω</td>
-        <td class="tg-baqh">-εω</td>
-        <td class="tg-baqh">-οω</td>
+        <td class="tg-f8tv">Singular</td>
+        <td class="tg-0pky"></td>
+        <td class="tg-c3ow">-αω</td>
+        <td class="tg-c3ow">-εω</td>
+        <td class="tg-c3ow">-οω</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">-αω</td>
+        <td class="tg-c3ow">-εω</td>
+        <td class="tg-c3ow">-οω</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">1 person</td>
-        <td class="tg-0lax">ἔλυον</td>
-        <td class="tg-0lax">ἐγέννων</td>
-        <td class="tg-0lax">ἐποίουν</td>
-        <td class="tg-0lax">ἐπλήρουν</td>
-        <td class="tg-0lax">ἐλυόμην</td>
-        <td class="tg-0lax">ἐγεννώμην</td>
-        <td class="tg-0lax">ἐποιοῦμην</td>
-        <td class="tg-0lax">ἐπληρούμην</td>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἔλυον</td>
+        <td class="tg-0pky">ἐγέννων</td>
+        <td class="tg-0pky">ἐποίουν</td>
+        <td class="tg-0pky">ἐπλήρουν</td>
+        <td class="tg-0pky">ἐλυόμην</td>
+        <td class="tg-0pky">ἐγεννώμην</td>
+        <td class="tg-0pky">ἐποιοῦμην</td>
+        <td class="tg-0pky">ἐπληρούμην</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">2 person</td>
-        <td class="tg-0lax">ἔλυες</td>
-        <td class="tg-0lax">ἐγέννας</td>
-        <td class="tg-0lax">ἐποίεις</td>
-        <td class="tg-0lax">ἐπλήρους</td>
-        <td class="tg-0lax">ἐλύου</td>
-        <td class="tg-0lax">ἐγεννῶ</td>
-        <td class="tg-0lax">ἐποιοῦ</td>
-        <td class="tg-0lax">ἐπληροῦ</td>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἔλυες</td>
+        <td class="tg-0pky">ἐγέννας</td>
+        <td class="tg-0pky">ἐποίεις</td>
+        <td class="tg-0pky">ἐπλήρους</td>
+        <td class="tg-0pky">ἐλύου</td>
+        <td class="tg-0pky">ἐγεννῶ</td>
+        <td class="tg-0pky">ἐποιοῦ</td>
+        <td class="tg-0pky">ἐπληροῦ</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">3 person</td>
-        <td class="tg-0lax">ἔλυε(ν)</td>
-        <td class="tg-0lax">ἐγέννα</td>
-        <td class="tg-0lax">ἐποίει</td>
-        <td class="tg-0lax">ἐπλήρου</td>
-        <td class="tg-0lax">ἐλύετο</td>
-        <td class="tg-0lax">ἐγεννᾶτο</td>
-        <td class="tg-0lax">ἐποιεῖτο</td>
-        <td class="tg-0lax">ἐπληροῦτο</td>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἔλυε(ν)</td>
+        <td class="tg-0pky">ἐγέννα</td>
+        <td class="tg-0pky">ἐποίει</td>
+        <td class="tg-0pky">ἐπλήρου</td>
+        <td class="tg-0pky">ἐλύετο</td>
+        <td class="tg-0pky">ἐγεννᾶτο</td>
+        <td class="tg-0pky">ἐποιεῖτο</td>
+        <td class="tg-0pky">ἐπληροῦτο</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">Plural</td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
-        <td class="tg-y6fn"></td>
+        <td class="tg-f8tv">Plural</td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
+        <td class="tg-llyw"></td>
       </tr>
       <tr>
-        <td class="tg-8zwo">1 person</td>
-        <td class="tg-0lax">ἐλύομεν</td>
-        <td class="tg-0lax">ἐγεννῶμεν</td>
-        <td class="tg-0lax">ἐποιοῦμεν</td>
-        <td class="tg-0lax">ἐπληροῦμεν</td>
-        <td class="tg-0lax">ἐλυόμεθα</td>
-        <td class="tg-0lax">ἐγεννώμεθα</td>
-        <td class="tg-0lax">ἐποιούμεθα</td>
-        <td class="tg-0lax">ἐπληρούμεθα</td>
+        <td class="tg-f8tv">1 person</td>
+        <td class="tg-0pky">ἐλύομεν</td>
+        <td class="tg-0pky">ἐγεννῶμεν</td>
+        <td class="tg-0pky">ἐποιοῦμεν</td>
+        <td class="tg-0pky">ἐπληροῦμεν</td>
+        <td class="tg-0pky">ἐλυόμεθα</td>
+        <td class="tg-0pky">ἐγεννώμεθα</td>
+        <td class="tg-0pky">ἐποιούμεθα</td>
+        <td class="tg-0pky">ἐπληρούμεθα</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">2 person</td>
-        <td class="tg-0lax">ἐλύετε</td>
-        <td class="tg-0lax">ἐγεννᾶτε</td>
-        <td class="tg-0lax">ἐποιεῖτε</td>
-        <td class="tg-0lax">ἐπληροῦτε</td>
-        <td class="tg-0lax">ἐλύεσθε</td>
-        <td class="tg-0lax">ἐγεννᾶσθε</td>
-        <td class="tg-0lax">ἐποιεῖσθε</td>
-        <td class="tg-0lax">ἐπληροῦσθε</td>
+        <td class="tg-f8tv">2 person</td>
+        <td class="tg-0pky">ἐλύετε</td>
+        <td class="tg-0pky">ἐγεννᾶτε</td>
+        <td class="tg-0pky">ἐποιεῖτε</td>
+        <td class="tg-0pky">ἐπληροῦτε</td>
+        <td class="tg-0pky">ἐλύεσθε</td>
+        <td class="tg-0pky">ἐγεννᾶσθε</td>
+        <td class="tg-0pky">ἐποιεῖσθε</td>
+        <td class="tg-0pky">ἐπληροῦσθε</td>
       </tr>
       <tr>
-        <td class="tg-8zwo">3 person</td>
-        <td class="tg-0lax">ἔλυον</td>
-        <td class="tg-0lax">ἐγέννων</td>
-        <td class="tg-0lax">ἐποίυν</td>
-        <td class="tg-0lax">ἐπλήρουν</td>
-        <td class="tg-0lax">ἐλύοντο</td>
-        <td class="tg-0lax">ἐγεννῶντο</td>
-        <td class="tg-0lax">ἐποιοῦντο</td>
-        <td class="tg-0lax">ἐπληροῦντο</td>
+        <td class="tg-f8tv">3 person</td>
+        <td class="tg-0pky">ἔλυον</td>
+        <td class="tg-0pky">ἐγέννων</td>
+        <td class="tg-0pky">ἐποίυν</td>
+        <td class="tg-0pky">ἐπλήρουν</td>
+        <td class="tg-0pky">ἐλύοντο</td>
+        <td class="tg-0pky">ἐγεννῶντο</td>
+        <td class="tg-0pky">ἐποιοῦντο</td>
+        <td class="tg-0pky">ἐπληροῦντο</td>
       </tr>
     </tbody>
     </table></br>
